@@ -1,0 +1,4365 @@
+﻿iso3,country_vdem,year,head_of_government,government_change_dummy,head_of_government_tenure_years,average_government_duration_since_2000,government_changes_previous_5y
+AFG,Afghanistan,2000,,0,,,0
+AFG,Afghanistan,2001,,0,,,0
+AFG,Afghanistan,2002,,0,,,0
+AFG,Afghanistan,2003,,0,,,0
+AFG,Afghanistan,2004,,0,,,0
+AFG,Afghanistan,2005,,0,,,0
+AFG,Afghanistan,2006,,0,,,0
+AFG,Afghanistan,2007,,0,,,0
+AFG,Afghanistan,2008,,0,,,0
+AFG,Afghanistan,2009,,0,,,0
+AFG,Afghanistan,2010,,0,,,0
+AFG,Afghanistan,2011,,0,,,0
+AFG,Afghanistan,2012,,0,,,0
+AFG,Afghanistan,2013,,0,,,0
+AFG,Afghanistan,2014,,0,,,0
+AFG,Afghanistan,2015,,0,,,0
+AFG,Afghanistan,2016,,0,,,0
+AFG,Afghanistan,2017,,0,,,0
+AFG,Afghanistan,2018,,0,,,0
+AFG,Afghanistan,2019,,0,,,0
+AFG,Afghanistan,2020,,0,,,0
+AFG,Afghanistan,2021,Hassan Akhund,0,1.0,1.0,0
+AFG,Afghanistan,2022,Hassan Akhund,0,2.0,2.0,0
+AFG,Afghanistan,2023,Hassan Akhund,0,3.0,3.0,0
+AFG,Afghanistan,2024,Hassan Akhund,0,4.0,4.0,0
+AGO,Angola,2000,,0,,,0
+AGO,Angola,2001,,0,,,0
+AGO,Angola,2002,,0,,,0
+AGO,Angola,2003,,0,,,0
+AGO,Angola,2004,,0,,,0
+AGO,Angola,2005,,0,,,0
+AGO,Angola,2006,,0,,,0
+AGO,Angola,2007,,0,,,0
+AGO,Angola,2008,,0,,,0
+AGO,Angola,2009,,0,,,0
+AGO,Angola,2010,,0,,,0
+AGO,Angola,2011,,0,,,0
+AGO,Angola,2012,,0,,,0
+AGO,Angola,2013,,0,,,0
+AGO,Angola,2014,,0,,,0
+AGO,Angola,2015,,0,,,0
+AGO,Angola,2016,,0,,,0
+AGO,Angola,2017,,0,,,0
+AGO,Angola,2018,,0,,,0
+AGO,Angola,2019,,0,,,0
+AGO,Angola,2020,,0,,,0
+AGO,Angola,2021,,0,,,0
+AGO,Angola,2022,,0,,,0
+AGO,Angola,2023,,0,,,0
+AGO,Angola,2024,,0,,,0
+ALB,Albania,2000,Ilir Rexhep Meta,0,1.0,1.0,0
+ALB,Albania,2001,Ilir Rexhep Meta,0,2.0,2.0,0
+ALB,Albania,2002,Fatos Thanas Nano,1,1.0,1.5,0
+ALB,Albania,2003,Fatos Thanas Nano,0,2.0,2.0,1
+ALB,Albania,2004,Fatos Thanas Nano,0,3.0,2.5,1
+ALB,Albania,2005,Sali Berisha,1,1.0,2.0,1
+ALB,Albania,2006,Sali Berisha,0,2.0,2.3333333333333335,2
+ALB,Albania,2007,Sali Berisha,0,3.0,2.6666666666666665,2
+ALB,Albania,2008,Sali Berisha,0,4.0,3.0,1
+ALB,Albania,2009,Sali Berisha,0,5.0,3.3333333333333335,1
+ALB,Albania,2010,Sali Berisha,0,6.0,3.6666666666666665,1
+ALB,Albania,2011,Sali Berisha,0,7.0,4.0,0
+ALB,Albania,2012,Sali Berisha,0,8.0,4.333333333333333,0
+ALB,Albania,2013,Edi Rama,1,1.0,3.5,0
+ALB,Albania,2014,Edi Rama,0,2.0,3.75,1
+ALB,Albania,2015,Edi Rama,0,3.0,4.0,1
+ALB,Albania,2016,Edi Rama,0,4.0,4.25,1
+ALB,Albania,2017,Edi Rama,0,5.0,4.5,1
+ALB,Albania,2018,Edi Rama,0,6.0,4.75,1
+ALB,Albania,2019,Edi Rama,0,7.0,5.0,0
+ALB,Albania,2020,Edi Rama,0,8.0,5.25,0
+ALB,Albania,2021,Edi Rama,0,9.0,5.5,0
+ALB,Albania,2022,Edi Rama,0,10.0,5.75,0
+ALB,Albania,2023,Edi Rama,0,11.0,6.0,0
+ALB,Albania,2024,Edi Rama,0,12.0,6.25,0
+ARE,United Arab Emirates,2000,Sheikh Maktum III ibn Rashid Al Maktum,0,1.0,1.0,0
+ARE,United Arab Emirates,2001,Sheikh Maktum III ibn Rashid Al Maktum,0,2.0,2.0,0
+ARE,United Arab Emirates,2002,Sheikh Maktum III ibn Rashid Al Maktum,0,3.0,3.0,0
+ARE,United Arab Emirates,2003,Sheikh Maktum III ibn Rashid Al Maktum,0,4.0,4.0,0
+ARE,United Arab Emirates,2004,Sheikh Maktum III ibn Rashid Al Maktum,0,5.0,5.0,0
+ARE,United Arab Emirates,2005,Sheikh Maktum III ibn Rashid Al Maktum,0,6.0,6.0,0
+ARE,United Arab Emirates,2006,Sheikh Mohammed bin Rashid Al Maktoum,1,1.0,3.5,0
+ARE,United Arab Emirates,2007,Sheikh Mohammed bin Rashid Al Maktoum,0,2.0,4.0,1
+ARE,United Arab Emirates,2008,Sheikh Mohammed bin Rashid Al Maktoum,0,3.0,4.5,1
+ARE,United Arab Emirates,2009,Sheikh Mohammed bin Rashid Al Maktoum,0,4.0,5.0,1
+ARE,United Arab Emirates,2010,Sheikh Mohammed bin Rashid Al Maktoum,0,5.0,5.5,1
+ARE,United Arab Emirates,2011,Sheikh Mohammed bin Rashid Al Maktoum,0,6.0,6.0,1
+ARE,United Arab Emirates,2012,Sheikh Mohammed bin Rashid Al Maktoum,0,7.0,6.5,0
+ARE,United Arab Emirates,2013,Sheikh Mohammed bin Rashid Al Maktoum,0,8.0,7.0,0
+ARE,United Arab Emirates,2014,Sheikh Mohammed bin Rashid Al Maktoum,0,9.0,7.5,0
+ARE,United Arab Emirates,2015,Sheikh Mohammed bin Rashid Al Maktoum,0,10.0,8.0,0
+ARE,United Arab Emirates,2016,Sheikh Mohammed bin Rashid Al Maktoum,0,11.0,8.5,0
+ARE,United Arab Emirates,2017,Sheikh Mohammed bin Rashid Al Maktoum,0,12.0,9.0,0
+ARE,United Arab Emirates,2018,Sheikh Mohammed bin Rashid Al Maktoum,0,13.0,9.5,0
+ARE,United Arab Emirates,2019,Sheikh Mohammed bin Rashid Al Maktoum,0,14.0,10.0,0
+ARE,United Arab Emirates,2020,Sheikh Mohammed bin Rashid Al Maktoum,0,15.0,10.5,0
+ARE,United Arab Emirates,2021,Sheikh Mohammed bin Rashid Al Maktoum,0,16.0,11.0,0
+ARE,United Arab Emirates,2022,Sheikh Mohammed bin Rashid Al Maktoum,0,17.0,11.5,0
+ARE,United Arab Emirates,2023,Sheikh Mohammed bin Rashid Al Maktoum,0,18.0,12.0,0
+ARE,United Arab Emirates,2024,Sheikh Mohammed bin Rashid Al Maktoum,0,19.0,12.5,0
+ARG,Argentina,2000,,0,,,0
+ARG,Argentina,2001,,0,,,0
+ARG,Argentina,2002,,0,,,0
+ARG,Argentina,2003,,0,,,0
+ARG,Argentina,2004,,0,,,0
+ARG,Argentina,2005,,0,,,0
+ARG,Argentina,2006,,0,,,0
+ARG,Argentina,2007,,0,,,0
+ARG,Argentina,2008,,0,,,0
+ARG,Argentina,2009,,0,,,0
+ARG,Argentina,2010,,0,,,0
+ARG,Argentina,2011,,0,,,0
+ARG,Argentina,2012,,0,,,0
+ARG,Argentina,2013,,0,,,0
+ARG,Argentina,2014,,0,,,0
+ARG,Argentina,2015,,0,,,0
+ARG,Argentina,2016,,0,,,0
+ARG,Argentina,2017,,0,,,0
+ARG,Argentina,2018,,0,,,0
+ARG,Argentina,2019,,0,,,0
+ARG,Argentina,2020,,0,,,0
+ARG,Argentina,2021,,0,,,0
+ARG,Argentina,2022,,0,,,0
+ARG,Argentina,2023,,0,,,0
+ARG,Argentina,2024,,0,,,0
+ARM,Armenia,2000,Andranik Nakhapeti Margaryan,0,1.0,1.0,0
+ARM,Armenia,2001,Andranik Nakhapeti Margaryan,0,2.0,2.0,0
+ARM,Armenia,2002,Andranik Nakhapeti Margaryan,0,3.0,3.0,0
+ARM,Armenia,2003,Andranik Nakhapeti Margaryan,0,4.0,4.0,0
+ARM,Armenia,2004,Andranik Nakhapeti Margaryan,0,5.0,5.0,0
+ARM,Armenia,2005,Andranik Nakhapeti Margaryan,0,6.0,6.0,0
+ARM,Armenia,2006,Andranik Nakhapeti Margaryan,0,7.0,7.0,0
+ARM,Armenia,2007,Serzh Azati Sargsyan,1,1.0,4.0,0
+ARM,Armenia,2008,Tigran Sureni Sargsyan,1,1.0,3.0,1
+ARM,Armenia,2009,Tigran Sureni Sargsyan,0,2.0,3.3333333333333335,2
+ARM,Armenia,2010,Tigran Sureni Sargsyan,0,3.0,3.6666666666666665,2
+ARM,Armenia,2011,Tigran Sureni Sargsyan,0,4.0,4.0,2
+ARM,Armenia,2012,Tigran Sureni Sargsyan,0,5.0,4.333333333333333,2
+ARM,Armenia,2013,Tigran Sureni Sargsyan,0,6.0,4.666666666666667,1
+ARM,Armenia,2014,Hovik Abrahamyan,1,1.0,3.75,0
+ARM,Armenia,2015,Hovik Abrahamyan,0,2.0,4.0,1
+ARM,Armenia,2016,Karen Vilhelmi Karapetyan,1,1.0,3.4,1
+ARM,Armenia,2017,Karen Vilhelmi Karapetyan,0,2.0,3.6,2
+ARM,Armenia,2018,Nikol Pashinyan,1,1.0,3.1666666666666665,2
+ARM,Armenia,2019,Nikol Pashinyan,0,2.0,3.3333333333333335,3
+ARM,Armenia,2020,Nikol Pashinyan,0,3.0,3.5,2
+ARM,Armenia,2021,Nikol Pashinyan,0,4.0,3.6666666666666665,2
+ARM,Armenia,2022,Nikol Pashinyan,0,5.0,3.8333333333333335,1
+ARM,Armenia,2023,Nikol Pashinyan,0,6.0,4.0,1
+ARM,Armenia,2024,Nikol Pashinyan,0,7.0,4.166666666666667,0
+AUS,Australia,2000,John Winston Howard,0,1.0,1.0,0
+AUS,Australia,2001,John Winston Howard,0,2.0,2.0,0
+AUS,Australia,2002,John Winston Howard,0,3.0,3.0,0
+AUS,Australia,2003,John Winston Howard,0,4.0,4.0,0
+AUS,Australia,2004,John Winston Howard,0,5.0,5.0,0
+AUS,Australia,2005,John Winston Howard,0,6.0,6.0,0
+AUS,Australia,2006,John Winston Howard,0,7.0,7.0,0
+AUS,Australia,2007,Kevin Michael Rudd,1,1.0,4.0,0
+AUS,Australia,2008,Kevin Michael Rudd,0,2.0,4.5,1
+AUS,Australia,2009,Kevin Michael Rudd,0,3.0,5.0,1
+AUS,Australia,2010,Julia Eileen Gillard,1,1.0,3.6666666666666665,1
+AUS,Australia,2011,Julia Eileen Gillard,0,2.0,4.0,2
+AUS,Australia,2012,Julia Eileen Gillard,0,3.0,4.333333333333333,2
+AUS,Australia,2013,Anthony Abbott,1,1.0,3.5,1
+AUS,Australia,2014,Anthony Abbott,0,2.0,3.75,2
+AUS,Australia,2015,Malcolm Turnbull,1,1.0,3.2,2
+AUS,Australia,2016,Malcolm Turnbull,0,2.0,3.4,2
+AUS,Australia,2017,Malcolm Turnbull,0,3.0,3.6,2
+AUS,Australia,2018,Scott Morrison,1,1.0,3.1666666666666665,2
+AUS,Australia,2019,Scott Morrison,0,2.0,3.3333333333333335,2
+AUS,Australia,2020,Scott Morrison,0,3.0,3.5,2
+AUS,Australia,2021,Scott Morrison,0,4.0,3.6666666666666665,1
+AUS,Australia,2022,Anthony Albanese,1,1.0,3.2857142857142856,1
+AUS,Australia,2023,Anthony Albanese,0,2.0,3.4285714285714284,2
+AUS,Australia,2024,Anthony Albanese,0,3.0,3.5714285714285716,1
+AUT,Austria,2000,Wolfgang Schüssel,0,1.0,1.0,0
+AUT,Austria,2001,Wolfgang Schüssel,0,2.0,2.0,0
+AUT,Austria,2002,Wolfgang Schüssel,0,3.0,3.0,0
+AUT,Austria,2003,Wolfgang Schüssel,0,4.0,4.0,0
+AUT,Austria,2004,Wolfgang Schüssel,0,5.0,5.0,0
+AUT,Austria,2005,Wolfgang Schüssel,0,6.0,6.0,0
+AUT,Austria,2006,Wolfgang Schüssel,0,7.0,7.0,0
+AUT,Austria,2007,Alfred Gusenbauer,1,1.0,4.0,0
+AUT,Austria,2008,Werner Faymann,1,1.0,3.0,1
+AUT,Austria,2009,Werner Faymann,0,2.0,3.3333333333333335,2
+AUT,Austria,2010,Werner Faymann,0,3.0,3.6666666666666665,2
+AUT,Austria,2011,Werner Faymann,0,4.0,4.0,2
+AUT,Austria,2012,Werner Faymann,0,5.0,4.333333333333333,2
+AUT,Austria,2013,Werner Faymann,0,6.0,4.666666666666667,1
+AUT,Austria,2014,Werner Faymann,0,7.0,5.0,0
+AUT,Austria,2015,Werner Faymann,0,8.0,5.333333333333333,0
+AUT,Austria,2016,Christian Kern,1,1.0,4.25,0
+AUT,Austria,2017,Sebastian Kurz,1,1.0,3.6,1
+AUT,Austria,2018,Sebastian Kurz,0,2.0,3.8,2
+AUT,Austria,2019,Brigitte Bierlein,1,1.0,3.3333333333333335,2
+AUT,Austria,2020,Sebastian Kurz,1,1.0,3.0,3
+AUT,Austria,2021,Karl Nehammer,1,1.0,2.75,4
+AUT,Austria,2022,Karl Nehammer,0,2.0,2.875,4
+AUT,Austria,2023,Karl Nehammer,0,3.0,3.0,3
+AUT,Austria,2024,Karl Nehammer,0,4.0,3.125,3
+AZE,Azerbaijan,2000,Artur Tairogly Rasizade,0,1.0,1.0,0
+AZE,Azerbaijan,2001,Artur Tairogly Rasizade,0,2.0,2.0,0
+AZE,Azerbaijan,2002,Artur Tairogly Rasizade,0,3.0,3.0,0
+AZE,Azerbaijan,2003,Artur Tairogly Rasizade,0,4.0,4.0,0
+AZE,Azerbaijan,2004,Artur Tairogly Rasizade,0,5.0,5.0,0
+AZE,Azerbaijan,2005,Artur Tairogly Rasizade,0,6.0,6.0,0
+AZE,Azerbaijan,2006,Artur Tairogly Rasizade,0,7.0,7.0,0
+AZE,Azerbaijan,2007,Artur Tairogly Rasizade,0,8.0,8.0,0
+AZE,Azerbaijan,2008,Artur Tairogly Rasizade,0,9.0,9.0,0
+AZE,Azerbaijan,2009,Artur Tairogly Rasizade,0,10.0,10.0,0
+AZE,Azerbaijan,2010,Artur Tairogly Rasizade,0,11.0,11.0,0
+AZE,Azerbaijan,2011,Artur Tairogly Rasizade,0,12.0,12.0,0
+AZE,Azerbaijan,2012,Artur Tairogly Rasizade,0,13.0,13.0,0
+AZE,Azerbaijan,2013,Artur Tairogly Rasizade,0,14.0,14.0,0
+AZE,Azerbaijan,2014,Artur Tairogly Rasizade,0,15.0,15.0,0
+AZE,Azerbaijan,2015,Artur Tairogly Rasizade,0,16.0,16.0,0
+AZE,Azerbaijan,2016,Artur Tairogly Rasizade,0,17.0,17.0,0
+AZE,Azerbaijan,2017,Artur Tairogly Rasizade,0,18.0,18.0,0
+AZE,Azerbaijan,2018,Novruz Mammadov,1,1.0,9.5,0
+AZE,Azerbaijan,2019,Ali Asadov,1,1.0,6.666666666666667,1
+AZE,Azerbaijan,2020,Ali Asadov,0,2.0,7.0,2
+AZE,Azerbaijan,2021,Ali Asadov,0,3.0,7.333333333333333,2
+AZE,Azerbaijan,2022,Ali Asadov,0,4.0,7.666666666666667,2
+AZE,Azerbaijan,2023,Ali Asadov,0,5.0,8.0,2
+AZE,Azerbaijan,2024,Ali Asadov,0,6.0,8.333333333333334,1
+BDI,Burundi,2000,,0,,,0
+BDI,Burundi,2001,,0,,,0
+BDI,Burundi,2002,,0,,,0
+BDI,Burundi,2003,,0,,,0
+BDI,Burundi,2004,,0,,,0
+BDI,Burundi,2005,,0,,,0
+BDI,Burundi,2006,,0,,,0
+BDI,Burundi,2007,,0,,,0
+BDI,Burundi,2008,,0,,,0
+BDI,Burundi,2009,,0,,,0
+BDI,Burundi,2010,,0,,,0
+BDI,Burundi,2011,,0,,,0
+BDI,Burundi,2012,,0,,,0
+BDI,Burundi,2013,,0,,,0
+BDI,Burundi,2014,,0,,,0
+BDI,Burundi,2015,,0,,,0
+BDI,Burundi,2016,,0,,,0
+BDI,Burundi,2017,,0,,,0
+BDI,Burundi,2018,,0,,,0
+BDI,Burundi,2019,,0,,,0
+BDI,Burundi,2020,Alain-Guillaume Bunyoni,0,1.0,1.0,0
+BDI,Burundi,2021,Alain-Guillaume Bunyoni,0,2.0,2.0,0
+BDI,Burundi,2022,Gervais Ndirakobuca,1,1.0,1.5,0
+BDI,Burundi,2023,Gervais Ndirakobuca,0,2.0,2.0,1
+BDI,Burundi,2024,Gervais Ndirakobuca,0,3.0,2.5,1
+BEL,Belgium,2000,Guy Maurice Marie-Louise Verhofstadt,0,1.0,1.0,0
+BEL,Belgium,2001,Guy Maurice Marie-Louise Verhofstadt,0,2.0,2.0,0
+BEL,Belgium,2002,Guy Maurice Marie-Louise Verhofstadt,0,3.0,3.0,0
+BEL,Belgium,2003,Guy Maurice Marie-Louise Verhofstadt,0,4.0,4.0,0
+BEL,Belgium,2004,Guy Maurice Marie-Louise Verhofstadt,0,5.0,5.0,0
+BEL,Belgium,2005,Guy Maurice Marie-Louise Verhofstadt,0,6.0,6.0,0
+BEL,Belgium,2006,Guy Maurice Marie-Louise Verhofstadt,0,7.0,7.0,0
+BEL,Belgium,2007,Guy Maurice Marie-Louise Verhofstadt,0,8.0,8.0,0
+BEL,Belgium,2008,Herman Achille Van Rompuy,1,1.0,4.5,0
+BEL,Belgium,2009,Yves Camille Désiré Leterme,1,1.0,3.3333333333333335,1
+BEL,Belgium,2010,Yves Camille Désiré Leterme,0,2.0,3.6666666666666665,2
+BEL,Belgium,2011,Elio Di Rupo,1,1.0,3.0,2
+BEL,Belgium,2012,Elio Di Rupo,0,2.0,3.25,3
+BEL,Belgium,2013,Elio Di Rupo,0,3.0,3.5,3
+BEL,Belgium,2014,Charles Michel,1,1.0,3.0,2
+BEL,Belgium,2015,Charles Michel,0,2.0,3.2,2
+BEL,Belgium,2016,Charles Michel,0,3.0,3.4,2
+BEL,Belgium,2017,Charles Michel,0,4.0,3.6,1
+BEL,Belgium,2018,Charles Michel,0,5.0,3.8,1
+BEL,Belgium,2019,Sophie Wilmès,1,1.0,3.3333333333333335,1
+BEL,Belgium,2020,Alexander De Croo,1,1.0,3.0,1
+BEL,Belgium,2021,Alexander De Croo,0,2.0,3.142857142857143,2
+BEL,Belgium,2022,Alexander De Croo,0,3.0,3.2857142857142856,2
+BEL,Belgium,2023,Alexander De Croo,0,4.0,3.4285714285714284,2
+BEL,Belgium,2024,Alexander De Croo,0,5.0,3.5714285714285716,2
+BEN,Benin,2000,,0,,,0
+BEN,Benin,2001,,0,,,0
+BEN,Benin,2002,,0,,,0
+BEN,Benin,2003,,0,,,0
+BEN,Benin,2004,,0,,,0
+BEN,Benin,2005,,0,,,0
+BEN,Benin,2006,,0,,,0
+BEN,Benin,2007,,0,,,0
+BEN,Benin,2008,,0,,,0
+BEN,Benin,2009,,0,,,0
+BEN,Benin,2010,,0,,,0
+BEN,Benin,2011,,0,,,0
+BEN,Benin,2012,,0,,,0
+BEN,Benin,2013,,0,,,0
+BEN,Benin,2014,,0,,,0
+BEN,Benin,2015,,0,,,0
+BEN,Benin,2016,,0,,,0
+BEN,Benin,2017,,0,,,0
+BEN,Benin,2018,,0,,,0
+BEN,Benin,2019,,0,,,0
+BEN,Benin,2020,,0,,,0
+BEN,Benin,2021,,0,,,0
+BEN,Benin,2022,,0,,,0
+BEN,Benin,2023,,0,,,0
+BEN,Benin,2024,,0,,,0
+BFA,Burkina Faso,2000,Paramanga Ernest Yonli,0,1.0,1.0,0
+BFA,Burkina Faso,2001,Paramanga Ernest Yonli,0,2.0,2.0,0
+BFA,Burkina Faso,2002,Paramanga Ernest Yonli,0,3.0,3.0,0
+BFA,Burkina Faso,2003,Paramanga Ernest Yonli,0,4.0,4.0,0
+BFA,Burkina Faso,2004,Paramanga Ernest Yonli,0,5.0,5.0,0
+BFA,Burkina Faso,2005,Paramanga Ernest Yonli,0,6.0,6.0,0
+BFA,Burkina Faso,2006,Paramanga Ernest Yonli,0,7.0,7.0,0
+BFA,Burkina Faso,2007,Tertius Zongo,1,1.0,4.0,0
+BFA,Burkina Faso,2008,Tertius Zongo,0,2.0,4.5,1
+BFA,Burkina Faso,2009,Tertius Zongo,0,3.0,5.0,1
+BFA,Burkina Faso,2010,Tertius Zongo,0,4.0,5.5,1
+BFA,Burkina Faso,2011,Luc Adolphe Tiao,1,1.0,4.0,1
+BFA,Burkina Faso,2012,Luc Adolphe Tiao,0,2.0,4.333333333333333,2
+BFA,Burkina Faso,2013,Luc Adolphe Tiao,0,3.0,4.666666666666667,1
+BFA,Burkina Faso,2014,Isaac Yacouba Zida,1,1.0,3.75,1
+BFA,Burkina Faso,2015,Isaac Yacouba Zida,0,2.0,4.0,2
+BFA,Burkina Faso,2016,Paul Kaba Thieba,1,1.0,3.4,2
+BFA,Burkina Faso,2017,Paul Kaba Thieba,0,2.0,3.6,2
+BFA,Burkina Faso,2018,Paul Kaba Thieba,0,3.0,3.8,2
+BFA,Burkina Faso,2019,Christophe Joseph Marie Dabiré,1,1.0,3.3333333333333335,2
+BFA,Burkina Faso,2020,Christophe Joseph Marie Dabiré,0,2.0,3.5,2
+BFA,Burkina Faso,2021,Lassina Zerbo,1,1.0,3.142857142857143,2
+BFA,Burkina Faso,2022,Apollinaire Joachim Kyélem de Tambèla,1,1.0,2.875,2
+BFA,Burkina Faso,2023,Apollinaire Joachim Kyélem de Tambèla,0,2.0,3.0,3
+BFA,Burkina Faso,2024,Rimtalba Jean Emmanuel Ouédraogo,1,1.0,2.7777777777777777,3
+BGD,Bangladesh,2000,Sheikh Hasina Wajed,0,1.0,1.0,0
+BGD,Bangladesh,2001,Khaleda Zia,1,1.0,1.0,0
+BGD,Bangladesh,2002,Khaleda Zia,0,2.0,1.5,1
+BGD,Bangladesh,2003,Khaleda Zia,0,3.0,2.0,1
+BGD,Bangladesh,2004,Khaleda Zia,0,4.0,2.5,1
+BGD,Bangladesh,2005,Khaleda Zia,0,5.0,3.0,1
+BGD,Bangladesh,2006,Khaleda Zia,0,6.0,3.5,1
+BGD,Bangladesh,2007,Fakhruddin Ahmed,1,1.0,2.6666666666666665,0
+BGD,Bangladesh,2008,Fakhruddin Ahmed,0,2.0,3.0,1
+BGD,Bangladesh,2009,Sheikh Hasina Wajed,1,1.0,2.5,1
+BGD,Bangladesh,2010,Sheikh Hasina Wajed,0,2.0,2.75,2
+BGD,Bangladesh,2011,Sheikh Hasina Wajed,0,3.0,3.0,2
+BGD,Bangladesh,2012,Sheikh Hasina Wajed,0,4.0,3.25,2
+BGD,Bangladesh,2013,Sheikh Hasina Wajed,0,5.0,3.5,1
+BGD,Bangladesh,2014,Sheikh Hasina Wajed,0,6.0,3.75,1
+BGD,Bangladesh,2015,Sheikh Hasina Wajed,0,7.0,4.0,0
+BGD,Bangladesh,2016,Sheikh Hasina Wajed,0,8.0,4.25,0
+BGD,Bangladesh,2017,Sheikh Hasina Wajed,0,9.0,4.5,0
+BGD,Bangladesh,2018,Sheikh Hasina Wajed,0,10.0,4.75,0
+BGD,Bangladesh,2019,Sheikh Hasina Wajed,0,11.0,5.0,0
+BGD,Bangladesh,2020,Sheikh Hasina Wajed,0,12.0,5.25,0
+BGD,Bangladesh,2021,Sheikh Hasina Wajed,0,13.0,5.5,0
+BGD,Bangladesh,2022,Sheikh Hasina Wajed,0,14.0,5.75,0
+BGD,Bangladesh,2023,Sheikh Hasina Wajed,0,15.0,6.0,0
+BGD,Bangladesh,2024,Mohammad Yunus,1,1.0,5.0,0
+BGR,Bulgaria,2000,Ivan Yordanov Kostov,0,1.0,1.0,0
+BGR,Bulgaria,2001,Simeon Borisov Sakskoburggotski,1,1.0,1.0,0
+BGR,Bulgaria,2002,Simeon Borisov Sakskoburggotski,0,2.0,1.5,1
+BGR,Bulgaria,2003,Simeon Borisov Sakskoburggotski,0,3.0,2.0,1
+BGR,Bulgaria,2004,Simeon Borisov Sakskoburggotski,0,4.0,2.5,1
+BGR,Bulgaria,2005,Sergey Dimitryvich Stanishev,1,1.0,2.0,1
+BGR,Bulgaria,2006,Sergey Dimitryvich Stanishev,0,2.0,2.3333333333333335,2
+BGR,Bulgaria,2007,Sergey Dimitryvich Stanishev,0,3.0,2.6666666666666665,1
+BGR,Bulgaria,2008,Sergey Dimitryvich Stanishev,0,4.0,3.0,1
+BGR,Bulgaria,2009,Boyko Metodiev Borisov,1,1.0,2.5,1
+BGR,Bulgaria,2010,Boyko Metodiev Borisov,0,2.0,2.75,2
+BGR,Bulgaria,2011,Boyko Metodiev Borisov,0,3.0,3.0,1
+BGR,Bulgaria,2012,Boyko Metodiev Borisov,0,4.0,3.25,1
+BGR,Bulgaria,2013,Plamen Vasilev Oresharski,1,1.0,2.8,1
+BGR,Bulgaria,2014,Boyko Metodiev Borisov,1,1.0,2.5,2
+BGR,Bulgaria,2015,Boyko Metodiev Borisov,0,2.0,2.6666666666666665,2
+BGR,Bulgaria,2016,Boyko Metodiev Borisov,0,3.0,2.8333333333333335,2
+BGR,Bulgaria,2017,Boyko Metodiev Borisov,0,4.0,3.0,2
+BGR,Bulgaria,2018,Boyko Metodiev Borisov,0,5.0,3.1666666666666665,2
+BGR,Bulgaria,2019,Boyko Metodiev Borisov,0,6.0,3.3333333333333335,1
+BGR,Bulgaria,2020,Boyko Metodiev Borisov,0,7.0,3.5,0
+BGR,Bulgaria,2021,Kiril Petkov,1,1.0,3.142857142857143,0
+BGR,Bulgaria,2022,Galab Donev,1,1.0,2.875,1
+BGR,Bulgaria,2023,Nikolai Denkov,1,1.0,2.6666666666666665,2
+BGR,Bulgaria,2024,Dimităr Borisov Glavchev,1,1.0,2.5,3
+BHR,Bahrain,2000,Prince Khalifa bin Salman Al Khalifa,0,1.0,1.0,0
+BHR,Bahrain,2001,Prince Khalifa bin Salman Al Khalifa,0,2.0,2.0,0
+BHR,Bahrain,2002,Prince Khalifa bin Salman Al Khalifa,0,3.0,3.0,0
+BHR,Bahrain,2003,Prince Khalifa bin Salman Al Khalifa,0,4.0,4.0,0
+BHR,Bahrain,2004,Prince Khalifa bin Salman Al Khalifa,0,5.0,5.0,0
+BHR,Bahrain,2005,Prince Khalifa bin Salman Al Khalifa,0,6.0,6.0,0
+BHR,Bahrain,2006,Prince Khalifa bin Salman Al Khalifa,0,7.0,7.0,0
+BHR,Bahrain,2007,Prince Khalifa bin Salman Al Khalifa,0,8.0,8.0,0
+BHR,Bahrain,2008,Prince Khalifa bin Salman Al Khalifa,0,9.0,9.0,0
+BHR,Bahrain,2009,Prince Khalifa bin Salman Al Khalifa,0,10.0,10.0,0
+BHR,Bahrain,2010,Prince Khalifa bin Salman Al Khalifa,0,11.0,11.0,0
+BHR,Bahrain,2011,Prince Khalifa bin Salman Al Khalifa,0,12.0,12.0,0
+BHR,Bahrain,2012,Prince Khalifa bin Salman Al Khalifa,0,13.0,13.0,0
+BHR,Bahrain,2013,Prince Khalifa bin Salman Al Khalifa,0,14.0,14.0,0
+BHR,Bahrain,2014,Prince Khalifa bin Salman Al Khalifa,0,15.0,15.0,0
+BHR,Bahrain,2015,Prince Khalifa bin Salman Al Khalifa,0,16.0,16.0,0
+BHR,Bahrain,2016,Prince Khalifa bin Salman Al Khalifa,0,17.0,17.0,0
+BHR,Bahrain,2017,Prince Khalifa bin Salman Al Khalifa,0,18.0,18.0,0
+BHR,Bahrain,2018,Prince Khalifa bin Salman Al Khalifa,0,19.0,19.0,0
+BHR,Bahrain,2019,Prince Khalifa bin Salman Al Khalifa,0,20.0,20.0,0
+BHR,Bahrain,2020,Salman bin Hamad Al Khalifa,1,1.0,10.5,0
+BHR,Bahrain,2021,Salman bin Hamad Al Khalifa,0,2.0,11.0,1
+BHR,Bahrain,2022,Salman bin Hamad Al Khalifa,0,3.0,11.5,1
+BHR,Bahrain,2023,Salman bin Hamad Al Khalifa,0,4.0,12.0,1
+BHR,Bahrain,2024,Salman bin Hamad Al Khalifa,0,5.0,12.5,1
+BIH,Bosnia and Herzegovina,2000,Martin Raguž,0,1.0,1.0,0
+BIH,Bosnia and Herzegovina,2001,Zlatko Lagumdžija,1,1.0,1.0,0
+BIH,Bosnia and Herzegovina,2002,Adnan Terzić,1,1.0,1.0,1
+BIH,Bosnia and Herzegovina,2003,Adnan Terzić,0,2.0,1.3333333333333333,2
+BIH,Bosnia and Herzegovina,2004,Adnan Terzić,0,3.0,1.6666666666666667,2
+BIH,Bosnia and Herzegovina,2005,Adnan Terzić,0,4.0,2.0,2
+BIH,Bosnia and Herzegovina,2006,Adnan Terzić,0,5.0,2.3333333333333335,2
+BIH,Bosnia and Herzegovina,2007,Nikola Špirić,1,1.0,2.0,1
+BIH,Bosnia and Herzegovina,2008,Nikola Špirić,0,2.0,2.25,1
+BIH,Bosnia and Herzegovina,2009,Nikola Špirić,0,3.0,2.5,1
+BIH,Bosnia and Herzegovina,2010,Nikola Špirić,0,4.0,2.75,1
+BIH,Bosnia and Herzegovina,2011,Nikola Špirić,0,5.0,3.0,1
+BIH,Bosnia and Herzegovina,2012,Vjekoslav Bevanda,1,1.0,2.6,1
+BIH,Bosnia and Herzegovina,2013,Vjekoslav Bevanda,0,2.0,2.8,1
+BIH,Bosnia and Herzegovina,2014,Vjekoslav Bevanda,0,3.0,3.0,1
+BIH,Bosnia and Herzegovina,2015,Denis Zvizdić,1,1.0,2.6666666666666665,1
+BIH,Bosnia and Herzegovina,2016,Denis Zvizdić,0,2.0,2.8333333333333335,2
+BIH,Bosnia and Herzegovina,2017,Denis Zvizdić,0,3.0,3.0,2
+BIH,Bosnia and Herzegovina,2018,Denis Zvizdić,0,4.0,3.1666666666666665,1
+BIH,Bosnia and Herzegovina,2019,Zoran Tegeltija,1,1.0,2.857142857142857,1
+BIH,Bosnia and Herzegovina,2020,Zoran Tegeltija,0,2.0,3.0,2
+BIH,Bosnia and Herzegovina,2021,Zoran Tegeltija,0,3.0,3.142857142857143,1
+BIH,Bosnia and Herzegovina,2022,Zoran Tegeltija,0,4.0,3.2857142857142856,1
+BIH,Bosnia and Herzegovina,2023,Borjana Krišto,1,1.0,3.0,1
+BIH,Bosnia and Herzegovina,2024,Borjana Krišto,0,2.0,3.125,2
+BLR,Belarus,2000,Uladzimir Vasilyevich Jarmoshyn,0,1.0,1.0,0
+BLR,Belarus,2001,Henadz Vasilyevich Navitski,1,1.0,1.0,0
+BLR,Belarus,2002,Henadz Vasilyevich Navitski,0,2.0,1.5,1
+BLR,Belarus,2003,Syarhey Syarheyevich Sidorski,1,1.0,1.3333333333333333,1
+BLR,Belarus,2004,Syarhey Syarheyevich Sidorski,0,2.0,1.6666666666666667,2
+BLR,Belarus,2005,Syarhey Syarheyevich Sidorski,0,3.0,2.0,2
+BLR,Belarus,2006,Syarhey Syarheyevich Sidorski,0,4.0,2.3333333333333335,2
+BLR,Belarus,2007,Syarhey Syarheyevich Sidorski,0,5.0,2.6666666666666665,1
+BLR,Belarus,2008,Syarhey Syarheyevich Sidorski,0,6.0,3.0,1
+BLR,Belarus,2009,Syarhey Syarheyevich Sidorski,0,7.0,3.3333333333333335,0
+BLR,Belarus,2010,Mikhail Uladzimiravich Myasnikovich,1,1.0,2.75,0
+BLR,Belarus,2011,Mikhail Uladzimiravich Myasnikovich,0,2.0,3.0,1
+BLR,Belarus,2012,Mikhail Uladzimiravich Myasnikovich,0,3.0,3.25,1
+BLR,Belarus,2013,Mikhail Uladzimiravich Myasnikovich,0,4.0,3.5,1
+BLR,Belarus,2014,Andrey Uladzimiravich Kabyakow,1,1.0,3.0,1
+BLR,Belarus,2015,Andrey Uladzimiravich Kabyakow,0,2.0,3.2,2
+BLR,Belarus,2016,Andrey Uladzimiravich Kabyakow,0,3.0,3.4,1
+BLR,Belarus,2017,Andrey Uladzimiravich Kabyakow,0,4.0,3.6,1
+BLR,Belarus,2018,Sergei Rumas,1,1.0,3.1666666666666665,1
+BLR,Belarus,2019,Sergei Rumas,0,2.0,3.3333333333333335,2
+BLR,Belarus,2020,Roman Alexandrovich Golovchenko,1,1.0,3.0,1
+BLR,Belarus,2021,Roman Alexandrovich Golovchenko,0,2.0,3.142857142857143,2
+BLR,Belarus,2022,Roman Alexandrovich Golovchenko,0,3.0,3.2857142857142856,2
+BLR,Belarus,2023,Roman Alexandrovich Golovchenko,0,4.0,3.4285714285714284,2
+BLR,Belarus,2024,Roman Alexandrovich Golovchenko,0,5.0,3.5714285714285716,1
+BOL,Bolivia,2000,,0,,,0
+BOL,Bolivia,2001,,0,,,0
+BOL,Bolivia,2002,,0,,,0
+BOL,Bolivia,2003,,0,,,0
+BOL,Bolivia,2004,,0,,,0
+BOL,Bolivia,2005,,0,,,0
+BOL,Bolivia,2006,,0,,,0
+BOL,Bolivia,2007,,0,,,0
+BOL,Bolivia,2008,,0,,,0
+BOL,Bolivia,2009,,0,,,0
+BOL,Bolivia,2010,,0,,,0
+BOL,Bolivia,2011,,0,,,0
+BOL,Bolivia,2012,,0,,,0
+BOL,Bolivia,2013,,0,,,0
+BOL,Bolivia,2014,,0,,,0
+BOL,Bolivia,2015,,0,,,0
+BOL,Bolivia,2016,,0,,,0
+BOL,Bolivia,2017,,0,,,0
+BOL,Bolivia,2018,,0,,,0
+BOL,Bolivia,2019,,0,,,0
+BOL,Bolivia,2020,,0,,,0
+BOL,Bolivia,2021,,0,,,0
+BOL,Bolivia,2022,,0,,,0
+BOL,Bolivia,2023,,0,,,0
+BOL,Bolivia,2024,,0,,,0
+BRA,Brazil,2000,,0,,,0
+BRA,Brazil,2001,,0,,,0
+BRA,Brazil,2002,,0,,,0
+BRA,Brazil,2003,,0,,,0
+BRA,Brazil,2004,,0,,,0
+BRA,Brazil,2005,,0,,,0
+BRA,Brazil,2006,,0,,,0
+BRA,Brazil,2007,,0,,,0
+BRA,Brazil,2008,,0,,,0
+BRA,Brazil,2009,,0,,,0
+BRA,Brazil,2010,,0,,,0
+BRA,Brazil,2011,,0,,,0
+BRA,Brazil,2012,,0,,,0
+BRA,Brazil,2013,,0,,,0
+BRA,Brazil,2014,,0,,,0
+BRA,Brazil,2015,,0,,,0
+BRA,Brazil,2016,,0,,,0
+BRA,Brazil,2017,,0,,,0
+BRA,Brazil,2018,,0,,,0
+BRA,Brazil,2019,,0,,,0
+BRA,Brazil,2020,,0,,,0
+BRA,Brazil,2021,,0,,,0
+BRA,Brazil,2022,,0,,,0
+BRA,Brazil,2023,,0,,,0
+BRA,Brazil,2024,,0,,,0
+BRB,Barbados,2000,Owen Seymour Arthur,0,1.0,1.0,0
+BRB,Barbados,2001,Owen Seymour Arthur,0,2.0,2.0,0
+BRB,Barbados,2002,Owen Seymour Arthur,0,3.0,3.0,0
+BRB,Barbados,2003,Owen Seymour Arthur,0,4.0,4.0,0
+BRB,Barbados,2004,Owen Seymour Arthur,0,5.0,5.0,0
+BRB,Barbados,2005,Owen Seymour Arthur,0,6.0,6.0,0
+BRB,Barbados,2006,Owen Seymour Arthur,0,7.0,7.0,0
+BRB,Barbados,2007,Owen Seymour Arthur,0,8.0,8.0,0
+BRB,Barbados,2008,David Thompson,1,1.0,4.5,0
+BRB,Barbados,2009,David Thompson,0,2.0,5.0,1
+BRB,Barbados,2010,Freundel Stuart,1,1.0,3.6666666666666665,1
+BRB,Barbados,2011,Freundel Stuart,0,2.0,4.0,2
+BRB,Barbados,2012,Freundel Stuart,0,3.0,4.333333333333333,2
+BRB,Barbados,2013,Freundel Stuart,0,4.0,4.666666666666667,2
+BRB,Barbados,2014,Freundel Stuart,0,5.0,5.0,1
+BRB,Barbados,2015,Freundel Stuart,0,6.0,5.333333333333333,1
+BRB,Barbados,2016,Freundel Stuart,0,7.0,5.666666666666667,0
+BRB,Barbados,2017,Freundel Stuart,0,8.0,6.0,0
+BRB,Barbados,2018,Mia Amor Mottley,1,1.0,4.75,0
+BRB,Barbados,2019,Mia Amor Mottley,0,2.0,5.0,1
+BRB,Barbados,2020,Mia Amor Mottley,0,3.0,5.25,1
+BRB,Barbados,2021,Mia Amor Mottley,0,4.0,5.5,1
+BRB,Barbados,2022,Mia Amor Mottley,0,5.0,5.75,1
+BRB,Barbados,2023,Mia Amor Mottley,0,6.0,6.0,1
+BRB,Barbados,2024,Mia Amor Mottley,0,7.0,6.25,0
+BTN,Bhutan,2000,Lyonpo Yeshey Zimba,0,1.0,1.0,0
+BTN,Bhutan,2001,Lyonpo Khandu Wangchuk,1,1.0,1.0,0
+BTN,Bhutan,2002,Lyonpo Kinzang Dorji,1,1.0,1.0,1
+BTN,Bhutan,2003,Lyonpo Jigmi Thinley,1,1.0,1.0,2
+BTN,Bhutan,2004,Lyonpo Yeshey Zimba,1,1.0,1.0,3
+BTN,Bhutan,2005,Lyonpo Sangay Ngedup,1,1.0,1.0,4
+BTN,Bhutan,2006,Lyonpo Khandu Wangchuk,1,1.0,1.0,5
+BTN,Bhutan,2007,Lyonpo Kinzang Dorji,1,1.0,1.0,5
+BTN,Bhutan,2008,Lyonchen Jigmi Thinley,1,1.0,1.0,5
+BTN,Bhutan,2009,Lyonchen Jigmi Thinley,0,2.0,1.1111111111111112,5
+BTN,Bhutan,2010,Lyonchen Jigmi Thinley,0,3.0,1.2222222222222223,4
+BTN,Bhutan,2011,Lyonchen Jigmi Thinley,0,4.0,1.3333333333333333,3
+BTN,Bhutan,2012,Lyonchen Jigmi Thinley,0,5.0,1.4444444444444444,2
+BTN,Bhutan,2013,Lyonchen Tshering Tobgay,1,1.0,1.4,1
+BTN,Bhutan,2014,Lyonchen Tshering Tobgay,0,2.0,1.5,1
+BTN,Bhutan,2015,Lyonchen Tshering Tobgay,0,3.0,1.6,1
+BTN,Bhutan,2016,Lyonchen Tshering Tobgay,0,4.0,1.7,1
+BTN,Bhutan,2017,Lyonchen Tshering Tobgay,0,5.0,1.8,1
+BTN,Bhutan,2018,Lotay Tshering,1,1.0,1.7272727272727273,1
+BTN,Bhutan,2019,Lotay Tshering,0,2.0,1.8181818181818181,1
+BTN,Bhutan,2020,Lotay Tshering,0,3.0,1.9090909090909092,1
+BTN,Bhutan,2021,Lotay Tshering,0,4.0,2.0,1
+BTN,Bhutan,2022,Lotay Tshering,0,5.0,2.090909090909091,1
+BTN,Bhutan,2023,Chogyal Dago Rigdzin,1,1.0,2.0,1
+BTN,Bhutan,2024,Tshering Tobgay,1,1.0,1.9230769230769231,1
+BWA,Botswana,2000,,0,,,0
+BWA,Botswana,2001,,0,,,0
+BWA,Botswana,2002,,0,,,0
+BWA,Botswana,2003,,0,,,0
+BWA,Botswana,2004,,0,,,0
+BWA,Botswana,2005,,0,,,0
+BWA,Botswana,2006,,0,,,0
+BWA,Botswana,2007,,0,,,0
+BWA,Botswana,2008,,0,,,0
+BWA,Botswana,2009,,0,,,0
+BWA,Botswana,2010,,0,,,0
+BWA,Botswana,2011,,0,,,0
+BWA,Botswana,2012,,0,,,0
+BWA,Botswana,2013,,0,,,0
+BWA,Botswana,2014,,0,,,0
+BWA,Botswana,2015,,0,,,0
+BWA,Botswana,2016,,0,,,0
+BWA,Botswana,2017,,0,,,0
+BWA,Botswana,2018,,0,,,0
+BWA,Botswana,2019,,0,,,0
+BWA,Botswana,2020,,0,,,0
+BWA,Botswana,2021,,0,,,0
+BWA,Botswana,2022,,0,,,0
+BWA,Botswana,2023,,0,,,0
+BWA,Botswana,2024,,0,,,0
+CAF,Central African Republic,2000,Anicet-Georges Dologuélé,0,1.0,1.0,0
+CAF,Central African Republic,2001,Martin Ziguélé,1,1.0,1.0,0
+CAF,Central African Republic,2002,Martin Ziguélé,0,2.0,1.5,1
+CAF,Central African Republic,2003,Célestin Leroy Gaombalet,1,1.0,1.3333333333333333,1
+CAF,Central African Republic,2004,Célestin Leroy Gaombalet,0,2.0,1.6666666666666667,2
+CAF,Central African Republic,2005,Élie Doté,1,1.0,1.5,2
+CAF,Central African Republic,2006,Élie Doté,0,2.0,1.75,3
+CAF,Central African Republic,2007,Élie Doté,0,3.0,2.0,2
+CAF,Central African Republic,2008,Faustin-Archange Touadéra,1,1.0,1.8,2
+CAF,Central African Republic,2009,Faustin-Archange Touadéra,0,2.0,2.0,2
+CAF,Central African Republic,2010,Faustin-Archange Touadéra,0,3.0,2.2,2
+CAF,Central African Republic,2011,Faustin-Archange Touadéra,0,4.0,2.4,1
+CAF,Central African Republic,2012,Faustin-Archange Touadéra,0,5.0,2.6,1
+CAF,Central African Republic,2013,Nicolas Tiangaye,1,1.0,2.3333333333333335,1
+CAF,Central African Republic,2014,Mahamat Kamoun,1,1.0,2.142857142857143,1
+CAF,Central African Republic,2015,Mahamat Kamoun,0,2.0,2.2857142857142856,2
+CAF,Central African Republic,2016,Simplice Sarandji,1,1.0,2.125,2
+CAF,Central African Republic,2017,Simplice Sarandji,0,2.0,2.25,3
+CAF,Central African Republic,2018,Simplice Sarandji,0,3.0,2.375,3
+CAF,Central African Republic,2019,Firmin Ngrébada,1,1.0,2.2222222222222223,2
+CAF,Central African Republic,2020,Firmin Ngrébada,0,2.0,2.3333333333333335,2
+CAF,Central African Republic,2021,Henri Marie Dondra,1,1.0,2.2,2
+CAF,Central African Republic,2022,Félix Moloua,1,1.0,2.090909090909091,2
+CAF,Central African Republic,2023,Félix Moloua,0,2.0,2.1818181818181817,3
+CAF,Central African Republic,2024,Félix Moloua,0,3.0,2.272727272727273,3
+CAN,Canada,2000,Joseph Jacques Jean Chrétien,0,1.0,1.0,0
+CAN,Canada,2001,Joseph Jacques Jean Chrétien,0,2.0,2.0,0
+CAN,Canada,2002,Joseph Jacques Jean Chrétien,0,3.0,3.0,0
+CAN,Canada,2003,Paul Martin Jr.,1,1.0,2.0,0
+CAN,Canada,2004,Paul Martin Jr.,0,2.0,2.5,1
+CAN,Canada,2005,Paul Martin Jr.,0,3.0,3.0,1
+CAN,Canada,2006,Stephen Harper,1,1.0,2.3333333333333335,1
+CAN,Canada,2007,Stephen Harper,0,2.0,2.6666666666666665,2
+CAN,Canada,2008,Stephen Harper,0,3.0,3.0,2
+CAN,Canada,2009,Stephen Harper,0,4.0,3.3333333333333335,1
+CAN,Canada,2010,Stephen Harper,0,5.0,3.6666666666666665,1
+CAN,Canada,2011,Stephen Harper,0,6.0,4.0,1
+CAN,Canada,2012,Stephen Harper,0,7.0,4.333333333333333,0
+CAN,Canada,2013,Stephen Harper,0,8.0,4.666666666666667,0
+CAN,Canada,2014,Stephen Harper,0,9.0,5.0,0
+CAN,Canada,2015,Justin Trudeau,1,1.0,4.0,0
+CAN,Canada,2016,Justin Trudeau,0,2.0,4.25,1
+CAN,Canada,2017,Justin Trudeau,0,3.0,4.5,1
+CAN,Canada,2018,Justin Trudeau,0,4.0,4.75,1
+CAN,Canada,2019,Justin Trudeau,0,5.0,5.0,1
+CAN,Canada,2020,Justin Trudeau,0,6.0,5.25,1
+CAN,Canada,2021,Justin Trudeau,0,7.0,5.5,0
+CAN,Canada,2022,Justin Trudeau,0,8.0,5.75,0
+CAN,Canada,2023,Justin Trudeau,0,9.0,6.0,0
+CAN,Canada,2024,Justin Trudeau,0,10.0,6.25,0
+CHE,Switzerland,2000,,0,,,0
+CHE,Switzerland,2001,,0,,,0
+CHE,Switzerland,2002,,0,,,0
+CHE,Switzerland,2003,,0,,,0
+CHE,Switzerland,2004,,0,,,0
+CHE,Switzerland,2005,,0,,,0
+CHE,Switzerland,2006,,0,,,0
+CHE,Switzerland,2007,,0,,,0
+CHE,Switzerland,2008,,0,,,0
+CHE,Switzerland,2009,,0,,,0
+CHE,Switzerland,2010,,0,,,0
+CHE,Switzerland,2011,,0,,,0
+CHE,Switzerland,2012,,0,,,0
+CHE,Switzerland,2013,,0,,,0
+CHE,Switzerland,2014,,0,,,0
+CHE,Switzerland,2015,,0,,,0
+CHE,Switzerland,2016,,0,,,0
+CHE,Switzerland,2017,,0,,,0
+CHE,Switzerland,2018,,0,,,0
+CHE,Switzerland,2019,,0,,,0
+CHE,Switzerland,2020,,0,,,0
+CHE,Switzerland,2021,,0,,,0
+CHE,Switzerland,2022,,0,,,0
+CHE,Switzerland,2023,,0,,,0
+CHE,Switzerland,2024,,0,,,0
+CHL,Chile,2000,,0,,,0
+CHL,Chile,2001,,0,,,0
+CHL,Chile,2002,,0,,,0
+CHL,Chile,2003,,0,,,0
+CHL,Chile,2004,,0,,,0
+CHL,Chile,2005,,0,,,0
+CHL,Chile,2006,,0,,,0
+CHL,Chile,2007,,0,,,0
+CHL,Chile,2008,,0,,,0
+CHL,Chile,2009,,0,,,0
+CHL,Chile,2010,,0,,,0
+CHL,Chile,2011,,0,,,0
+CHL,Chile,2012,,0,,,0
+CHL,Chile,2013,,0,,,0
+CHL,Chile,2014,,0,,,0
+CHL,Chile,2015,,0,,,0
+CHL,Chile,2016,,0,,,0
+CHL,Chile,2017,,0,,,0
+CHL,Chile,2018,,0,,,0
+CHL,Chile,2019,,0,,,0
+CHL,Chile,2020,,0,,,0
+CHL,Chile,2021,,0,,,0
+CHL,Chile,2022,,0,,,0
+CHL,Chile,2023,,0,,,0
+CHL,Chile,2024,,0,,,0
+CHN,China,2000,Zhu Rongji,0,1.0,1.0,0
+CHN,China,2001,Zhu Rongji,0,2.0,2.0,0
+CHN,China,2002,Zhu Rongji,0,3.0,3.0,0
+CHN,China,2003,Wen Jiabao,1,1.0,2.0,0
+CHN,China,2004,Wen Jiabao,0,2.0,2.5,1
+CHN,China,2005,Wen Jiabao,0,3.0,3.0,1
+CHN,China,2006,Wen Jiabao,0,4.0,3.5,1
+CHN,China,2007,Wen Jiabao,0,5.0,4.0,1
+CHN,China,2008,Wen Jiabao,0,6.0,4.5,1
+CHN,China,2009,Wen Jiabao,0,7.0,5.0,0
+CHN,China,2010,Wen Jiabao,0,8.0,5.5,0
+CHN,China,2011,Wen Jiabao,0,9.0,6.0,0
+CHN,China,2012,Wen Jiabao,0,10.0,6.5,0
+CHN,China,2013,Li Keqiang,1,1.0,4.666666666666667,0
+CHN,China,2014,Li Keqiang,0,2.0,5.0,1
+CHN,China,2015,Li Keqiang,0,3.0,5.333333333333333,1
+CHN,China,2016,Li Keqiang,0,4.0,5.666666666666667,1
+CHN,China,2017,Li Keqiang,0,5.0,6.0,1
+CHN,China,2018,Li Keqiang,0,6.0,6.333333333333333,1
+CHN,China,2019,Li Keqiang,0,7.0,6.666666666666667,0
+CHN,China,2020,Li Keqiang,0,8.0,7.0,0
+CHN,China,2021,Li Keqiang,0,9.0,7.333333333333333,0
+CHN,China,2022,Li Keqiang,0,10.0,7.666666666666667,0
+CHN,China,2023,Li Qiang,1,1.0,6.0,0
+CHN,China,2024,Li Qiang,0,2.0,6.25,1
+CIV,Ivory Coast,2000,Pascal Affi N'Guessan,0,1.0,1.0,0
+CIV,Ivory Coast,2001,Pascal Affi N'Guessan,0,2.0,2.0,0
+CIV,Ivory Coast,2002,Pascal Affi N'Guessan,0,3.0,3.0,0
+CIV,Ivory Coast,2003,Seydou Elimane Diarra,1,1.0,2.0,0
+CIV,Ivory Coast,2004,Seydou Elimane Diarra,0,2.0,2.5,1
+CIV,Ivory Coast,2005,Charles Konan Banny,1,1.0,2.0,1
+CIV,Ivory Coast,2006,Charles Konan Banny,0,2.0,2.3333333333333335,2
+CIV,Ivory Coast,2007,Guillaume Kigbafori Soro,1,1.0,2.0,2
+CIV,Ivory Coast,2008,Guillaume Kigbafori Soro,0,2.0,2.25,3
+CIV,Ivory Coast,2009,Guillaume Kigbafori Soro,0,3.0,2.5,2
+CIV,Ivory Coast,2010,Gilbert Marie N'gbo Aké,1,1.0,2.2,2
+CIV,Ivory Coast,2011,Guillaume Kigbafori Soro,1,1.0,2.0,2
+CIV,Ivory Coast,2012,Daniel Kablan Duncan,1,1.0,1.8571428571428572,3
+CIV,Ivory Coast,2013,Daniel Kablan Duncan,0,2.0,2.0,3
+CIV,Ivory Coast,2014,Daniel Kablan Duncan,0,3.0,2.142857142857143,3
+CIV,Ivory Coast,2015,Daniel Kablan Duncan,0,4.0,2.2857142857142856,3
+CIV,Ivory Coast,2016,Daniel Kablan Duncan,0,5.0,2.4285714285714284,2
+CIV,Ivory Coast,2017,Amadou Gon Coulibaly,1,1.0,2.25,1
+CIV,Ivory Coast,2018,Amadou Gon Coulibaly,0,2.0,2.375,1
+CIV,Ivory Coast,2019,Amadou Gon Coulibaly,0,3.0,2.5,1
+CIV,Ivory Coast,2020,Hamed Bakayoko,1,1.0,2.3333333333333335,1
+CIV,Ivory Coast,2021,Patrick Jérôme Achi,1,1.0,2.2,2
+CIV,Ivory Coast,2022,Patrick Jérôme Achi,0,2.0,2.3,3
+CIV,Ivory Coast,2023,Robert Beugré Mambé,1,1.0,2.1818181818181817,2
+CIV,Ivory Coast,2024,Robert Beugré Mambé,0,2.0,2.272727272727273,3
+CMR,Cameroon,2000,Peter Mafany Musonge,0,1.0,1.0,0
+CMR,Cameroon,2001,Peter Mafany Musonge,0,2.0,2.0,0
+CMR,Cameroon,2002,Peter Mafany Musonge,0,3.0,3.0,0
+CMR,Cameroon,2003,Peter Mafany Musonge,0,4.0,4.0,0
+CMR,Cameroon,2004,Ephraïm Inoni,1,1.0,2.5,0
+CMR,Cameroon,2005,Ephraïm Inoni,0,2.0,3.0,1
+CMR,Cameroon,2006,Ephraïm Inoni,0,3.0,3.5,1
+CMR,Cameroon,2007,Ephraïm Inoni,0,4.0,4.0,1
+CMR,Cameroon,2008,Ephraïm Inoni,0,5.0,4.5,1
+CMR,Cameroon,2009,Philémon Yunji Yang,1,1.0,3.3333333333333335,1
+CMR,Cameroon,2010,Philémon Yunji Yang,0,2.0,3.6666666666666665,1
+CMR,Cameroon,2011,Philémon Yunji Yang,0,3.0,4.0,1
+CMR,Cameroon,2012,Philémon Yunji Yang,0,4.0,4.333333333333333,1
+CMR,Cameroon,2013,Philémon Yunji Yang,0,5.0,4.666666666666667,1
+CMR,Cameroon,2014,Philémon Yunji Yang,0,6.0,5.0,1
+CMR,Cameroon,2015,Philémon Yunji Yang,0,7.0,5.333333333333333,0
+CMR,Cameroon,2016,Philémon Yunji Yang,0,8.0,5.666666666666667,0
+CMR,Cameroon,2017,Philémon Yunji Yang,0,9.0,6.0,0
+CMR,Cameroon,2018,Philémon Yunji Yang,0,10.0,6.333333333333333,0
+CMR,Cameroon,2019,Joseph Dion Ngute,1,1.0,5.0,0
+CMR,Cameroon,2020,Joseph Dion Ngute,0,2.0,5.25,1
+CMR,Cameroon,2021,Joseph Dion Ngute,0,3.0,5.5,1
+CMR,Cameroon,2022,Joseph Dion Ngute,0,4.0,5.75,1
+CMR,Cameroon,2023,Joseph Dion Ngute,0,5.0,6.0,1
+CMR,Cameroon,2024,Joseph Dion Ngute,0,6.0,6.25,1
+COD,Democratic Republic of the Congo,2000,,0,,,0
+COD,Democratic Republic of the Congo,2001,,0,,,0
+COD,Democratic Republic of the Congo,2002,,0,,,0
+COD,Democratic Republic of the Congo,2003,,0,,,0
+COD,Democratic Republic of the Congo,2004,,0,,,0
+COD,Democratic Republic of the Congo,2005,,0,,,0
+COD,Democratic Republic of the Congo,2006,Antoine Gizenga,0,1.0,1.0,0
+COD,Democratic Republic of the Congo,2007,Antoine Gizenga,0,2.0,2.0,0
+COD,Democratic Republic of the Congo,2008,Adolphe Muzito,1,1.0,1.5,0
+COD,Democratic Republic of the Congo,2009,Adolphe Muzito,0,2.0,2.0,1
+COD,Democratic Republic of the Congo,2010,Adolphe Muzito,0,3.0,2.5,1
+COD,Democratic Republic of the Congo,2011,Adolphe Muzito,0,4.0,3.0,1
+COD,Democratic Republic of the Congo,2012,Augustin Matata Ponyo Mapon,1,1.0,2.3333333333333335,1
+COD,Democratic Republic of the Congo,2013,Augustin Matata Ponyo Mapon,0,2.0,2.6666666666666665,2
+COD,Democratic Republic of the Congo,2014,Augustin Matata Ponyo Mapon,0,3.0,3.0,1
+COD,Democratic Republic of the Congo,2015,Augustin Matata Ponyo Mapon,0,4.0,3.3333333333333335,1
+COD,Democratic Republic of the Congo,2016,Samy Badibanga Ntita,1,1.0,2.75,1
+COD,Democratic Republic of the Congo,2017,Bruno Tshibala Nzenze,1,1.0,2.4,2
+COD,Democratic Republic of the Congo,2018,Bruno Tshibala Nzenze,0,2.0,2.6,2
+COD,Democratic Republic of the Congo,2019,Sylvestre Ilunga Ilukamba,1,1.0,2.3333333333333335,2
+COD,Democratic Republic of the Congo,2020,Sylvestre Ilunga Ilukamba,0,2.0,2.5,3
+COD,Democratic Republic of the Congo,2021,Jean-Michel Sama Lukonde,1,1.0,2.2857142857142856,3
+COD,Democratic Republic of the Congo,2022,Jean-Michel Sama Lukonde,0,2.0,2.4285714285714284,3
+COD,Democratic Republic of the Congo,2023,Jean-Michel Sama Lukonde,0,3.0,2.5714285714285716,2
+COD,Democratic Republic of the Congo,2024,Judith Suminwa Tuluka,1,1.0,2.375,2
+COG,Republic of the Congo,2000,,0,,,0
+COG,Republic of the Congo,2001,,0,,,0
+COG,Republic of the Congo,2002,,0,,,0
+COG,Republic of the Congo,2003,,0,,,0
+COG,Republic of the Congo,2004,,0,,,0
+COG,Republic of the Congo,2005,Isidore Mvouba,0,1.0,1.0,0
+COG,Republic of the Congo,2006,Isidore Mvouba,0,2.0,2.0,0
+COG,Republic of the Congo,2007,Isidore Mvouba,0,3.0,3.0,0
+COG,Republic of the Congo,2008,Isidore Mvouba,0,4.0,4.0,0
+COG,Republic of the Congo,2009,,0,,4.0,0
+COG,Republic of the Congo,2010,,0,,4.0,0
+COG,Republic of the Congo,2011,,0,,4.0,0
+COG,Republic of the Congo,2012,,0,,4.0,0
+COG,Republic of the Congo,2013,,0,,4.0,0
+COG,Republic of the Congo,2014,,0,,4.0,0
+COG,Republic of the Congo,2015,,0,,4.0,0
+COG,Republic of the Congo,2016,Clément Mouamba,0,1.0,2.5,0
+COG,Republic of the Congo,2017,Clément Mouamba,0,2.0,3.0,0
+COG,Republic of the Congo,2018,Clément Mouamba,0,3.0,3.5,0
+COG,Republic of the Congo,2019,Clément Mouamba,0,4.0,4.0,0
+COG,Republic of the Congo,2020,Clément Mouamba,0,5.0,4.5,0
+COG,Republic of the Congo,2021,Anatole Collinet Makosso,1,1.0,3.3333333333333335,0
+COG,Republic of the Congo,2022,Anatole Collinet Makosso,0,2.0,3.6666666666666665,1
+COG,Republic of the Congo,2023,Anatole Collinet Makosso,0,3.0,4.0,1
+COG,Republic of the Congo,2024,Anatole Collinet Makosso,0,4.0,4.333333333333333,1
+COL,Colombia,2000,,0,,,0
+COL,Colombia,2001,,0,,,0
+COL,Colombia,2002,,0,,,0
+COL,Colombia,2003,,0,,,0
+COL,Colombia,2004,,0,,,0
+COL,Colombia,2005,,0,,,0
+COL,Colombia,2006,,0,,,0
+COL,Colombia,2007,,0,,,0
+COL,Colombia,2008,,0,,,0
+COL,Colombia,2009,,0,,,0
+COL,Colombia,2010,,0,,,0
+COL,Colombia,2011,,0,,,0
+COL,Colombia,2012,,0,,,0
+COL,Colombia,2013,,0,,,0
+COL,Colombia,2014,,0,,,0
+COL,Colombia,2015,,0,,,0
+COL,Colombia,2016,,0,,,0
+COL,Colombia,2017,,0,,,0
+COL,Colombia,2018,,0,,,0
+COL,Colombia,2019,,0,,,0
+COL,Colombia,2020,,0,,,0
+COL,Colombia,2021,,0,,,0
+COL,Colombia,2022,,0,,,0
+COL,Colombia,2023,,0,,,0
+COL,Colombia,2024,,0,,,0
+COM,Comoros,2000,Hamada Madi,0,1.0,1.0,0
+COM,Comoros,2001,Hamada Madi,0,2.0,2.0,0
+COM,Comoros,2002,,0,,2.0,0
+COM,Comoros,2003,,0,,2.0,0
+COM,Comoros,2004,,0,,2.0,0
+COM,Comoros,2005,,0,,2.0,0
+COM,Comoros,2006,,0,,2.0,0
+COM,Comoros,2007,,0,,2.0,0
+COM,Comoros,2008,,0,,2.0,0
+COM,Comoros,2009,,0,,2.0,0
+COM,Comoros,2010,,0,,2.0,0
+COM,Comoros,2011,,0,,2.0,0
+COM,Comoros,2012,,0,,2.0,0
+COM,Comoros,2013,,0,,2.0,0
+COM,Comoros,2014,,0,,2.0,0
+COM,Comoros,2015,,0,,2.0,0
+COM,Comoros,2016,,0,,2.0,0
+COM,Comoros,2017,,0,,2.0,0
+COM,Comoros,2018,,0,,2.0,0
+COM,Comoros,2019,,0,,2.0,0
+COM,Comoros,2020,,0,,2.0,0
+COM,Comoros,2021,,0,,2.0,0
+COM,Comoros,2022,,0,,2.0,0
+COM,Comoros,2023,,0,,2.0,0
+COM,Comoros,2024,,0,,2.0,0
+CPV,Cape Verde,2000,António Gualberto do Rosário,0,1.0,1.0,0
+CPV,Cape Verde,2001,José Maria Pereira Neves,1,1.0,1.0,0
+CPV,Cape Verde,2002,José Maria Pereira Neves,0,2.0,1.5,1
+CPV,Cape Verde,2003,José Maria Pereira Neves,0,3.0,2.0,1
+CPV,Cape Verde,2004,José Maria Pereira Neves,0,4.0,2.5,1
+CPV,Cape Verde,2005,José Maria Pereira Neves,0,5.0,3.0,1
+CPV,Cape Verde,2006,José Maria Pereira Neves,0,6.0,3.5,1
+CPV,Cape Verde,2007,José Maria Pereira Neves,0,7.0,4.0,0
+CPV,Cape Verde,2008,José Maria Pereira Neves,0,8.0,4.5,0
+CPV,Cape Verde,2009,José Maria Pereira Neves,0,9.0,5.0,0
+CPV,Cape Verde,2010,José Maria Pereira Neves,0,10.0,5.5,0
+CPV,Cape Verde,2011,José Maria Pereira Neves,0,11.0,6.0,0
+CPV,Cape Verde,2012,José Maria Pereira Neves,0,12.0,6.5,0
+CPV,Cape Verde,2013,José Maria Pereira Neves,0,13.0,7.0,0
+CPV,Cape Verde,2014,José Maria Pereira Neves,0,14.0,7.5,0
+CPV,Cape Verde,2015,José Maria Pereira Neves,0,15.0,8.0,0
+CPV,Cape Verde,2016,Ulisses Correia e Silva,1,1.0,5.666666666666667,0
+CPV,Cape Verde,2017,Ulisses Correia e Silva,0,2.0,6.0,1
+CPV,Cape Verde,2018,Ulisses Correia e Silva,0,3.0,6.333333333333333,1
+CPV,Cape Verde,2019,Ulisses Correia e Silva,0,4.0,6.666666666666667,1
+CPV,Cape Verde,2020,Ulisses Correia e Silva,0,5.0,7.0,1
+CPV,Cape Verde,2021,Ulisses Correia e Silva,0,6.0,7.333333333333333,1
+CPV,Cape Verde,2022,Ulisses Correia e Silva,0,7.0,7.666666666666667,0
+CPV,Cape Verde,2023,Ulisses Correia e Silva,0,8.0,8.0,0
+CPV,Cape Verde,2024,Ulisses Correia e Silva,0,9.0,8.333333333333334,0
+CRI,Costa Rica,2000,,0,,,0
+CRI,Costa Rica,2001,,0,,,0
+CRI,Costa Rica,2002,,0,,,0
+CRI,Costa Rica,2003,,0,,,0
+CRI,Costa Rica,2004,,0,,,0
+CRI,Costa Rica,2005,,0,,,0
+CRI,Costa Rica,2006,,0,,,0
+CRI,Costa Rica,2007,,0,,,0
+CRI,Costa Rica,2008,,0,,,0
+CRI,Costa Rica,2009,,0,,,0
+CRI,Costa Rica,2010,,0,,,0
+CRI,Costa Rica,2011,,0,,,0
+CRI,Costa Rica,2012,,0,,,0
+CRI,Costa Rica,2013,,0,,,0
+CRI,Costa Rica,2014,,0,,,0
+CRI,Costa Rica,2015,,0,,,0
+CRI,Costa Rica,2016,,0,,,0
+CRI,Costa Rica,2017,,0,,,0
+CRI,Costa Rica,2018,,0,,,0
+CRI,Costa Rica,2019,,0,,,0
+CRI,Costa Rica,2020,,0,,,0
+CRI,Costa Rica,2021,,0,,,0
+CRI,Costa Rica,2022,,0,,,0
+CRI,Costa Rica,2023,,0,,,0
+CRI,Costa Rica,2024,,0,,,0
+CUB,Cuba,2000,,0,,,0
+CUB,Cuba,2001,,0,,,0
+CUB,Cuba,2002,,0,,,0
+CUB,Cuba,2003,,0,,,0
+CUB,Cuba,2004,,0,,,0
+CUB,Cuba,2005,,0,,,0
+CUB,Cuba,2006,,0,,,0
+CUB,Cuba,2007,,0,,,0
+CUB,Cuba,2008,,0,,,0
+CUB,Cuba,2009,,0,,,0
+CUB,Cuba,2010,,0,,,0
+CUB,Cuba,2011,,0,,,0
+CUB,Cuba,2012,,0,,,0
+CUB,Cuba,2013,,0,,,0
+CUB,Cuba,2014,,0,,,0
+CUB,Cuba,2015,,0,,,0
+CUB,Cuba,2016,,0,,,0
+CUB,Cuba,2017,,0,,,0
+CUB,Cuba,2018,,0,,,0
+CUB,Cuba,2019,Manuel Marrero Cruz,0,1.0,1.0,0
+CUB,Cuba,2020,Manuel Marrero Cruz,0,2.0,2.0,0
+CUB,Cuba,2021,Manuel Marrero Cruz,0,3.0,3.0,0
+CUB,Cuba,2022,Manuel Marrero Cruz,0,4.0,4.0,0
+CUB,Cuba,2023,Manuel Marrero Cruz,0,5.0,5.0,0
+CUB,Cuba,2024,Manuel Marrero Cruz,0,6.0,6.0,0
+CYP,Cyprus,2000,,0,,,0
+CYP,Cyprus,2001,,0,,,0
+CYP,Cyprus,2002,,0,,,0
+CYP,Cyprus,2003,,0,,,0
+CYP,Cyprus,2004,,0,,,0
+CYP,Cyprus,2005,,0,,,0
+CYP,Cyprus,2006,,0,,,0
+CYP,Cyprus,2007,,0,,,0
+CYP,Cyprus,2008,,0,,,0
+CYP,Cyprus,2009,,0,,,0
+CYP,Cyprus,2010,,0,,,0
+CYP,Cyprus,2011,,0,,,0
+CYP,Cyprus,2012,,0,,,0
+CYP,Cyprus,2013,,0,,,0
+CYP,Cyprus,2014,,0,,,0
+CYP,Cyprus,2015,,0,,,0
+CYP,Cyprus,2016,,0,,,0
+CYP,Cyprus,2017,,0,,,0
+CYP,Cyprus,2018,,0,,,0
+CYP,Cyprus,2019,,0,,,0
+CYP,Cyprus,2020,,0,,,0
+CYP,Cyprus,2021,,0,,,0
+CYP,Cyprus,2022,,0,,,0
+CYP,Cyprus,2023,,0,,,0
+CYP,Cyprus,2024,,0,,,0
+CZE,Czechia,2000,Milos Zeman,0,1.0,1.0,0
+CZE,Czechia,2001,Milos Zeman,0,2.0,2.0,0
+CZE,Czechia,2002,Vladimír Spidla,1,1.0,1.5,0
+CZE,Czechia,2003,Vladimír Spidla,0,2.0,2.0,1
+CZE,Czechia,2004,Stanislav Gross,1,1.0,1.6666666666666667,1
+CZE,Czechia,2005,Jirí Paroubek,1,1.0,1.5,2
+CZE,Czechia,2006,Mirek Topolánek,1,1.0,1.4,3
+CZE,Czechia,2007,Mirek Topolánek,0,2.0,1.6,4
+CZE,Czechia,2008,Mirek Topolánek,0,3.0,1.8,3
+CZE,Czechia,2009,Jan Fischer,1,1.0,1.6666666666666667,3
+CZE,Czechia,2010,Petr Necas,1,1.0,1.5714285714285714,3
+CZE,Czechia,2011,Petr Necas,0,2.0,1.7142857142857142,3
+CZE,Czechia,2012,Petr Necas,0,3.0,1.8571428571428572,2
+CZE,Czechia,2013,Petr Necas,0,4.0,2.0,2
+CZE,Czechia,2014,Bohuslav Sobotka,1,1.0,1.875,2
+CZE,Czechia,2015,Bohuslav Sobotka,0,2.0,2.0,2
+CZE,Czechia,2016,Bohuslav Sobotka,0,3.0,2.125,1
+CZE,Czechia,2017,Andrej Babiš,1,1.0,2.0,1
+CZE,Czechia,2018,Andrej Babiš,0,2.0,2.111111111111111,2
+CZE,Czechia,2019,Andrej Babiš,0,3.0,2.2222222222222223,2
+CZE,Czechia,2020,Andrej Babiš,0,4.0,2.3333333333333335,1
+CZE,Czechia,2021,Petr Fiala,1,1.0,2.2,1
+CZE,Czechia,2022,Petr Fiala,0,2.0,2.3,2
+CZE,Czechia,2023,Petr Fiala,0,3.0,2.4,1
+CZE,Czechia,2024,Petr Fiala,0,4.0,2.5,1
+DEU,Germany,2000,Gerhard Schröder,0,1.0,1.0,0
+DEU,Germany,2001,Gerhard Schröder,0,2.0,2.0,0
+DEU,Germany,2002,Gerhard Schröder,0,3.0,3.0,0
+DEU,Germany,2003,Gerhard Schröder,0,4.0,4.0,0
+DEU,Germany,2004,Gerhard Schröder,0,5.0,5.0,0
+DEU,Germany,2005,Angela Merkel,1,1.0,3.0,0
+DEU,Germany,2006,Angela Merkel,0,2.0,3.5,1
+DEU,Germany,2007,Angela Merkel,0,3.0,4.0,1
+DEU,Germany,2008,Angela Merkel,0,4.0,4.5,1
+DEU,Germany,2009,Angela Merkel,0,5.0,5.0,1
+DEU,Germany,2010,Angela Merkel,0,6.0,5.5,1
+DEU,Germany,2011,Angela Merkel,0,7.0,6.0,0
+DEU,Germany,2012,Angela Merkel,0,8.0,6.5,0
+DEU,Germany,2013,Angela Merkel,0,9.0,7.0,0
+DEU,Germany,2014,Angela Merkel,0,10.0,7.5,0
+DEU,Germany,2015,Angela Merkel,0,11.0,8.0,0
+DEU,Germany,2016,Angela Merkel,0,12.0,8.5,0
+DEU,Germany,2017,Angela Merkel,0,13.0,9.0,0
+DEU,Germany,2018,Angela Merkel,0,14.0,9.5,0
+DEU,Germany,2019,Angela Merkel,0,15.0,10.0,0
+DEU,Germany,2020,Angela Merkel,0,16.0,10.5,0
+DEU,Germany,2021,Olaf Scholz,1,1.0,7.333333333333333,0
+DEU,Germany,2022,Olaf Scholz,0,2.0,7.666666666666667,1
+DEU,Germany,2023,Olaf Scholz,0,3.0,8.0,1
+DEU,Germany,2024,Olaf Scholz,0,4.0,8.333333333333334,1
+DJI,Djibouti,2000,Barkat Gourad Hamadou,0,1.0,1.0,0
+DJI,Djibouti,2001,Dileita Mohamed Dileita,1,1.0,1.0,0
+DJI,Djibouti,2002,Dileita Mohamed Dileita,0,2.0,1.5,1
+DJI,Djibouti,2003,Dileita Mohamed Dileita,0,3.0,2.0,1
+DJI,Djibouti,2004,Dileita Mohamed Dileita,0,4.0,2.5,1
+DJI,Djibouti,2005,Dileita Mohamed Dileita,0,5.0,3.0,1
+DJI,Djibouti,2006,Dileita Mohamed Dileita,0,6.0,3.5,1
+DJI,Djibouti,2007,Dileita Mohamed Dileita,0,7.0,4.0,0
+DJI,Djibouti,2008,Dileita Mohamed Dileita,0,8.0,4.5,0
+DJI,Djibouti,2009,Dileita Mohamed Dileita,0,9.0,5.0,0
+DJI,Djibouti,2010,Dileita Mohamed Dileita,0,10.0,5.5,0
+DJI,Djibouti,2011,Dileita Mohamed Dileita,0,11.0,6.0,0
+DJI,Djibouti,2012,Dileita Mohamed Dileita,0,12.0,6.5,0
+DJI,Djibouti,2013,Abdoulkader Kamil Mohamed,1,1.0,4.666666666666667,0
+DJI,Djibouti,2014,Abdoulkader Kamil Mohamed,0,2.0,5.0,1
+DJI,Djibouti,2015,Abdoulkader Kamil Mohamed,0,3.0,5.333333333333333,1
+DJI,Djibouti,2016,Abdoulkader Kamil Mohamed,0,4.0,5.666666666666667,1
+DJI,Djibouti,2017,Abdoulkader Kamil Mohamed,0,5.0,6.0,1
+DJI,Djibouti,2018,Abdoulkader Kamil Mohamed,0,6.0,6.333333333333333,1
+DJI,Djibouti,2019,Abdoulkader Kamil Mohamed,0,7.0,6.666666666666667,0
+DJI,Djibouti,2020,Abdoulkader Kamil Mohamed,0,8.0,7.0,0
+DJI,Djibouti,2021,Abdoulkader Kamil Mohamed,0,9.0,7.333333333333333,0
+DJI,Djibouti,2022,Abdoulkader Kamil Mohamed,0,10.0,7.666666666666667,0
+DJI,Djibouti,2023,Abdoulkader Kamil Mohamed,0,11.0,8.0,0
+DJI,Djibouti,2024,Abdoulkader Kamil Mohamed,0,12.0,8.333333333333334,0
+DNK,Denmark,2000,Poul Nyrup Rasmussen,0,1.0,1.0,0
+DNK,Denmark,2001,Anders Fogh Rasmussen,1,1.0,1.0,0
+DNK,Denmark,2002,Anders Fogh Rasmussen,0,2.0,1.5,1
+DNK,Denmark,2003,Anders Fogh Rasmussen,0,3.0,2.0,1
+DNK,Denmark,2004,Anders Fogh Rasmussen,0,4.0,2.5,1
+DNK,Denmark,2005,Anders Fogh Rasmussen,0,5.0,3.0,1
+DNK,Denmark,2006,Anders Fogh Rasmussen,0,6.0,3.5,1
+DNK,Denmark,2007,Anders Fogh Rasmussen,0,7.0,4.0,0
+DNK,Denmark,2008,Anders Fogh Rasmussen,0,8.0,4.5,0
+DNK,Denmark,2009,Lars Løkke Rasmussen,1,1.0,3.3333333333333335,0
+DNK,Denmark,2010,Lars Løkke Rasmussen,0,2.0,3.6666666666666665,1
+DNK,Denmark,2011,Helle Thorning-Schmidt,1,1.0,3.0,1
+DNK,Denmark,2012,Helle Thorning-Schmidt,0,2.0,3.25,2
+DNK,Denmark,2013,Helle Thorning-Schmidt,0,3.0,3.5,2
+DNK,Denmark,2014,Helle Thorning-Schmidt,0,4.0,3.75,2
+DNK,Denmark,2015,Lars Loekke Rasmussen,1,1.0,3.2,1
+DNK,Denmark,2016,Lars Loekke Rasmussen,0,2.0,3.4,2
+DNK,Denmark,2017,Lars Loekke Rasmussen,0,3.0,3.6,1
+DNK,Denmark,2018,Lars Loekke Rasmussen,0,4.0,3.8,1
+DNK,Denmark,2019,Mette Frederiksen,1,1.0,3.3333333333333335,1
+DNK,Denmark,2020,Mette Frederiksen,0,2.0,3.5,2
+DNK,Denmark,2021,Mette Frederiksen,0,3.0,3.6666666666666665,1
+DNK,Denmark,2022,Mette Frederiksen,0,4.0,3.8333333333333335,1
+DNK,Denmark,2023,Mette Frederiksen,0,5.0,4.0,1
+DNK,Denmark,2024,Mette Frederiksen,0,6.0,4.166666666666667,1
+DOM,Dominican Republic,2000,,0,,,0
+DOM,Dominican Republic,2001,,0,,,0
+DOM,Dominican Republic,2002,,0,,,0
+DOM,Dominican Republic,2003,,0,,,0
+DOM,Dominican Republic,2004,,0,,,0
+DOM,Dominican Republic,2005,,0,,,0
+DOM,Dominican Republic,2006,,0,,,0
+DOM,Dominican Republic,2007,,0,,,0
+DOM,Dominican Republic,2008,,0,,,0
+DOM,Dominican Republic,2009,,0,,,0
+DOM,Dominican Republic,2010,,0,,,0
+DOM,Dominican Republic,2011,,0,,,0
+DOM,Dominican Republic,2012,,0,,,0
+DOM,Dominican Republic,2013,,0,,,0
+DOM,Dominican Republic,2014,,0,,,0
+DOM,Dominican Republic,2015,,0,,,0
+DOM,Dominican Republic,2016,,0,,,0
+DOM,Dominican Republic,2017,,0,,,0
+DOM,Dominican Republic,2018,,0,,,0
+DOM,Dominican Republic,2019,,0,,,0
+DOM,Dominican Republic,2020,,0,,,0
+DOM,Dominican Republic,2021,,0,,,0
+DOM,Dominican Republic,2022,,0,,,0
+DOM,Dominican Republic,2023,,0,,,0
+DOM,Dominican Republic,2024,,0,,,0
+DZA,Algeria,2000,Ali Benflis,0,1.0,1.0,0
+DZA,Algeria,2001,Ali Benflis,0,2.0,2.0,0
+DZA,Algeria,2002,Ali Benflis,0,3.0,3.0,0
+DZA,Algeria,2003,Ahmed Ouyahia,1,1.0,2.0,0
+DZA,Algeria,2004,Ahmed Ouyahia,0,2.0,2.5,1
+DZA,Algeria,2005,Ahmed Ouyahia,0,3.0,3.0,1
+DZA,Algeria,2006,Abdelaziz Belkhadem,1,1.0,2.3333333333333335,1
+DZA,Algeria,2007,Abdelaziz Belkhadem,0,2.0,2.6666666666666665,2
+DZA,Algeria,2008,Ahmed Ouyahia,1,1.0,2.25,2
+DZA,Algeria,2009,Ahmed Ouyahia,0,2.0,2.5,2
+DZA,Algeria,2010,Ahmed Ouyahia,0,3.0,2.75,2
+DZA,Algeria,2011,Ahmed Ouyahia,0,4.0,3.0,2
+DZA,Algeria,2012,Abdelmalek Sellal,1,1.0,2.6,1
+DZA,Algeria,2013,Abdelmalek Sellal,0,2.0,2.8,2
+DZA,Algeria,2014,Abdelmalek Sellal,0,3.0,3.0,1
+DZA,Algeria,2015,Abdelmalek Sellal,0,4.0,3.2,1
+DZA,Algeria,2016,Abdelmalek Sellal,0,5.0,3.4,1
+DZA,Algeria,2017,Ahmed Ouyahia,1,1.0,3.0,1
+DZA,Algeria,2018,Ahmed Ouyahia,0,2.0,3.1666666666666665,1
+DZA,Algeria,2019,Abdelaziz Djerad,1,1.0,2.857142857142857,1
+DZA,Algeria,2020,Abdelaziz Djerad,0,2.0,3.0,2
+DZA,Algeria,2021,Ayman Benabderrahmane,1,1.0,2.75,2
+DZA,Algeria,2022,Ayman Benabderrahmane,0,2.0,2.875,3
+DZA,Algeria,2023,Mohamed Nadir Larbaoui,1,1.0,2.6666666666666665,2
+DZA,Algeria,2024,Mohamed Nadir Larbaoui,0,2.0,2.7777777777777777,3
+ECU,Ecuador,2000,,0,,,0
+ECU,Ecuador,2001,,0,,,0
+ECU,Ecuador,2002,,0,,,0
+ECU,Ecuador,2003,,0,,,0
+ECU,Ecuador,2004,,0,,,0
+ECU,Ecuador,2005,,0,,,0
+ECU,Ecuador,2006,,0,,,0
+ECU,Ecuador,2007,,0,,,0
+ECU,Ecuador,2008,,0,,,0
+ECU,Ecuador,2009,,0,,,0
+ECU,Ecuador,2010,,0,,,0
+ECU,Ecuador,2011,,0,,,0
+ECU,Ecuador,2012,,0,,,0
+ECU,Ecuador,2013,,0,,,0
+ECU,Ecuador,2014,,0,,,0
+ECU,Ecuador,2015,,0,,,0
+ECU,Ecuador,2016,,0,,,0
+ECU,Ecuador,2017,,0,,,0
+ECU,Ecuador,2018,,0,,,0
+ECU,Ecuador,2019,,0,,,0
+ECU,Ecuador,2020,,0,,,0
+ECU,Ecuador,2021,,0,,,0
+ECU,Ecuador,2022,,0,,,0
+ECU,Ecuador,2023,,0,,,0
+ECU,Ecuador,2024,,0,,,0
+EGY,Egypt,2000,Atef Ebeid,0,1.0,1.0,0
+EGY,Egypt,2001,Atef Ebeid,0,2.0,2.0,0
+EGY,Egypt,2002,Atef Ebeid,0,3.0,3.0,0
+EGY,Egypt,2003,Atef Ebeid,0,4.0,4.0,0
+EGY,Egypt,2004,Ahmed Nazif,1,1.0,2.5,0
+EGY,Egypt,2005,Ahmed Nazif,0,2.0,3.0,1
+EGY,Egypt,2006,Ahmed Nazif,0,3.0,3.5,1
+EGY,Egypt,2007,Ahmed Nazif,0,4.0,4.0,1
+EGY,Egypt,2008,Ahmed Nazif,0,5.0,4.5,1
+EGY,Egypt,2009,Ahmed Nazif,0,6.0,5.0,1
+EGY,Egypt,2010,Ahmed Nazif,0,7.0,5.5,0
+EGY,Egypt,2011,Kamal Ganzouri,1,1.0,4.0,0
+EGY,Egypt,2012,Hisham Qandil,1,1.0,3.25,1
+EGY,Egypt,2013,Hazem el-Beblawi,1,1.0,2.8,2
+EGY,Egypt,2014,Ibrahim Mahlab,1,1.0,2.5,3
+EGY,Egypt,2015,Sherif Ismail,1,1.0,2.2857142857142856,4
+EGY,Egypt,2016,Sherif Ismail,0,2.0,2.4285714285714284,5
+EGY,Egypt,2017,Sherif Ismail,0,3.0,2.5714285714285716,4
+EGY,Egypt,2018,Mostafa Madbouly,1,1.0,2.375,3
+EGY,Egypt,2019,Mostafa Madbouly,0,2.0,2.5,3
+EGY,Egypt,2020,Mostafa Madbouly,0,3.0,2.625,2
+EGY,Egypt,2021,Mostafa Madbouly,0,4.0,2.75,1
+EGY,Egypt,2022,Mostafa Madbouly,0,5.0,2.875,1
+EGY,Egypt,2023,Mostafa Madbouly,0,6.0,3.0,1
+EGY,Egypt,2024,Mostafa Madbouly,0,7.0,3.125,0
+ERI,Eritrea,2000,,0,,,0
+ERI,Eritrea,2001,,0,,,0
+ERI,Eritrea,2002,,0,,,0
+ERI,Eritrea,2003,,0,,,0
+ERI,Eritrea,2004,,0,,,0
+ERI,Eritrea,2005,,0,,,0
+ERI,Eritrea,2006,,0,,,0
+ERI,Eritrea,2007,,0,,,0
+ERI,Eritrea,2008,,0,,,0
+ERI,Eritrea,2009,,0,,,0
+ERI,Eritrea,2010,,0,,,0
+ERI,Eritrea,2011,,0,,,0
+ERI,Eritrea,2012,,0,,,0
+ERI,Eritrea,2013,,0,,,0
+ERI,Eritrea,2014,,0,,,0
+ERI,Eritrea,2015,,0,,,0
+ERI,Eritrea,2016,,0,,,0
+ERI,Eritrea,2017,,0,,,0
+ERI,Eritrea,2018,,0,,,0
+ERI,Eritrea,2019,,0,,,0
+ERI,Eritrea,2020,,0,,,0
+ERI,Eritrea,2021,,0,,,0
+ERI,Eritrea,2022,,0,,,0
+ERI,Eritrea,2023,,0,,,0
+ERI,Eritrea,2024,,0,,,0
+ESP,Spain,2000,José María Aznar López,0,1.0,1.0,0
+ESP,Spain,2001,José María Aznar López,0,2.0,2.0,0
+ESP,Spain,2002,José María Aznar López,0,3.0,3.0,0
+ESP,Spain,2003,José María Aznar López,0,4.0,4.0,0
+ESP,Spain,2004,José Luis Rodríguez Zapatero,1,1.0,2.5,0
+ESP,Spain,2005,José Luis Rodríguez Zapatero,0,2.0,3.0,1
+ESP,Spain,2006,José Luis Rodríguez Zapatero,0,3.0,3.5,1
+ESP,Spain,2007,José Luis Rodríguez Zapatero,0,4.0,4.0,1
+ESP,Spain,2008,José Luis Rodríguez Zapatero,0,5.0,4.5,1
+ESP,Spain,2009,José Luis Rodríguez Zapatero,0,6.0,5.0,1
+ESP,Spain,2010,José Luis Rodríguez Zapatero,0,7.0,5.5,0
+ESP,Spain,2011,Mariano Rajoy,1,1.0,4.0,0
+ESP,Spain,2012,Mariano Rajoy,0,2.0,4.333333333333333,1
+ESP,Spain,2013,Mariano Rajoy,0,3.0,4.666666666666667,1
+ESP,Spain,2014,Mariano Rajoy,0,4.0,5.0,1
+ESP,Spain,2015,Mariano Rajoy,0,5.0,5.333333333333333,1
+ESP,Spain,2016,Mariano Rajoy,0,6.0,5.666666666666667,1
+ESP,Spain,2017,Mariano Rajoy,0,7.0,6.0,0
+ESP,Spain,2018,Pedro Sanchez Perez-Castejon,1,1.0,4.75,0
+ESP,Spain,2019,Pedro Sanchez Perez-Castejon,0,2.0,5.0,1
+ESP,Spain,2020,Pedro Sanchez Perez-Castejon,0,3.0,5.25,1
+ESP,Spain,2021,Pedro Sanchez Perez-Castejon,0,4.0,5.5,1
+ESP,Spain,2022,Pedro Sanchez Perez-Castejon,0,5.0,5.75,1
+ESP,Spain,2023,Pedro Sanchez Perez-Castejon,0,6.0,6.0,1
+ESP,Spain,2024,Pedro Sanchez Perez-Castejon,0,7.0,6.25,0
+EST,Estonia,2000,Mart Laar,0,1.0,1.0,0
+EST,Estonia,2001,Mart Laar,0,2.0,2.0,0
+EST,Estonia,2002,Siim Kallas,1,1.0,1.5,0
+EST,Estonia,2003,Juhan Parts,1,1.0,1.3333333333333333,1
+EST,Estonia,2004,Juhan Parts,0,2.0,1.6666666666666667,2
+EST,Estonia,2005,Andrus Ansip,1,1.0,1.5,2
+EST,Estonia,2006,Andrus Ansip,0,2.0,1.75,3
+EST,Estonia,2007,Andrus Ansip,0,3.0,2.0,3
+EST,Estonia,2008,Andrus Ansip,0,4.0,2.25,2
+EST,Estonia,2009,Andrus Ansip,0,5.0,2.5,1
+EST,Estonia,2010,Andrus Ansip,0,6.0,2.75,1
+EST,Estonia,2011,Andrus Ansip,0,7.0,3.0,0
+EST,Estonia,2012,Andrus Ansip,0,8.0,3.25,0
+EST,Estonia,2013,Andrus Ansip,0,9.0,3.5,0
+EST,Estonia,2014,Taavi Rõivas,1,1.0,3.0,0
+EST,Estonia,2015,Taavi Rõivas,0,2.0,3.2,1
+EST,Estonia,2016,Jüri Ratas,1,1.0,2.8333333333333335,1
+EST,Estonia,2017,Jüri Ratas,0,2.0,3.0,2
+EST,Estonia,2018,Jüri Ratas,0,3.0,3.1666666666666665,2
+EST,Estonia,2019,Jüri Ratas,0,4.0,3.3333333333333335,2
+EST,Estonia,2020,Jüri Ratas,0,5.0,3.5,1
+EST,Estonia,2021,Kaja Kallas,1,1.0,3.142857142857143,1
+EST,Estonia,2022,Kaja Kallas,0,2.0,3.2857142857142856,1
+EST,Estonia,2023,Kaja Kallas,0,3.0,3.4285714285714284,1
+EST,Estonia,2024,Kristen Michal,1,1.0,3.125,1
+ETH,Ethiopia,2000,Meles Zenawi,0,1.0,1.0,0
+ETH,Ethiopia,2001,Meles Zenawi,0,2.0,2.0,0
+ETH,Ethiopia,2002,Meles Zenawi,0,3.0,3.0,0
+ETH,Ethiopia,2003,Meles Zenawi,0,4.0,4.0,0
+ETH,Ethiopia,2004,Meles Zenawi,0,5.0,5.0,0
+ETH,Ethiopia,2005,Meles Zenawi,0,6.0,6.0,0
+ETH,Ethiopia,2006,Meles Zenawi,0,7.0,7.0,0
+ETH,Ethiopia,2007,Meles Zenawi,0,8.0,8.0,0
+ETH,Ethiopia,2008,Meles Zenawi,0,9.0,9.0,0
+ETH,Ethiopia,2009,Meles Zenawi,0,10.0,10.0,0
+ETH,Ethiopia,2010,Meles Zenawi,0,11.0,11.0,0
+ETH,Ethiopia,2011,Meles Zenawi,0,12.0,12.0,0
+ETH,Ethiopia,2012,Hailemariam Desalegn,1,1.0,6.5,0
+ETH,Ethiopia,2013,Hailemariam Desalegn,0,2.0,7.0,1
+ETH,Ethiopia,2014,Hailemariam Desalegn,0,3.0,7.5,1
+ETH,Ethiopia,2015,Hailemariam Desalegn,0,4.0,8.0,1
+ETH,Ethiopia,2016,Hailemariam Desalegn,0,5.0,8.5,1
+ETH,Ethiopia,2017,Hailemariam Desalegn,0,6.0,9.0,1
+ETH,Ethiopia,2018,Abiy Ahmed Ali,1,1.0,6.333333333333333,0
+ETH,Ethiopia,2019,Abiy Ahmed Ali,0,2.0,6.666666666666667,1
+ETH,Ethiopia,2020,Abiy Ahmed Ali,0,3.0,7.0,1
+ETH,Ethiopia,2021,Abiy Ahmed Ali,0,4.0,7.333333333333333,1
+ETH,Ethiopia,2022,Abiy Ahmed Ali,0,5.0,7.666666666666667,1
+ETH,Ethiopia,2023,Abiy Ahmed Ali,0,6.0,8.0,1
+ETH,Ethiopia,2024,Abiy Ahmed Ali,0,7.0,8.333333333333334,0
+FIN,Finland,2000,Paavo Tapio Lipponen,0,1.0,1.0,0
+FIN,Finland,2001,Paavo Tapio Lipponen,0,2.0,2.0,0
+FIN,Finland,2002,Paavo Tapio Lipponen,0,3.0,3.0,0
+FIN,Finland,2003,Matti Taneli Vanhanen,1,1.0,2.0,0
+FIN,Finland,2004,Matti Taneli Vanhanen,0,2.0,2.5,1
+FIN,Finland,2005,Matti Taneli Vanhanen,0,3.0,3.0,1
+FIN,Finland,2006,Matti Taneli Vanhanen,0,4.0,3.5,1
+FIN,Finland,2007,Matti Taneli Vanhanen,0,5.0,4.0,1
+FIN,Finland,2008,Matti Taneli Vanhanen,0,6.0,4.5,1
+FIN,Finland,2009,Matti Taneli Vanhanen,0,7.0,5.0,0
+FIN,Finland,2010,Mari Johanna Kiviniemi,1,1.0,3.6666666666666665,0
+FIN,Finland,2011,Jyrki Tapani Katainen,1,1.0,3.0,1
+FIN,Finland,2012,Jyrki Tapani Katainen,0,2.0,3.25,2
+FIN,Finland,2013,Jyrki Tapani Katainen,0,3.0,3.5,2
+FIN,Finland,2014,Alexander Stubb,1,1.0,3.0,2
+FIN,Finland,2015,Juha Sipila,1,1.0,2.6666666666666665,3
+FIN,Finland,2016,Juha Sipila,0,2.0,2.8333333333333335,3
+FIN,Finland,2017,Juha Sipila,0,3.0,3.0,2
+FIN,Finland,2018,Juha Sipila,0,4.0,3.1666666666666665,2
+FIN,Finland,2019,Sanna Marin,1,1.0,2.857142857142857,2
+FIN,Finland,2020,Sanna Marin,0,2.0,3.0,2
+FIN,Finland,2021,Sanna Marin,0,3.0,3.142857142857143,1
+FIN,Finland,2022,Sanna Marin,0,4.0,3.2857142857142856,1
+FIN,Finland,2023,Antti Petteri Orpo,1,1.0,3.0,1
+FIN,Finland,2024,Antti Petteri Orpo,0,2.0,3.125,2
+FJI,Fiji,2000,Laisenia Qarase,0,1.0,1.0,0
+FJI,Fiji,2001,Laisenia Qarase,0,2.0,2.0,0
+FJI,Fiji,2002,Laisenia Qarase,0,3.0,3.0,0
+FJI,Fiji,2003,Laisenia Qarase,0,4.0,4.0,0
+FJI,Fiji,2004,Laisenia Qarase,0,5.0,5.0,0
+FJI,Fiji,2005,Laisenia Qarase,0,6.0,6.0,0
+FJI,Fiji,2006,Laisenia Qarase,0,7.0,7.0,0
+FJI,Fiji,2007,Josaia Voreqe Bainimarama,1,1.0,4.0,0
+FJI,Fiji,2008,Josaia Voreqe Bainimarama,0,2.0,4.5,1
+FJI,Fiji,2009,Josaia Voreqe Bainimarama,0,3.0,5.0,1
+FJI,Fiji,2010,Josaia Voreqe Bainimarama,0,4.0,5.5,1
+FJI,Fiji,2011,Josaia Voreqe Bainimarama,0,5.0,6.0,1
+FJI,Fiji,2012,Josaia Voreqe Bainimarama,0,6.0,6.5,1
+FJI,Fiji,2013,Josaia Voreqe Bainimarama,0,7.0,7.0,0
+FJI,Fiji,2014,Josaia Voreqe Bainimarama,0,8.0,7.5,0
+FJI,Fiji,2015,Josaia Voreqe Bainimarama,0,9.0,8.0,0
+FJI,Fiji,2016,Josaia Voreqe Bainimarama,0,10.0,8.5,0
+FJI,Fiji,2017,Josaia Voreqe Bainimarama,0,11.0,9.0,0
+FJI,Fiji,2018,Josaia Voreqe Bainimarama,0,12.0,9.5,0
+FJI,Fiji,2019,Josaia Voreqe Bainimarama,0,13.0,10.0,0
+FJI,Fiji,2020,Josaia Voreqe Bainimarama,0,14.0,10.5,0
+FJI,Fiji,2021,Josaia Voreqe Bainimarama,0,15.0,11.0,0
+FJI,Fiji,2022,Sitiveni Ligamamada Rabuka,1,1.0,7.666666666666667,0
+FJI,Fiji,2023,Sitiveni Ligamamada Rabuka,0,2.0,8.0,1
+FJI,Fiji,2024,Sitiveni Ligamamada Rabuka,0,3.0,8.333333333333334,1
+FRA,France,2000,Lionel Jospin,0,1.0,1.0,0
+FRA,France,2001,Lionel Jospin,0,2.0,2.0,0
+FRA,France,2002,Jean-Pierre Raffarin,1,1.0,1.5,0
+FRA,France,2003,Jean-Pierre Raffarin,0,2.0,2.0,1
+FRA,France,2004,Jean-Pierre Raffarin,0,3.0,2.5,1
+FRA,France,2005,Dominique Galouzeau de Villepin,1,1.0,2.0,1
+FRA,France,2006,Dominique Galouzeau de Villepin,0,2.0,2.3333333333333335,2
+FRA,France,2007,François Fillon,1,1.0,2.0,2
+FRA,France,2008,François Fillon,0,2.0,2.25,2
+FRA,France,2009,François Fillon,0,3.0,2.5,2
+FRA,France,2010,François Fillon,0,4.0,2.75,2
+FRA,France,2011,François Fillon,0,5.0,3.0,1
+FRA,France,2012,Jean-Marc Ayrault,1,1.0,2.6,1
+FRA,France,2013,Jean-Marc Ayrault,0,2.0,2.8,1
+FRA,France,2014,Manuel Valls,1,1.0,2.5,1
+FRA,France,2015,Manuel Valls,0,2.0,2.6666666666666665,2
+FRA,France,2016,Bernard Cazeneuve,1,1.0,2.4285714285714284,2
+FRA,France,2017,Édouard Philippe,1,1.0,2.25,3
+FRA,France,2018,Édouard Philippe,0,2.0,2.375,3
+FRA,France,2019,Édouard Philippe,0,3.0,2.5,3
+FRA,France,2020,Jean Castex,1,1.0,2.3333333333333335,2
+FRA,France,2021,Jean Castex,0,2.0,2.4444444444444446,3
+FRA,France,2022,Élisabeth Borne,1,1.0,2.3,2
+FRA,France,2023,Élisabeth Borne,0,2.0,2.4,2
+FRA,France,2024,François Bayrou,1,1.0,2.272727272727273,2
+GAB,Gabon,2000,Jean-François Ntoutoume-Émane,0,1.0,1.0,0
+GAB,Gabon,2001,Jean-François Ntoutoume-Émane,0,2.0,2.0,0
+GAB,Gabon,2002,Jean-François Ntoutoume-Émane,0,3.0,3.0,0
+GAB,Gabon,2003,Jean-François Ntoutoume-Émane,0,4.0,4.0,0
+GAB,Gabon,2004,Jean-François Ntoutoume-Émane,0,5.0,5.0,0
+GAB,Gabon,2005,Jean-François Ntoutoume-Émane,0,6.0,6.0,0
+GAB,Gabon,2006,Jean Eyeghe Ndong,1,1.0,3.5,0
+GAB,Gabon,2007,Jean Eyeghe Ndong,0,2.0,4.0,1
+GAB,Gabon,2008,Jean Eyeghe Ndong,0,3.0,4.5,1
+GAB,Gabon,2009,Paul Biyoghé Mba,1,1.0,3.3333333333333335,1
+GAB,Gabon,2010,Paul Biyoghé Mba,0,2.0,3.6666666666666665,2
+GAB,Gabon,2011,Paul Biyoghé Mba,0,3.0,4.0,2
+GAB,Gabon,2012,Raymond Ndong Sima,1,1.0,3.25,1
+GAB,Gabon,2013,Raymond Ndong Sima,0,2.0,3.5,2
+GAB,Gabon,2014,Daniel Ona Ondo,1,1.0,3.0,2
+GAB,Gabon,2015,Daniel Ona Ondo,0,2.0,3.2,2
+GAB,Gabon,2016,Franck Emmanuel Issoze-Ngondet,1,1.0,2.8333333333333335,2
+GAB,Gabon,2017,Franck Emmanuel Issoze-Ngondet,0,2.0,3.0,3
+GAB,Gabon,2018,Franck Emmanuel Issoze-Ngondet,0,3.0,3.1666666666666665,2
+GAB,Gabon,2019,Julien Nkoghe Bekalé,1,1.0,2.857142857142857,2
+GAB,Gabon,2020,Rose Christiane Ossouka Raponda,1,1.0,2.625,2
+GAB,Gabon,2021,Rose Christiane Ossouka Raponda,0,2.0,2.75,3
+GAB,Gabon,2022,Rose Christiane Ossouka Raponda,0,3.0,2.875,2
+GAB,Gabon,2023,Raymond Ndong Sima,1,1.0,2.6666666666666665,2
+GAB,Gabon,2024,Raymond Ndong Sima,0,2.0,2.7777777777777777,3
+GBR,United Kingdom,2000,Anthony Blair,0,1.0,1.0,0
+GBR,United Kingdom,2001,Anthony Blair,0,2.0,2.0,0
+GBR,United Kingdom,2002,Anthony Blair,0,3.0,3.0,0
+GBR,United Kingdom,2003,Anthony Blair,0,4.0,4.0,0
+GBR,United Kingdom,2004,Anthony Blair,0,5.0,5.0,0
+GBR,United Kingdom,2005,Anthony Blair,0,6.0,6.0,0
+GBR,United Kingdom,2006,Anthony Blair,0,7.0,7.0,0
+GBR,United Kingdom,2007,Gordon Brown,1,1.0,4.0,0
+GBR,United Kingdom,2008,Gordon Brown,0,2.0,4.5,1
+GBR,United Kingdom,2009,Gordon Brown,0,3.0,5.0,1
+GBR,United Kingdom,2010,David Cameron,1,1.0,3.6666666666666665,1
+GBR,United Kingdom,2011,David Cameron,0,2.0,4.0,2
+GBR,United Kingdom,2012,David Cameron,0,3.0,4.333333333333333,2
+GBR,United Kingdom,2013,David Cameron,0,4.0,4.666666666666667,1
+GBR,United Kingdom,2014,David Cameron,0,5.0,5.0,1
+GBR,United Kingdom,2015,David Cameron,0,6.0,5.333333333333333,1
+GBR,United Kingdom,2016,Theresa May,1,1.0,4.25,0
+GBR,United Kingdom,2017,Theresa May,0,2.0,4.5,1
+GBR,United Kingdom,2018,Theresa May,0,3.0,4.75,1
+GBR,United Kingdom,2019,Boris Johnson,1,1.0,4.0,1
+GBR,United Kingdom,2020,Boris Johnson,0,2.0,4.2,2
+GBR,United Kingdom,2021,Boris Johnson,0,3.0,4.4,2
+GBR,United Kingdom,2022,Rishi Sunak,1,1.0,3.8333333333333335,1
+GBR,United Kingdom,2023,Rishi Sunak,0,2.0,4.0,2
+GBR,United Kingdom,2024,Keir Rodney Starmer,1,1.0,3.5714285714285716,2
+GEO,Georgia,2000,Giorgi Longinozovich Arsenishvili,0,1.0,1.0,0
+GEO,Georgia,2001,Avtandil Khristoforovich Jorbenadze,1,1.0,1.0,0
+GEO,Georgia,2002,Avtandil Khristoforovich Jorbenadze,0,2.0,1.5,1
+GEO,Georgia,2003,Avtandil Khristoforovich Jorbenadze,0,3.0,2.0,1
+GEO,Georgia,2004,Zurab Besarionisdze Zhvania,1,1.0,1.6666666666666667,1
+GEO,Georgia,2005,Zurab Teymurazovich Nogaideli,1,1.0,1.5,2
+GEO,Georgia,2006,Zurab Teymurazovich Nogaideli,0,2.0,1.75,3
+GEO,Georgia,2007,Vladimer Gurgenidze,1,1.0,1.6,2
+GEO,Georgia,2008,Vladimer Gurgenidze,0,2.0,1.8,3
+GEO,Georgia,2009,Nikoloz Gilauri,1,1.0,1.6666666666666667,3
+GEO,Georgia,2010,Nikoloz Gilauri,0,2.0,1.8333333333333333,3
+GEO,Georgia,2011,Nikoloz Gilauri,0,3.0,2.0,2
+GEO,Georgia,2012,Bidzina Ivanishvili,1,1.0,1.8571428571428572,2
+GEO,Georgia,2013,Irakli Garibashvili,1,1.0,1.75,2
+GEO,Georgia,2014,Irakli Garibashvili,0,2.0,1.875,3
+GEO,Georgia,2015,Giorgi Kvirikashvili,1,1.0,1.7777777777777777,2
+GEO,Georgia,2016,Giorgi Kvirikashvili,0,2.0,1.8888888888888888,3
+GEO,Georgia,2017,Giorgi Kvirikashvili,0,3.0,2.0,3
+GEO,Georgia,2018,Mamuka Bakhtadze,1,1.0,1.9,2
+GEO,Georgia,2019,Giorgi Gakharia,1,1.0,1.8181818181818181,2
+GEO,Georgia,2020,Giorgi Gakharia,0,2.0,1.9090909090909092,3
+GEO,Georgia,2021,Irakli Garibashvili,1,1.0,1.8333333333333333,2
+GEO,Georgia,2022,Irakli Garibashvili,0,2.0,1.9166666666666667,3
+GEO,Georgia,2023,Irakli Garibashvili,0,3.0,2.0,3
+GEO,Georgia,2024,Irakli Kobakhidze,1,1.0,1.9230769230769231,2
+GHA,Ghana,2000,,0,,,0
+GHA,Ghana,2001,,0,,,0
+GHA,Ghana,2002,,0,,,0
+GHA,Ghana,2003,,0,,,0
+GHA,Ghana,2004,,0,,,0
+GHA,Ghana,2005,,0,,,0
+GHA,Ghana,2006,,0,,,0
+GHA,Ghana,2007,,0,,,0
+GHA,Ghana,2008,,0,,,0
+GHA,Ghana,2009,,0,,,0
+GHA,Ghana,2010,,0,,,0
+GHA,Ghana,2011,,0,,,0
+GHA,Ghana,2012,,0,,,0
+GHA,Ghana,2013,,0,,,0
+GHA,Ghana,2014,,0,,,0
+GHA,Ghana,2015,,0,,,0
+GHA,Ghana,2016,,0,,,0
+GHA,Ghana,2017,,0,,,0
+GHA,Ghana,2018,,0,,,0
+GHA,Ghana,2019,,0,,,0
+GHA,Ghana,2020,,0,,,0
+GHA,Ghana,2021,,0,,,0
+GHA,Ghana,2022,,0,,,0
+GHA,Ghana,2023,,0,,,0
+GHA,Ghana,2024,,0,,,0
+GIN,Guinea,2000,Lamine Sidimé,0,1.0,1.0,0
+GIN,Guinea,2001,Lamine Sidimé,0,2.0,2.0,0
+GIN,Guinea,2002,Lamine Sidimé,0,3.0,3.0,0
+GIN,Guinea,2003,Lamine Sidimé,0,4.0,4.0,0
+GIN,Guinea,2004,Cellou Dalein Diallo,1,1.0,2.5,0
+GIN,Guinea,2005,Cellou Dalein Diallo,0,2.0,3.0,1
+GIN,Guinea,2006,Cellou Dalein Diallo,0,3.0,3.5,1
+GIN,Guinea,2007,Lansana Kouyaté,1,1.0,2.6666666666666665,1
+GIN,Guinea,2008,Ahmed Tidiane Souaré,1,1.0,2.25,2
+GIN,Guinea,2009,Kabiné Komara,1,1.0,2.0,3
+GIN,Guinea,2010,Mohamed Said Fofana,1,1.0,1.8333333333333333,3
+GIN,Guinea,2011,Mohamed Said Fofana,0,2.0,2.0,4
+GIN,Guinea,2012,Mohamed Said Fofana,0,3.0,2.1666666666666665,4
+GIN,Guinea,2013,Mohamed Said Fofana,0,4.0,2.3333333333333335,3
+GIN,Guinea,2014,Mohamed Said Fofana,0,5.0,2.5,2
+GIN,Guinea,2015,Mamady Youla,1,1.0,2.2857142857142856,1
+GIN,Guinea,2016,Mamady Youla,0,2.0,2.4285714285714284,1
+GIN,Guinea,2017,Mamady Youla,0,3.0,2.5714285714285716,1
+GIN,Guinea,2018,Ibrahima Fofana,1,1.0,2.375,1
+GIN,Guinea,2019,Ibrahima Fofana,0,2.0,2.5,2
+GIN,Guinea,2020,Ibrahima Fofana,0,3.0,2.625,2
+GIN,Guinea,2021,Mohamed Beavogui,1,1.0,2.4444444444444446,1
+GIN,Guinea,2022,Bernard Goumou,1,1.0,2.3,2
+GIN,Guinea,2023,Bernard Goumou,0,2.0,2.4,3
+GIN,Guinea,2024,Amadou Oury Bah,1,1.0,2.272727272727273,2
+GMB,The Gambia,2000,,0,,,0
+GMB,The Gambia,2001,,0,,,0
+GMB,The Gambia,2002,,0,,,0
+GMB,The Gambia,2003,,0,,,0
+GMB,The Gambia,2004,,0,,,0
+GMB,The Gambia,2005,,0,,,0
+GMB,The Gambia,2006,,0,,,0
+GMB,The Gambia,2007,,0,,,0
+GMB,The Gambia,2008,,0,,,0
+GMB,The Gambia,2009,,0,,,0
+GMB,The Gambia,2010,,0,,,0
+GMB,The Gambia,2011,,0,,,0
+GMB,The Gambia,2012,,0,,,0
+GMB,The Gambia,2013,,0,,,0
+GMB,The Gambia,2014,,0,,,0
+GMB,The Gambia,2015,,0,,,0
+GMB,The Gambia,2016,,0,,,0
+GMB,The Gambia,2017,,0,,,0
+GMB,The Gambia,2018,,0,,,0
+GMB,The Gambia,2019,,0,,,0
+GMB,The Gambia,2020,,0,,,0
+GMB,The Gambia,2021,,0,,,0
+GMB,The Gambia,2022,,0,,,0
+GMB,The Gambia,2023,,0,,,0
+GMB,The Gambia,2024,,0,,,0
+GNB,Guinea-Bissau,2000,Caetano N'Tchama,0,1.0,1.0,0
+GNB,Guinea-Bissau,2001,Alamara Ntchina Nhassè,1,1.0,1.0,0
+GNB,Guinea-Bissau,2002,Mário Pires,1,1.0,1.0,1
+GNB,Guinea-Bissau,2003,António Artur Sanhá,1,1.0,1.0,2
+GNB,Guinea-Bissau,2004,Carlos Gomes Júnior,1,1.0,1.0,3
+GNB,Guinea-Bissau,2005,Aristides Gomes,1,1.0,1.0,4
+GNB,Guinea-Bissau,2006,Aristides Gomes,0,2.0,1.1666666666666667,5
+GNB,Guinea-Bissau,2007,Martinho Ndafa Kabi,1,1.0,1.1428571428571428,4
+GNB,Guinea-Bissau,2008,Carlos Correia,1,1.0,1.125,4
+GNB,Guinea-Bissau,2009,Carlos Gomes Júnior,1,1.0,1.1111111111111112,4
+GNB,Guinea-Bissau,2010,Carlos Gomes Júnior,0,2.0,1.2222222222222223,4
+GNB,Guinea-Bissau,2011,Carlos Gomes Júnior,0,3.0,1.3333333333333333,3
+GNB,Guinea-Bissau,2012,Rui Duarte de Barros,1,1.0,1.3,3
+GNB,Guinea-Bissau,2013,Rui Duarte de Barros,0,2.0,1.4,3
+GNB,Guinea-Bissau,2014,Domingos Simões Pereira,1,1.0,1.3636363636363635,2
+GNB,Guinea-Bissau,2015,Carlos Correia,1,1.0,1.3333333333333333,2
+GNB,Guinea-Bissau,2016,Umaro Sissoco Embalo,1,1.0,1.3076923076923077,3
+GNB,Guinea-Bissau,2017,Umaro Sissoco Embalo,0,2.0,1.3846153846153846,4
+GNB,Guinea-Bissau,2018,Aristides Gomes,1,1.0,1.3571428571428572,3
+GNB,Guinea-Bissau,2019,Faustino Fudut Imbali,1,1.0,1.3333333333333333,4
+GNB,Guinea-Bissau,2020,Nuno Gomes Nabiam,1,1.0,1.3125,4
+GNB,Guinea-Bissau,2021,Nuno Gomes Nabiam,0,2.0,1.375,4
+GNB,Guinea-Bissau,2022,Nuno Gomes Nabiam,0,3.0,1.4375,3
+GNB,Guinea-Bissau,2023,Rui Duarte de Barros,1,1.0,1.411764705882353,3
+GNB,Guinea-Bissau,2024,Rui Duarte de Barros,0,2.0,1.4705882352941178,3
+GNQ,Equatorial Guinea,2000,,0,,,0
+GNQ,Equatorial Guinea,2001,,0,,,0
+GNQ,Equatorial Guinea,2002,,0,,,0
+GNQ,Equatorial Guinea,2003,,0,,,0
+GNQ,Equatorial Guinea,2004,,0,,,0
+GNQ,Equatorial Guinea,2005,,0,,,0
+GNQ,Equatorial Guinea,2006,,0,,,0
+GNQ,Equatorial Guinea,2007,,0,,,0
+GNQ,Equatorial Guinea,2008,,0,,,0
+GNQ,Equatorial Guinea,2009,,0,,,0
+GNQ,Equatorial Guinea,2010,,0,,,0
+GNQ,Equatorial Guinea,2011,,0,,,0
+GNQ,Equatorial Guinea,2012,,0,,,0
+GNQ,Equatorial Guinea,2013,,0,,,0
+GNQ,Equatorial Guinea,2014,,0,,,0
+GNQ,Equatorial Guinea,2015,,0,,,0
+GNQ,Equatorial Guinea,2016,,0,,,0
+GNQ,Equatorial Guinea,2017,,0,,,0
+GNQ,Equatorial Guinea,2018,,0,,,0
+GNQ,Equatorial Guinea,2019,,0,,,0
+GNQ,Equatorial Guinea,2020,,0,,,0
+GNQ,Equatorial Guinea,2021,,0,,,0
+GNQ,Equatorial Guinea,2022,,0,,,0
+GNQ,Equatorial Guinea,2023,,0,,,0
+GNQ,Equatorial Guinea,2024,,0,,,0
+GRC,Greece,2000,Konstantinos Georgiou Simitis,0,1.0,1.0,0
+GRC,Greece,2001,Konstantinos Georgiou Simitis,0,2.0,2.0,0
+GRC,Greece,2002,Konstantinos Georgiou Simitis,0,3.0,3.0,0
+GRC,Greece,2003,Konstantinos Georgiou Simitis,0,4.0,4.0,0
+GRC,Greece,2004,Konstantinos Alexandrou Karamanlis,1,1.0,2.5,0
+GRC,Greece,2005,Konstantinos Alexandrou Karamanlis,0,2.0,3.0,1
+GRC,Greece,2006,Konstantinos Alexandrou Karamanlis,0,3.0,3.5,1
+GRC,Greece,2007,Konstantinos Alexandrou Karamanlis,0,4.0,4.0,1
+GRC,Greece,2008,Konstantinos Alexandrou Karamanlis,0,5.0,4.5,1
+GRC,Greece,2009,Georgios Andreou Papandreou,1,1.0,3.3333333333333335,1
+GRC,Greece,2010,Georgios Andreou Papandreou,0,2.0,3.6666666666666665,1
+GRC,Greece,2011,Loukas Dimitriou Papadimos,1,1.0,3.0,1
+GRC,Greece,2012,Antonios Konstantinou Samaras,1,1.0,2.6,2
+GRC,Greece,2013,Antonios Konstantinou Samaras,0,2.0,2.8,3
+GRC,Greece,2014,Antonios Konstantinou Samaras,0,3.0,3.0,3
+GRC,Greece,2015,Alexis Tsipras,1,1.0,2.6666666666666665,2
+GRC,Greece,2016,Alexis Tsipras,0,2.0,2.8333333333333335,3
+GRC,Greece,2017,Alexis Tsipras,0,3.0,3.0,2
+GRC,Greece,2018,Alexis Tsipras,0,4.0,3.1666666666666665,1
+GRC,Greece,2019,Kyriakos Mitsotakis,1,1.0,2.857142857142857,1
+GRC,Greece,2020,Kyriakos Mitsotakis,0,2.0,3.0,2
+GRC,Greece,2021,Kyriakos Mitsotakis,0,3.0,3.142857142857143,1
+GRC,Greece,2022,Kyriakos Mitsotakis,0,4.0,3.2857142857142856,1
+GRC,Greece,2023,Kyriakos Mitsotakis,0,5.0,3.4285714285714284,1
+GRC,Greece,2024,Kyriakos Mitsotakis,0,6.0,3.5714285714285716,1
+GTM,Guatemala,2000,,0,,,0
+GTM,Guatemala,2001,,0,,,0
+GTM,Guatemala,2002,,0,,,0
+GTM,Guatemala,2003,,0,,,0
+GTM,Guatemala,2004,,0,,,0
+GTM,Guatemala,2005,,0,,,0
+GTM,Guatemala,2006,,0,,,0
+GTM,Guatemala,2007,,0,,,0
+GTM,Guatemala,2008,,0,,,0
+GTM,Guatemala,2009,,0,,,0
+GTM,Guatemala,2010,,0,,,0
+GTM,Guatemala,2011,,0,,,0
+GTM,Guatemala,2012,,0,,,0
+GTM,Guatemala,2013,,0,,,0
+GTM,Guatemala,2014,,0,,,0
+GTM,Guatemala,2015,,0,,,0
+GTM,Guatemala,2016,,0,,,0
+GTM,Guatemala,2017,,0,,,0
+GTM,Guatemala,2018,,0,,,0
+GTM,Guatemala,2019,,0,,,0
+GTM,Guatemala,2020,,0,,,0
+GTM,Guatemala,2021,,0,,,0
+GTM,Guatemala,2022,,0,,,0
+GTM,Guatemala,2023,,0,,,0
+GTM,Guatemala,2024,,0,,,0
+GUY,Guyana,2000,,0,,,0
+GUY,Guyana,2001,,0,,,0
+GUY,Guyana,2002,,0,,,0
+GUY,Guyana,2003,,0,,,0
+GUY,Guyana,2004,,0,,,0
+GUY,Guyana,2005,,0,,,0
+GUY,Guyana,2006,,0,,,0
+GUY,Guyana,2007,,0,,,0
+GUY,Guyana,2008,,0,,,0
+GUY,Guyana,2009,,0,,,0
+GUY,Guyana,2010,,0,,,0
+GUY,Guyana,2011,,0,,,0
+GUY,Guyana,2012,,0,,,0
+GUY,Guyana,2013,,0,,,0
+GUY,Guyana,2014,,0,,,0
+GUY,Guyana,2015,,0,,,0
+GUY,Guyana,2016,,0,,,0
+GUY,Guyana,2017,,0,,,0
+GUY,Guyana,2018,,0,,,0
+GUY,Guyana,2019,,0,,,0
+GUY,Guyana,2020,,0,,,0
+GUY,Guyana,2021,,0,,,0
+GUY,Guyana,2022,,0,,,0
+GUY,Guyana,2023,,0,,,0
+GUY,Guyana,2024,,0,,,0
+HKG,Hong Kong,2000,,0,,,0
+HKG,Hong Kong,2001,,0,,,0
+HKG,Hong Kong,2002,,0,,,0
+HKG,Hong Kong,2003,,0,,,0
+HKG,Hong Kong,2004,,0,,,0
+HKG,Hong Kong,2005,,0,,,0
+HKG,Hong Kong,2006,,0,,,0
+HKG,Hong Kong,2007,,0,,,0
+HKG,Hong Kong,2008,,0,,,0
+HKG,Hong Kong,2009,,0,,,0
+HKG,Hong Kong,2010,,0,,,0
+HKG,Hong Kong,2011,,0,,,0
+HKG,Hong Kong,2012,,0,,,0
+HKG,Hong Kong,2013,,0,,,0
+HKG,Hong Kong,2014,,0,,,0
+HKG,Hong Kong,2015,,0,,,0
+HKG,Hong Kong,2016,,0,,,0
+HKG,Hong Kong,2017,,0,,,0
+HKG,Hong Kong,2018,,0,,,0
+HKG,Hong Kong,2019,,0,,,0
+HKG,Hong Kong,2020,,0,,,0
+HKG,Hong Kong,2021,,0,,,0
+HKG,Hong Kong,2022,,0,,,0
+HKG,Hong Kong,2023,,0,,,0
+HKG,Hong Kong,2024,,0,,,0
+HND,Honduras,2000,,0,,,0
+HND,Honduras,2001,,0,,,0
+HND,Honduras,2002,,0,,,0
+HND,Honduras,2003,,0,,,0
+HND,Honduras,2004,,0,,,0
+HND,Honduras,2005,,0,,,0
+HND,Honduras,2006,,0,,,0
+HND,Honduras,2007,,0,,,0
+HND,Honduras,2008,,0,,,0
+HND,Honduras,2009,,0,,,0
+HND,Honduras,2010,,0,,,0
+HND,Honduras,2011,,0,,,0
+HND,Honduras,2012,,0,,,0
+HND,Honduras,2013,,0,,,0
+HND,Honduras,2014,,0,,,0
+HND,Honduras,2015,,0,,,0
+HND,Honduras,2016,,0,,,0
+HND,Honduras,2017,,0,,,0
+HND,Honduras,2018,,0,,,0
+HND,Honduras,2019,,0,,,0
+HND,Honduras,2020,,0,,,0
+HND,Honduras,2021,,0,,,0
+HND,Honduras,2022,,0,,,0
+HND,Honduras,2023,,0,,,0
+HND,Honduras,2024,,0,,,0
+HRV,Croatia,2000,Ivica Racan,0,1.0,1.0,0
+HRV,Croatia,2001,Ivica Racan,0,2.0,2.0,0
+HRV,Croatia,2002,Ivica Racan,0,3.0,3.0,0
+HRV,Croatia,2003,Ivo Sanader,1,1.0,2.0,0
+HRV,Croatia,2004,Ivo Sanader,0,2.0,2.5,1
+HRV,Croatia,2005,Ivo Sanader,0,3.0,3.0,1
+HRV,Croatia,2006,Ivo Sanader,0,4.0,3.5,1
+HRV,Croatia,2007,Ivo Sanader,0,5.0,4.0,1
+HRV,Croatia,2008,Ivo Sanader,0,6.0,4.5,1
+HRV,Croatia,2009,Jadranka Kosor,1,1.0,3.3333333333333335,0
+HRV,Croatia,2010,Jadranka Kosor,0,2.0,3.6666666666666665,1
+HRV,Croatia,2011,Zoran Milanovic,1,1.0,3.0,1
+HRV,Croatia,2012,Zoran Milanovic,0,2.0,3.25,2
+HRV,Croatia,2013,Zoran Milanovic,0,3.0,3.5,2
+HRV,Croatia,2014,Zoran Milanovic,0,4.0,3.75,2
+HRV,Croatia,2015,Zoran Milanovic,0,5.0,4.0,1
+HRV,Croatia,2016,Andrej Plenković,1,1.0,3.4,1
+HRV,Croatia,2017,Andrej Plenković,0,2.0,3.6,1
+HRV,Croatia,2018,Andrej Plenković,0,3.0,3.8,1
+HRV,Croatia,2019,Andrej Plenković,0,4.0,4.0,1
+HRV,Croatia,2020,Andrej Plenković,0,5.0,4.2,1
+HRV,Croatia,2021,Andrej Plenković,0,6.0,4.4,1
+HRV,Croatia,2022,Andrej Plenković,0,7.0,4.6,0
+HRV,Croatia,2023,Andrej Plenković,0,8.0,4.8,0
+HRV,Croatia,2024,Andrej Plenković,0,9.0,5.0,0
+HTI,Haiti,2000,Jacques-Édouard Alexis,0,1.0,1.0,0
+HTI,Haiti,2001,Jean-Marie Chérestal,1,1.0,1.0,0
+HTI,Haiti,2002,Yvon Neptune,1,1.0,1.0,1
+HTI,Haiti,2003,Yvon Neptune,0,2.0,1.3333333333333333,2
+HTI,Haiti,2004,Gérard Latortue,1,1.0,1.25,2
+HTI,Haiti,2005,Gérard Latortue,0,2.0,1.5,3
+HTI,Haiti,2006,Jacques-Édouard Alexis,1,1.0,1.4,3
+HTI,Haiti,2007,Jacques-Édouard Alexis,0,2.0,1.6,3
+HTI,Haiti,2008,Michele Duvivier Pierre-Louis,1,1.0,1.5,2
+HTI,Haiti,2009,Jean-Max Bellerive,1,1.0,1.4285714285714286,3
+HTI,Haiti,2010,Jean-Max Bellerive,0,2.0,1.5714285714285714,3
+HTI,Haiti,2011,Garry Conille,1,1.0,1.5,3
+HTI,Haiti,2012,Laurent Lamothe,1,1.0,1.4444444444444444,3
+HTI,Haiti,2013,Laurent Lamothe,0,2.0,1.5555555555555556,4
+HTI,Haiti,2014,Laurent Lamothe,0,3.0,1.6666666666666667,3
+HTI,Haiti,2015,Evans Paul,1,1.0,1.6,2
+HTI,Haiti,2016,Enex Jean-Charles,1,1.0,1.5454545454545454,3
+HTI,Haiti,2017,Jack Guy Lafontant,1,1.0,1.5,3
+HTI,Haiti,2018,Jean Henry Céant,1,1.0,1.4615384615384615,3
+HTI,Haiti,2019,Fritz-William Michel,1,1.0,1.4285714285714286,4
+HTI,Haiti,2020,Joseph Jouthe,1,1.0,1.4,5
+HTI,Haiti,2021,,0,,1.4,5
+HTI,Haiti,2022,,0,,1.4,4
+HTI,Haiti,2023,,0,,1.4,3
+HTI,Haiti,2024,Alix Didier Fils-Aimé,0,1.0,1.375,2
+HUN,Hungary,2000,Viktor Orbán,0,1.0,1.0,0
+HUN,Hungary,2001,Viktor Orbán,0,2.0,2.0,0
+HUN,Hungary,2002,Péter Medgyessy,1,1.0,1.5,0
+HUN,Hungary,2003,Péter Medgyessy,0,2.0,2.0,1
+HUN,Hungary,2004,Ferenc Gyurcsány,1,1.0,1.6666666666666667,1
+HUN,Hungary,2005,Ferenc Gyurcsány,0,2.0,2.0,2
+HUN,Hungary,2006,Ferenc Gyurcsány,0,3.0,2.3333333333333335,2
+HUN,Hungary,2007,Ferenc Gyurcsány,0,4.0,2.6666666666666665,2
+HUN,Hungary,2008,Ferenc Gyurcsány,0,5.0,3.0,1
+HUN,Hungary,2009,Gordon Bajnai,1,1.0,2.5,1
+HUN,Hungary,2010,Viktor Orbán,1,1.0,2.2,1
+HUN,Hungary,2011,Viktor Orbán,0,2.0,2.4,2
+HUN,Hungary,2012,Viktor Orbán,0,3.0,2.6,2
+HUN,Hungary,2013,Viktor Orbán,0,4.0,2.8,2
+HUN,Hungary,2014,Viktor Orbán,0,5.0,3.0,2
+HUN,Hungary,2015,Viktor Orbán,0,6.0,3.2,1
+HUN,Hungary,2016,Viktor Orbán,0,7.0,3.4,0
+HUN,Hungary,2017,Viktor Orbán,0,8.0,3.6,0
+HUN,Hungary,2018,Viktor Orbán,0,9.0,3.8,0
+HUN,Hungary,2019,Viktor Orbán,0,10.0,4.0,0
+HUN,Hungary,2020,Viktor Orbán,0,11.0,4.2,0
+HUN,Hungary,2021,Viktor Orbán,0,12.0,4.4,0
+HUN,Hungary,2022,Viktor Orbán,0,13.0,4.6,0
+HUN,Hungary,2023,Viktor Orbán,0,14.0,4.8,0
+HUN,Hungary,2024,Viktor Orbán,0,15.0,5.0,0
+IDN,Indonesia,2000,,0,,,0
+IDN,Indonesia,2001,,0,,,0
+IDN,Indonesia,2002,,0,,,0
+IDN,Indonesia,2003,,0,,,0
+IDN,Indonesia,2004,,0,,,0
+IDN,Indonesia,2005,,0,,,0
+IDN,Indonesia,2006,,0,,,0
+IDN,Indonesia,2007,,0,,,0
+IDN,Indonesia,2008,,0,,,0
+IDN,Indonesia,2009,,0,,,0
+IDN,Indonesia,2010,,0,,,0
+IDN,Indonesia,2011,,0,,,0
+IDN,Indonesia,2012,,0,,,0
+IDN,Indonesia,2013,,0,,,0
+IDN,Indonesia,2014,,0,,,0
+IDN,Indonesia,2015,,0,,,0
+IDN,Indonesia,2016,,0,,,0
+IDN,Indonesia,2017,,0,,,0
+IDN,Indonesia,2018,,0,,,0
+IDN,Indonesia,2019,,0,,,0
+IDN,Indonesia,2020,,0,,,0
+IDN,Indonesia,2021,,0,,,0
+IDN,Indonesia,2022,,0,,,0
+IDN,Indonesia,2023,,0,,,0
+IDN,Indonesia,2024,,0,,,0
+IND,India,2000,Atal Bihari Vajpayee,0,1.0,1.0,0
+IND,India,2001,Atal Bihari Vajpayee,0,2.0,2.0,0
+IND,India,2002,Atal Bihari Vajpayee,0,3.0,3.0,0
+IND,India,2003,Atal Bihari Vajpayee,0,4.0,4.0,0
+IND,India,2004,Manmohan Singh,1,1.0,2.5,0
+IND,India,2005,Manmohan Singh,0,2.0,3.0,1
+IND,India,2006,Manmohan Singh,0,3.0,3.5,1
+IND,India,2007,Manmohan Singh,0,4.0,4.0,1
+IND,India,2008,Manmohan Singh,0,5.0,4.5,1
+IND,India,2009,Manmohan Singh,0,6.0,5.0,1
+IND,India,2010,Manmohan Singh,0,7.0,5.5,0
+IND,India,2011,Manmohan Singh,0,8.0,6.0,0
+IND,India,2012,Manmohan Singh,0,9.0,6.5,0
+IND,India,2013,Manmohan Singh,0,10.0,7.0,0
+IND,India,2014,Narendra Modi,1,1.0,5.0,0
+IND,India,2015,Narendra Modi,0,2.0,5.333333333333333,1
+IND,India,2016,Narendra Modi,0,3.0,5.666666666666667,1
+IND,India,2017,Narendra Modi,0,4.0,6.0,1
+IND,India,2018,Narendra Modi,0,5.0,6.333333333333333,1
+IND,India,2019,Narendra Modi,0,6.0,6.666666666666667,1
+IND,India,2020,Narendra Modi,0,7.0,7.0,0
+IND,India,2021,Narendra Modi,0,8.0,7.333333333333333,0
+IND,India,2022,Narendra Modi,0,9.0,7.666666666666667,0
+IND,India,2023,Narendra Modi,0,10.0,8.0,0
+IND,India,2024,Narendra Modi,0,11.0,8.333333333333334,0
+IRL,Ireland,2000,Bartholomew Patrick Ahern,0,1.0,1.0,0
+IRL,Ireland,2001,Bartholomew Patrick Ahern,0,2.0,2.0,0
+IRL,Ireland,2002,Bartholomew Patrick Ahern,0,3.0,3.0,0
+IRL,Ireland,2003,Bartholomew Patrick Ahern,0,4.0,4.0,0
+IRL,Ireland,2004,Bartholomew Patrick Ahern,0,5.0,5.0,0
+IRL,Ireland,2005,Bartholomew Patrick Ahern,0,6.0,6.0,0
+IRL,Ireland,2006,Bartholomew Patrick Ahern,0,7.0,7.0,0
+IRL,Ireland,2007,Bartholomew Patrick Ahern,0,8.0,8.0,0
+IRL,Ireland,2008,Brian Cowen,1,1.0,4.5,0
+IRL,Ireland,2009,Brian Cowen,0,2.0,5.0,1
+IRL,Ireland,2010,Brian Cowen,0,3.0,5.5,1
+IRL,Ireland,2011,Enda Kenny,1,1.0,4.0,1
+IRL,Ireland,2012,Enda Kenny,0,2.0,4.333333333333333,2
+IRL,Ireland,2013,Enda Kenny,0,3.0,4.666666666666667,2
+IRL,Ireland,2014,Enda Kenny,0,4.0,5.0,1
+IRL,Ireland,2015,Enda Kenny,0,5.0,5.333333333333333,1
+IRL,Ireland,2016,Enda Kenny,0,6.0,5.666666666666667,1
+IRL,Ireland,2017,Leo Eric Varadkar,1,1.0,4.5,0
+IRL,Ireland,2018,Leo Eric Varadkar,0,2.0,4.75,1
+IRL,Ireland,2019,Leo Eric Varadkar,0,3.0,5.0,1
+IRL,Ireland,2020,Micheál Martin,1,1.0,4.2,1
+IRL,Ireland,2021,Micheál Martin,0,2.0,4.4,2
+IRL,Ireland,2022,Leo Eric Varadkar,1,1.0,3.8333333333333335,2
+IRL,Ireland,2023,Leo Eric Varadkar,0,2.0,4.0,2
+IRL,Ireland,2024,Simon Harris,1,1.0,3.5714285714285716,2
+IRN,Iran,2000,Hojatolislam Mohammad Khatami,0,1.0,1.0,0
+IRN,Iran,2001,Hojatolislam Mohammad Khatami,0,2.0,2.0,0
+IRN,Iran,2002,Hojatolislam Mohammad Khatami,0,3.0,3.0,0
+IRN,Iran,2003,Hojatolislam Mohammad Khatami,0,4.0,4.0,0
+IRN,Iran,2004,Hojatolislam Mohammad Khatami,0,5.0,5.0,0
+IRN,Iran,2005,Mahmoud Ahmadinejad,1,1.0,3.0,0
+IRN,Iran,2006,Mahmoud Ahmadinejad,0,2.0,3.5,1
+IRN,Iran,2007,Mahmoud Ahmadinejad,0,3.0,4.0,1
+IRN,Iran,2008,Mahmoud Ahmadinejad,0,4.0,4.5,1
+IRN,Iran,2009,Mahmoud Ahmadinejad,0,5.0,5.0,1
+IRN,Iran,2010,Mahmoud Ahmadinejad,0,6.0,5.5,1
+IRN,Iran,2011,Mahmoud Ahmadinejad,0,7.0,6.0,0
+IRN,Iran,2012,Mahmoud Ahmadinejad,0,8.0,6.5,0
+IRN,Iran,2013,Hojatolislam Hassan Rouhani,1,1.0,4.666666666666667,0
+IRN,Iran,2014,Hojatolislam Hassan Rouhani,0,2.0,5.0,1
+IRN,Iran,2015,Hojatolislam Hassan Rouhani,0,3.0,5.333333333333333,1
+IRN,Iran,2016,Hojatolislam Hassan Rouhani,0,4.0,5.666666666666667,1
+IRN,Iran,2017,Hojatolislam Hassan Rouhani,0,5.0,6.0,1
+IRN,Iran,2018,Hojatolislam Hassan Rouhani,0,6.0,6.333333333333333,1
+IRN,Iran,2019,Hojatolislam Hassan Rouhani,0,7.0,6.666666666666667,0
+IRN,Iran,2020,Hojatolislam Hassan Rouhani,0,8.0,7.0,0
+IRN,Iran,2021,Seyyed Ebrahim Raisi,1,1.0,5.5,0
+IRN,Iran,2022,Seyyed Ebrahim Raisi,0,2.0,5.75,1
+IRN,Iran,2023,Seyyed Ebrahim Raisi,0,3.0,6.0,1
+IRN,Iran,2024,Masoud Pezeshkian,1,1.0,5.0,1
+IRQ,Iraq,2000,,0,,,0
+IRQ,Iraq,2001,,0,,,0
+IRQ,Iraq,2002,,0,,,0
+IRQ,Iraq,2003,Lewis Paul Bremer III,0,1.0,1.0,0
+IRQ,Iraq,2004,Iyad Allawi,1,1.0,1.0,0
+IRQ,Iraq,2005,Ibrahim al-Jaafari,1,1.0,1.0,1
+IRQ,Iraq,2006,Nouri al-Maliki,1,1.0,1.0,2
+IRQ,Iraq,2007,Nouri al-Maliki,0,2.0,1.25,3
+IRQ,Iraq,2008,Nouri al-Maliki,0,3.0,1.5,3
+IRQ,Iraq,2009,Nouri al-Maliki,0,4.0,1.75,3
+IRQ,Iraq,2010,Nouri al-Maliki,0,5.0,2.0,2
+IRQ,Iraq,2011,Nouri al-Maliki,0,6.0,2.25,1
+IRQ,Iraq,2012,Nouri al-Maliki,0,7.0,2.5,0
+IRQ,Iraq,2013,Nouri al-Maliki,0,8.0,2.75,0
+IRQ,Iraq,2014,Haider Jawad Kadhim al-Abadi,1,1.0,2.4,0
+IRQ,Iraq,2015,Haider Jawad Kadhim al-Abadi,0,2.0,2.6,1
+IRQ,Iraq,2016,Haider Jawad Kadhim al-Abadi,0,3.0,2.8,1
+IRQ,Iraq,2017,Haider Jawad Kadhim al-Abadi,0,4.0,3.0,1
+IRQ,Iraq,2018,Adil Abdul-Mahdi,1,1.0,2.6666666666666665,1
+IRQ,Iraq,2019,Adil Abdul-Mahdi,0,2.0,2.8333333333333335,2
+IRQ,Iraq,2020,Mustafa al-Kadhimi,1,1.0,2.5714285714285716,1
+IRQ,Iraq,2021,Mustafa al-Kadhimi,0,2.0,2.7142857142857144,2
+IRQ,Iraq,2022,Mohammed Shia al-Sudani,1,1.0,2.5,2
+IRQ,Iraq,2023,Mohammed Shia al-Sudani,0,2.0,2.625,3
+IRQ,Iraq,2024,Mohammed Shia al-Sudani,0,3.0,2.75,2
+ISL,Iceland,2000,Davíd Oddsson,0,1.0,1.0,0
+ISL,Iceland,2001,Davíd Oddsson,0,2.0,2.0,0
+ISL,Iceland,2002,Davíd Oddsson,0,3.0,3.0,0
+ISL,Iceland,2003,Davíd Oddsson,0,4.0,4.0,0
+ISL,Iceland,2004,Halldór Ásgrímsson,1,1.0,2.5,0
+ISL,Iceland,2005,Halldór Ásgrímsson,0,2.0,3.0,1
+ISL,Iceland,2006,Geir Hilmar Haarde,1,1.0,2.3333333333333335,1
+ISL,Iceland,2007,Geir Hilmar Haarde,0,2.0,2.6666666666666665,2
+ISL,Iceland,2008,Geir Hilmar Haarde,0,3.0,3.0,2
+ISL,Iceland,2009,Jóhanna Sigurdardóttir,1,1.0,2.5,2
+ISL,Iceland,2010,Jóhanna Sigurdardóttir,0,2.0,2.75,2
+ISL,Iceland,2011,Jóhanna Sigurdardóttir,0,3.0,3.0,2
+ISL,Iceland,2012,Jóhanna Sigurdardóttir,0,4.0,3.25,1
+ISL,Iceland,2013,Sigmundur Davíd Gunnlaugsson,1,1.0,2.8,1
+ISL,Iceland,2014,Sigmundur Davíd Gunnlaugsson,0,2.0,3.0,2
+ISL,Iceland,2015,Sigmundur Davíd Gunnlaugsson,0,3.0,3.2,1
+ISL,Iceland,2016,Sigurdur Ingi Jóhannsson,1,1.0,2.8333333333333335,1
+ISL,Iceland,2017,Katrín Jakobsdóttir,1,1.0,2.5714285714285716,2
+ISL,Iceland,2018,Katrín Jakobsdóttir,0,2.0,2.7142857142857144,3
+ISL,Iceland,2019,Katrín Jakobsdóttir,0,3.0,2.857142857142857,2
+ISL,Iceland,2020,Katrín Jakobsdóttir,0,4.0,3.0,2
+ISL,Iceland,2021,Katrín Jakobsdóttir,0,5.0,3.142857142857143,2
+ISL,Iceland,2022,Katrín Jakobsdóttir,0,6.0,3.2857142857142856,1
+ISL,Iceland,2023,Katrín Jakobsdóttir,0,7.0,3.4285714285714284,0
+ISL,Iceland,2024,Kristrún Mjöll Frostadóttir,1,1.0,3.125,0
+ISR,Israel,2000,Ehud Barak,0,1.0,1.0,0
+ISR,Israel,2001,Ariel Sharon,1,1.0,1.0,0
+ISR,Israel,2002,Ariel Sharon,0,2.0,1.5,1
+ISR,Israel,2003,Ariel Sharon,0,3.0,2.0,1
+ISR,Israel,2004,Ariel Sharon,0,4.0,2.5,1
+ISR,Israel,2005,Ariel Sharon,0,5.0,3.0,1
+ISR,Israel,2006,Ehud Olmert,1,1.0,2.3333333333333335,1
+ISR,Israel,2007,Ehud Olmert,0,2.0,2.6666666666666665,1
+ISR,Israel,2008,Ehud Olmert,0,3.0,3.0,1
+ISR,Israel,2009,Benjamin Netanyahu,1,1.0,2.5,1
+ISR,Israel,2010,Benjamin Netanyahu,0,2.0,2.75,2
+ISR,Israel,2011,Benjamin Netanyahu,0,3.0,3.0,2
+ISR,Israel,2012,Benjamin Netanyahu,0,4.0,3.25,1
+ISR,Israel,2013,Benjamin Netanyahu,0,5.0,3.5,1
+ISR,Israel,2014,Benjamin Netanyahu,0,6.0,3.75,1
+ISR,Israel,2015,Benjamin Netanyahu,0,7.0,4.0,0
+ISR,Israel,2016,Benjamin Netanyahu,0,8.0,4.25,0
+ISR,Israel,2017,Benjamin Netanyahu,0,9.0,4.5,0
+ISR,Israel,2018,Benjamin Netanyahu,0,10.0,4.75,0
+ISR,Israel,2019,Benjamin Netanyahu,0,11.0,5.0,0
+ISR,Israel,2020,Benjamin Netanyahu,0,12.0,5.25,0
+ISR,Israel,2021,Naftali Bennett,1,1.0,4.4,0
+ISR,Israel,2022,Benjamin Netanyahu,1,1.0,3.8333333333333335,1
+ISR,Israel,2023,Benjamin Netanyahu,0,2.0,4.0,2
+ISR,Israel,2024,Benjamin Netanyahu,0,3.0,4.166666666666667,2
+ITA,Italy,2000,Giuliano Amato,0,1.0,1.0,0
+ITA,Italy,2001,Silvio Berlusconi,1,1.0,1.0,0
+ITA,Italy,2002,Silvio Berlusconi,0,2.0,1.5,1
+ITA,Italy,2003,Silvio Berlusconi,0,3.0,2.0,1
+ITA,Italy,2004,Silvio Berlusconi,0,4.0,2.5,1
+ITA,Italy,2005,Silvio Berlusconi,0,5.0,3.0,1
+ITA,Italy,2006,Romano Prodi,1,1.0,2.3333333333333335,1
+ITA,Italy,2007,Romano Prodi,0,2.0,2.6666666666666665,1
+ITA,Italy,2008,Silvio Berlusconi,1,1.0,2.25,1
+ITA,Italy,2009,Silvio Berlusconi,0,2.0,2.5,2
+ITA,Italy,2010,Silvio Berlusconi,0,3.0,2.75,2
+ITA,Italy,2011,Mario Monti,1,1.0,2.4,2
+ITA,Italy,2012,Mario Monti,0,2.0,2.6,2
+ITA,Italy,2013,Enrico Letta,1,1.0,2.3333333333333335,2
+ITA,Italy,2014,Matteo Renzi,1,1.0,2.142857142857143,2
+ITA,Italy,2015,Matteo Renzi,0,2.0,2.2857142857142856,3
+ITA,Italy,2016,Paolo Gentiloni Silveri,1,1.0,2.125,3
+ITA,Italy,2017,Paolo Gentiloni Silveri,0,2.0,2.25,3
+ITA,Italy,2018,Giuseppe Conte,1,1.0,2.111111111111111,3
+ITA,Italy,2019,Giuseppe Conte,0,2.0,2.2222222222222223,3
+ITA,Italy,2020,Giuseppe Conte,0,3.0,2.3333333333333335,2
+ITA,Italy,2021,Mario Draghi,1,1.0,2.2,2
+ITA,Italy,2022,Giorgia Meloni,1,1.0,2.090909090909091,2
+ITA,Italy,2023,Giorgia Meloni,0,2.0,2.1818181818181817,3
+ITA,Italy,2024,Giorgia Meloni,0,3.0,2.272727272727273,2
+JAM,Jamaica,2000,Percival Noel James Patterson,0,1.0,1.0,0
+JAM,Jamaica,2001,Percival Noel James Patterson,0,2.0,2.0,0
+JAM,Jamaica,2002,Percival Noel James Patterson,0,3.0,3.0,0
+JAM,Jamaica,2003,Percival Noel James Patterson,0,4.0,4.0,0
+JAM,Jamaica,2004,Percival Noel James Patterson,0,5.0,5.0,0
+JAM,Jamaica,2005,Percival Noel James Patterson,0,6.0,6.0,0
+JAM,Jamaica,2006,Portia Simpson Miller,1,1.0,3.5,0
+JAM,Jamaica,2007,Bruce Golding,1,1.0,2.6666666666666665,1
+JAM,Jamaica,2008,Bruce Golding,0,2.0,3.0,2
+JAM,Jamaica,2009,Bruce Golding,0,3.0,3.3333333333333335,2
+JAM,Jamaica,2010,Bruce Golding,0,4.0,3.6666666666666665,2
+JAM,Jamaica,2011,Bruce Golding,0,5.0,4.0,2
+JAM,Jamaica,2012,Portia Simpson Miller,1,1.0,3.25,1
+JAM,Jamaica,2013,Portia Simpson Miller,0,2.0,3.5,1
+JAM,Jamaica,2014,Portia Simpson Miller,0,3.0,3.75,1
+JAM,Jamaica,2015,Portia Simpson Miller,0,4.0,4.0,1
+JAM,Jamaica,2016,Andrew Michael Holness,1,1.0,3.4,1
+JAM,Jamaica,2017,Andrew Michael Holness,0,2.0,3.6,2
+JAM,Jamaica,2018,Andrew Michael Holness,0,3.0,3.8,1
+JAM,Jamaica,2019,Andrew Michael Holness,0,4.0,4.0,1
+JAM,Jamaica,2020,Andrew Michael Holness,0,5.0,4.2,1
+JAM,Jamaica,2021,Andrew Michael Holness,0,6.0,4.4,1
+JAM,Jamaica,2022,Andrew Michael Holness,0,7.0,4.6,0
+JAM,Jamaica,2023,Andrew Michael Holness,0,8.0,4.8,0
+JAM,Jamaica,2024,Andrew Michael Holness,0,9.0,5.0,0
+JOR,Jordan,2000,Ali Abu al-Ragheb,0,1.0,1.0,0
+JOR,Jordan,2001,Ali Abu al-Ragheb,0,2.0,2.0,0
+JOR,Jordan,2002,Ali Abu al-Ragheb,0,3.0,3.0,0
+JOR,Jordan,2003,Faisal al-Fayez,1,1.0,2.0,0
+JOR,Jordan,2004,Faisal al-Fayez,0,2.0,2.5,1
+JOR,Jordan,2005,Marouf al-Bakhit,1,1.0,2.0,1
+JOR,Jordan,2006,Marouf al-Bakhit,0,2.0,2.3333333333333335,2
+JOR,Jordan,2007,Nader Dahabi,1,1.0,2.0,2
+JOR,Jordan,2008,Nader Dahabi,0,2.0,2.25,3
+JOR,Jordan,2009,Samir al-Rifai,1,1.0,2.0,2
+JOR,Jordan,2010,Samir al-Rifai,0,2.0,2.2,3
+JOR,Jordan,2011,Awn Shawkat al-Khasawneh,1,1.0,2.0,2
+JOR,Jordan,2012,Fayez al-Tarawneh,1,1.0,1.8571428571428572,3
+JOR,Jordan,2013,Abdullah Ensour,1,1.0,1.75,3
+JOR,Jordan,2014,Abdullah Ensour,0,2.0,1.875,4
+JOR,Jordan,2015,Abdullah Ensour,0,3.0,2.0,3
+JOR,Jordan,2016,Hani Mulki,1,1.0,1.8888888888888888,3
+JOR,Jordan,2017,Hani Mulki,0,2.0,2.0,3
+JOR,Jordan,2018,Omar al-Razzaz,1,1.0,1.9,2
+JOR,Jordan,2019,Omar al-Razzaz,0,2.0,2.0,2
+JOR,Jordan,2020,Bisher Al Khasawneh,1,1.0,1.9090909090909092,2
+JOR,Jordan,2021,Bisher Al Khasawneh,0,2.0,2.0,3
+JOR,Jordan,2022,Bisher Al Khasawneh,0,3.0,2.090909090909091,2
+JOR,Jordan,2023,Bisher Al Khasawneh,0,4.0,2.1818181818181817,2
+JOR,Jordan,2024,Jafar Hassan,1,1.0,2.0833333333333335,1
+JPN,Japan,2000,Yoshiro Mori,0,1.0,1.0,0
+JPN,Japan,2001,Junichiro Koizumi,1,1.0,1.0,0
+JPN,Japan,2002,Junichiro Koizumi,0,2.0,1.5,1
+JPN,Japan,2003,Junichiro Koizumi,0,3.0,2.0,1
+JPN,Japan,2004,Junichiro Koizumi,0,4.0,2.5,1
+JPN,Japan,2005,Junichiro Koizumi,0,5.0,3.0,1
+JPN,Japan,2006,Shinzo Abe,1,1.0,2.3333333333333335,1
+JPN,Japan,2007,Yasuo Fukuda,1,1.0,2.0,1
+JPN,Japan,2008,Taro Aso,1,1.0,1.8,2
+JPN,Japan,2009,Yukio Hatoyama,1,1.0,1.6666666666666667,3
+JPN,Japan,2010,Naoto Kan,1,1.0,1.5714285714285714,4
+JPN,Japan,2011,Yoshihiko Noda,1,1.0,1.5,5
+JPN,Japan,2012,Shinzo Abe,1,1.0,1.4444444444444444,5
+JPN,Japan,2013,Shinzo Abe,0,2.0,1.5555555555555556,5
+JPN,Japan,2014,Shinzo Abe,0,3.0,1.6666666666666667,4
+JPN,Japan,2015,Shinzo Abe,0,4.0,1.7777777777777777,3
+JPN,Japan,2016,Shinzo Abe,0,5.0,1.8888888888888888,2
+JPN,Japan,2017,Shinzo Abe,0,6.0,2.0,1
+JPN,Japan,2018,Shinzo Abe,0,7.0,2.111111111111111,0
+JPN,Japan,2019,Shinzo Abe,0,8.0,2.2222222222222223,0
+JPN,Japan,2020,Yoshihide Suga,1,1.0,2.1,0
+JPN,Japan,2021,Fumio Kishida,1,1.0,2.0,1
+JPN,Japan,2022,Fumio Kishida,0,2.0,2.090909090909091,2
+JPN,Japan,2023,Fumio Kishida,0,3.0,2.1818181818181817,2
+JPN,Japan,2024,Shigeru Ishiba,1,1.0,2.0833333333333335,2
+KAZ,Kazakhstan,2000,Kasymzhomart Kemelevich Tokayev,0,1.0,1.0,0
+KAZ,Kazakhstan,2001,Kasymzhomart Kemelevich Tokayev,0,2.0,2.0,0
+KAZ,Kazakhstan,2002,Imangali Nurgaliyevich Tasmagambetov,1,1.0,1.5,0
+KAZ,Kazakhstan,2003,Danial Kenzhetayevich Akhmetov,1,1.0,1.3333333333333333,1
+KAZ,Kazakhstan,2004,Danial Kenzhetayevich Akhmetov,0,2.0,1.6666666666666667,2
+KAZ,Kazakhstan,2005,Danial Kenzhetayevich Akhmetov,0,3.0,2.0,2
+KAZ,Kazakhstan,2006,Danial Kenzhetayevich Akhmetov,0,4.0,2.3333333333333335,2
+KAZ,Kazakhstan,2007,Karim Kazhymkanovich Masimov,1,1.0,2.0,2
+KAZ,Kazakhstan,2008,Karim Kazhymkanovich Masimov,0,2.0,2.25,2
+KAZ,Kazakhstan,2009,Karim Kazhymkanovich Masimov,0,3.0,2.5,1
+KAZ,Kazakhstan,2010,Karim Kazhymkanovich Masimov,0,4.0,2.75,1
+KAZ,Kazakhstan,2011,Karim Kazhymkanovich Masimov,0,5.0,3.0,1
+KAZ,Kazakhstan,2012,Serik Nyghmetuly Akhmetov,1,1.0,2.6,1
+KAZ,Kazakhstan,2013,Serik Nyghmetuly Akhmetov,0,2.0,2.8,1
+KAZ,Kazakhstan,2014,Karim Kazhymkanovich Masimov,1,1.0,2.5,1
+KAZ,Kazakhstan,2015,Karim Kazhymkanovich Masimov,0,2.0,2.6666666666666665,2
+KAZ,Kazakhstan,2016,Bakytzhan Abdirovich Sagintayev,1,1.0,2.4285714285714284,2
+KAZ,Kazakhstan,2017,Bakytzhan Abdirovich Sagintayev,0,2.0,2.5714285714285716,3
+KAZ,Kazakhstan,2018,Bakytzhan Abdirovich Sagintayev,0,3.0,2.7142857142857144,2
+KAZ,Kazakhstan,2019,Askar Uzakbaiuly Mamin,1,1.0,2.5,2
+KAZ,Kazakhstan,2020,Askar Uzakbaiuly Mamin,0,2.0,2.625,2
+KAZ,Kazakhstan,2021,Askar Uzakbaiuly Mamin,0,3.0,2.75,2
+KAZ,Kazakhstan,2022,Alikhan Smailov,1,1.0,2.5555555555555554,1
+KAZ,Kazakhstan,2023,Alikhan Smailov,0,2.0,2.6666666666666665,2
+KAZ,Kazakhstan,2024,Oljas Abayulı Bektenov,1,1.0,2.5,2
+KEN,Kenya,2000,,0,,,0
+KEN,Kenya,2001,,0,,,0
+KEN,Kenya,2002,,0,,,0
+KEN,Kenya,2003,,0,,,0
+KEN,Kenya,2004,,0,,,0
+KEN,Kenya,2005,,0,,,0
+KEN,Kenya,2006,,0,,,0
+KEN,Kenya,2007,,0,,,0
+KEN,Kenya,2008,Raila Amolo Odinga,0,1.0,1.0,0
+KEN,Kenya,2009,Raila Amolo Odinga,0,2.0,2.0,0
+KEN,Kenya,2010,Raila Amolo Odinga,0,3.0,3.0,0
+KEN,Kenya,2011,Raila Amolo Odinga,0,4.0,4.0,0
+KEN,Kenya,2012,Raila Amolo Odinga,0,5.0,5.0,0
+KEN,Kenya,2013,,0,,5.0,0
+KEN,Kenya,2014,,0,,5.0,0
+KEN,Kenya,2015,,0,,5.0,0
+KEN,Kenya,2016,,0,,5.0,0
+KEN,Kenya,2017,,0,,5.0,0
+KEN,Kenya,2018,,0,,5.0,0
+KEN,Kenya,2019,,0,,5.0,0
+KEN,Kenya,2020,,0,,5.0,0
+KEN,Kenya,2021,,0,,5.0,0
+KEN,Kenya,2022,,0,,5.0,0
+KEN,Kenya,2023,,0,,5.0,0
+KEN,Kenya,2024,,0,,5.0,0
+KGZ,Kyrgyzstan,2000,Kurmanbek Saliyevich Bakiyev,0,1.0,1.0,0
+KGZ,Kyrgyzstan,2001,Kurmanbek Saliyevich Bakiyev,0,2.0,2.0,0
+KGZ,Kyrgyzstan,2002,Nikolay Timofeyevich Tanayev,1,1.0,1.5,0
+KGZ,Kyrgyzstan,2003,Nikolay Timofeyevich Tanayev,0,2.0,2.0,1
+KGZ,Kyrgyzstan,2004,Nikolay Timofeyevich Tanayev,0,3.0,2.5,1
+KGZ,Kyrgyzstan,2005,Feliks Sharshenbayevich Kulov,1,1.0,2.0,1
+KGZ,Kyrgyzstan,2006,Feliks Sharshenbayevich Kulov,0,2.0,2.3333333333333335,2
+KGZ,Kyrgyzstan,2007,Igor Vitalyevich Chudinov,1,1.0,2.0,2
+KGZ,Kyrgyzstan,2008,Igor Vitalyevich Chudinov,0,2.0,2.25,2
+KGZ,Kyrgyzstan,2009,Daniyar Toktogulovich Usenov,1,1.0,2.0,2
+KGZ,Kyrgyzstan,2010,Almazbek Sharshenovich Atambayev,1,1.0,1.8333333333333333,3
+KGZ,Kyrgyzstan,2011,Omurbek Toktogulovich Babanov,1,1.0,1.7142857142857142,3
+KGZ,Kyrgyzstan,2012,Zhantoro Zholdoshevich Satybaldiyev,1,1.0,1.625,4
+KGZ,Kyrgyzstan,2013,Zhantoro Zholdoshevich Satybaldiyev,0,2.0,1.75,4
+KGZ,Kyrgyzstan,2014,Zhoomart Kaipovich Otorbayev,1,1.0,1.6666666666666667,4
+KGZ,Kyrgyzstan,2015,Temir Argembayevich Sariyev,1,1.0,1.6,4
+KGZ,Kyrgyzstan,2016,Sooronbay Jeenbekov,1,1.0,1.5454545454545454,4
+KGZ,Kyrgyzstan,2017,Sapar Dzhumakadyrovich Isakov,1,1.0,1.5,4
+KGZ,Kyrgyzstan,2018,Mukhammedkalyy Abylgaziev,1,1.0,1.4615384615384615,4
+KGZ,Kyrgyzstan,2019,Mukhammedkalyy Abylgaziev,0,2.0,1.5384615384615385,5
+KGZ,Kyrgyzstan,2020,Artem Novikov,1,1.0,1.5,4
+KGZ,Kyrgyzstan,2021,,0,,1.5,4
+KGZ,Kyrgyzstan,2022,,0,,1.5,3
+KGZ,Kyrgyzstan,2023,,0,,1.5,2
+KGZ,Kyrgyzstan,2024,,0,,1.5,1
+KHM,Cambodia,2000,Hun Sen,0,1.0,1.0,0
+KHM,Cambodia,2001,Hun Sen,0,2.0,2.0,0
+KHM,Cambodia,2002,Hun Sen,0,3.0,3.0,0
+KHM,Cambodia,2003,Hun Sen,0,4.0,4.0,0
+KHM,Cambodia,2004,Hun Sen,0,5.0,5.0,0
+KHM,Cambodia,2005,Hun Sen,0,6.0,6.0,0
+KHM,Cambodia,2006,Hun Sen,0,7.0,7.0,0
+KHM,Cambodia,2007,Hun Sen,0,8.0,8.0,0
+KHM,Cambodia,2008,Hun Sen,0,9.0,9.0,0
+KHM,Cambodia,2009,Hun Sen,0,10.0,10.0,0
+KHM,Cambodia,2010,Hun Sen,0,11.0,11.0,0
+KHM,Cambodia,2011,Hun Sen,0,12.0,12.0,0
+KHM,Cambodia,2012,Hun Sen,0,13.0,13.0,0
+KHM,Cambodia,2013,Hun Sen,0,14.0,14.0,0
+KHM,Cambodia,2014,Hun Sen,0,15.0,15.0,0
+KHM,Cambodia,2015,Hun Sen,0,16.0,16.0,0
+KHM,Cambodia,2016,Hun Sen,0,17.0,17.0,0
+KHM,Cambodia,2017,Hun Sen,0,18.0,18.0,0
+KHM,Cambodia,2018,Hun Sen,0,19.0,19.0,0
+KHM,Cambodia,2019,Hun Sen,0,20.0,20.0,0
+KHM,Cambodia,2020,Hun Sen,0,21.0,21.0,0
+KHM,Cambodia,2021,Hun Sen,0,22.0,22.0,0
+KHM,Cambodia,2022,Hun Sen,0,23.0,23.0,0
+KHM,Cambodia,2023,Hun Manet,1,1.0,12.0,0
+KHM,Cambodia,2024,Hun Manet,0,2.0,12.5,1
+KOR,South Korea,2000,,0,,,0
+KOR,South Korea,2001,,0,,,0
+KOR,South Korea,2002,,0,,,0
+KOR,South Korea,2003,,0,,,0
+KOR,South Korea,2004,,0,,,0
+KOR,South Korea,2005,,0,,,0
+KOR,South Korea,2006,,0,,,0
+KOR,South Korea,2007,,0,,,0
+KOR,South Korea,2008,,0,,,0
+KOR,South Korea,2009,,0,,,0
+KOR,South Korea,2010,,0,,,0
+KOR,South Korea,2011,,0,,,0
+KOR,South Korea,2012,,0,,,0
+KOR,South Korea,2013,,0,,,0
+KOR,South Korea,2014,,0,,,0
+KOR,South Korea,2015,,0,,,0
+KOR,South Korea,2016,,0,,,0
+KOR,South Korea,2017,,0,,,0
+KOR,South Korea,2018,,0,,,0
+KOR,South Korea,2019,,0,,,0
+KOR,South Korea,2020,,0,,,0
+KOR,South Korea,2021,,0,,,0
+KOR,South Korea,2022,,0,,,0
+KOR,South Korea,2023,,0,,,0
+KOR,South Korea,2024,,0,,,0
+KWT,Kuwait,2000,Sheikh Saad Al Abdullah Al Salim Al Sabah,0,1.0,1.0,0
+KWT,Kuwait,2001,,0,,1.0,0
+KWT,Kuwait,2002,Sheikh Saad Al Abdullah Al Salim Al Sabah,0,1.0,1.0,0
+KWT,Kuwait,2003,Sheikh Saad Al Abdullah Al Salim Al Sabah,0,2.0,1.5,0
+KWT,Kuwait,2004,Sheikh Saad Al Abdullah Al Salim Al Sabah,0,3.0,2.0,0
+KWT,Kuwait,2005,Sheikh Saad Al Abdullah Al Salim Al Sabah,0,4.0,2.5,0
+KWT,Kuwait,2006,Sheikh Nasser Muhammad Al Ahmad Al Sabah,1,1.0,2.0,0
+KWT,Kuwait,2007,Sheikh Nasser Muhammad Al Ahmad Al Sabah,0,2.0,2.3333333333333335,1
+KWT,Kuwait,2008,Sheikh Nasser Muhammad Al Ahmad Al Sabah,0,3.0,2.6666666666666665,1
+KWT,Kuwait,2009,Sheikh Nasser Muhammad Al Ahmad Al Sabah,0,4.0,3.0,1
+KWT,Kuwait,2010,Sheikh Nasser Muhammad Al Ahmad Al Sabah,0,5.0,3.3333333333333335,1
+KWT,Kuwait,2011,Sheikh Jaber Mubarak Hamad Al-Sabah,1,1.0,2.75,1
+KWT,Kuwait,2012,Sheikh Jaber Mubarak Hamad Al-Sabah,0,2.0,3.0,1
+KWT,Kuwait,2013,Sheikh Jaber Mubarak Hamad Al-Sabah,0,3.0,3.25,1
+KWT,Kuwait,2014,Sheikh Jaber Mubarak Hamad Al-Sabah,0,4.0,3.5,1
+KWT,Kuwait,2015,Sheikh Jaber Mubarak Hamad Al-Sabah,0,5.0,3.75,1
+KWT,Kuwait,2016,Sheikh Jaber Mubarak Hamad Al-Sabah,0,6.0,4.0,1
+KWT,Kuwait,2017,Sheikh Jaber Mubarak Hamad Al-Sabah,0,7.0,4.25,0
+KWT,Kuwait,2018,Sheikh Jaber Mubarak Hamad Al-Sabah,0,8.0,4.5,0
+KWT,Kuwait,2019,Sheikh Sabah Al-Khaled Al-Hamad Al-Sabah,1,1.0,3.8,0
+KWT,Kuwait,2020,Sheikh Sabah Al-Khaled Al-Hamad Al-Sabah,0,2.0,4.0,1
+KWT,Kuwait,2021,Sheikh Sabah Al-Khaled Al-Hamad Al-Sabah,0,3.0,4.2,1
+KWT,Kuwait,2022,Sheikh Ahmad Nawaf Al-Ahmad Al-Sabah,1,1.0,3.6666666666666665,1
+KWT,Kuwait,2023,Sheikh Ahmad Nawaf Al-Ahmad Al-Sabah,0,2.0,3.8333333333333335,2
+KWT,Kuwait,2024,Sheikh Ahmad Abdullah Al Ahmad Al Sabah,1,1.0,3.4285714285714284,2
+LAO,Laos,2000,Sisavath Keobounphanh,0,1.0,1.0,0
+LAO,Laos,2001,Boungnang Vorachith,1,1.0,1.0,0
+LAO,Laos,2002,Boungnang Vorachith,0,2.0,1.5,1
+LAO,Laos,2003,Boungnang Vorachith,0,3.0,2.0,1
+LAO,Laos,2004,Boungnang Vorachith,0,4.0,2.5,1
+LAO,Laos,2005,Boungnang Vorachith,0,5.0,3.0,1
+LAO,Laos,2006,Bouasone Bouphavanh,1,1.0,2.3333333333333335,1
+LAO,Laos,2007,Bouasone Bouphavanh,0,2.0,2.6666666666666665,1
+LAO,Laos,2008,Bouasone Bouphavanh,0,3.0,3.0,1
+LAO,Laos,2009,Bouasone Bouphavanh,0,4.0,3.3333333333333335,1
+LAO,Laos,2010,Thongsing Thammavong,1,1.0,2.75,1
+LAO,Laos,2011,Thongsing Thammavong,0,2.0,3.0,2
+LAO,Laos,2012,Thongsing Thammavong,0,3.0,3.25,1
+LAO,Laos,2013,Thongsing Thammavong,0,4.0,3.5,1
+LAO,Laos,2014,Thongsing Thammavong,0,5.0,3.75,1
+LAO,Laos,2015,Thongsing Thammavong,0,6.0,4.0,1
+LAO,Laos,2016,Thongloun Sisoulith,1,1.0,3.4,0
+LAO,Laos,2017,Thongloun Sisoulith,0,2.0,3.6,1
+LAO,Laos,2018,Thongloun Sisoulith,0,3.0,3.8,1
+LAO,Laos,2019,Thongloun Sisoulith,0,4.0,4.0,1
+LAO,Laos,2020,Thongloun Sisoulith,0,5.0,4.2,1
+LAO,Laos,2021,Phankham Viphavanh,1,1.0,3.6666666666666665,1
+LAO,Laos,2022,Sonexay Siphandone,1,1.0,3.2857142857142856,1
+LAO,Laos,2023,Sonexay Siphandone,0,2.0,3.4285714285714284,2
+LAO,Laos,2024,Sonexay Siphandone,0,3.0,3.5714285714285716,2
+LBN,Lebanon,2000,Rafiq Bahaeddine al-Hariri,0,1.0,1.0,0
+LBN,Lebanon,2001,Rafiq Bahaeddine al-Hariri,0,2.0,2.0,0
+LBN,Lebanon,2002,Rafiq Bahaeddine al-Hariri,0,3.0,3.0,0
+LBN,Lebanon,2003,Rafiq Bahaeddine al-Hariri,0,4.0,4.0,0
+LBN,Lebanon,2004,Omar Karami,1,1.0,2.5,0
+LBN,Lebanon,2005,Fouad Siniora,1,1.0,2.0,1
+LBN,Lebanon,2006,Fouad Siniora,0,2.0,2.3333333333333335,2
+LBN,Lebanon,2007,,0,,2.3333333333333335,2
+LBN,Lebanon,2008,Fouad Siniora,0,1.0,2.0,2
+LBN,Lebanon,2009,Saad Hariri,1,1.0,1.8,2
+LBN,Lebanon,2010,Saad Hariri,0,2.0,2.0,2
+LBN,Lebanon,2011,Najib Azmi Mikati,1,1.0,1.8333333333333333,1
+LBN,Lebanon,2012,Najib Azmi Mikati,0,2.0,2.0,2
+LBN,Lebanon,2013,Najib Azmi Mikati,0,3.0,2.1666666666666665,2
+LBN,Lebanon,2014,,0,,2.1666666666666665,2
+LBN,Lebanon,2015,,0,,2.1666666666666665,1
+LBN,Lebanon,2016,Saad Hariri,0,1.0,2.0,1
+LBN,Lebanon,2017,Saad Hariri,0,2.0,2.142857142857143,0
+LBN,Lebanon,2018,Saad Hariri,0,3.0,2.2857142857142856,0
+LBN,Lebanon,2019,Saad Hariri,0,4.0,2.4285714285714284,0
+LBN,Lebanon,2020,Saad Hariri,0,5.0,2.5714285714285716,0
+LBN,Lebanon,2021,Najib Azmi Mikati,1,1.0,2.375,0
+LBN,Lebanon,2022,Najib Azmi Mikati,0,2.0,2.5,1
+LBN,Lebanon,2023,Najib Azmi Mikati,0,3.0,2.625,1
+LBN,Lebanon,2024,Najib Azmi Mikati,0,4.0,2.75,1
+LBR,Liberia,2000,,0,,,0
+LBR,Liberia,2001,,0,,,0
+LBR,Liberia,2002,,0,,,0
+LBR,Liberia,2003,,0,,,0
+LBR,Liberia,2004,,0,,,0
+LBR,Liberia,2005,,0,,,0
+LBR,Liberia,2006,,0,,,0
+LBR,Liberia,2007,,0,,,0
+LBR,Liberia,2008,,0,,,0
+LBR,Liberia,2009,,0,,,0
+LBR,Liberia,2010,,0,,,0
+LBR,Liberia,2011,,0,,,0
+LBR,Liberia,2012,,0,,,0
+LBR,Liberia,2013,,0,,,0
+LBR,Liberia,2014,,0,,,0
+LBR,Liberia,2015,,0,,,0
+LBR,Liberia,2016,,0,,,0
+LBR,Liberia,2017,,0,,,0
+LBR,Liberia,2018,,0,,,0
+LBR,Liberia,2019,,0,,,0
+LBR,Liberia,2020,,0,,,0
+LBR,Liberia,2021,,0,,,0
+LBR,Liberia,2022,,0,,,0
+LBR,Liberia,2023,,0,,,0
+LBR,Liberia,2024,,0,,,0
+LBY,Libya,2000,Mubarak Abdallah al-Shamikh,0,1.0,1.0,0
+LBY,Libya,2001,Mubarak Abdallah al-Shamikh,0,2.0,2.0,0
+LBY,Libya,2002,Mubarak Abdallah al-Shamikh,0,3.0,3.0,0
+LBY,Libya,2003,Shukri Muhammad Ghanem,1,1.0,2.0,0
+LBY,Libya,2004,Shukri Muhammad Ghanem,0,2.0,2.5,1
+LBY,Libya,2005,Shukri Muhammad Ghanem,0,3.0,3.0,1
+LBY,Libya,2006,Al-Baghdadi Ali al-Mahmudi,1,1.0,2.3333333333333335,1
+LBY,Libya,2007,Al-Baghdadi Ali al-Mahmudi,0,2.0,2.6666666666666665,2
+LBY,Libya,2008,Al-Baghdadi Ali al-Mahmudi,0,3.0,3.0,2
+LBY,Libya,2009,Al-Baghdadi Ali al-Mahmudi,0,4.0,3.3333333333333335,1
+LBY,Libya,2010,Al-Baghdadi Ali al-Mahmudi,0,5.0,3.6666666666666665,1
+LBY,Libya,2011,Abdel Rahim al-Kib,1,1.0,3.0,1
+LBY,Libya,2012,Ali Zeidan,1,1.0,2.6,1
+LBY,Libya,2013,Ali Zeidan,0,2.0,2.8,2
+LBY,Libya,2014,Omar al-Hassi,1,1.0,2.5,2
+LBY,Libya,2015,Khalifa al-Ghwayl,1,1.0,2.2857142857142856,3
+LBY,Libya,2016,,0,,2.2857142857142856,4
+LBY,Libya,2017,,0,,2.2857142857142856,3
+LBY,Libya,2018,,0,,2.2857142857142856,2
+LBY,Libya,2019,,0,,2.2857142857142856,2
+LBY,Libya,2020,,0,,2.2857142857142856,1
+LBY,Libya,2021,Abdul Hamid Dbeibah,0,1.0,2.125,0
+LBY,Libya,2022,Abdul Hamid Dbeibah,0,2.0,2.25,0
+LBY,Libya,2023,Abdul Hamid Dbeibah,0,3.0,2.375,0
+LBY,Libya,2024,Abdul Hamid Dbeibah,0,4.0,2.5,0
+LKA,Sri Lanka,2000,,0,,,0
+LKA,Sri Lanka,2001,,0,,,0
+LKA,Sri Lanka,2002,,0,,,0
+LKA,Sri Lanka,2003,,0,,,0
+LKA,Sri Lanka,2004,,0,,,0
+LKA,Sri Lanka,2005,,0,,,0
+LKA,Sri Lanka,2006,,0,,,0
+LKA,Sri Lanka,2007,,0,,,0
+LKA,Sri Lanka,2008,,0,,,0
+LKA,Sri Lanka,2009,,0,,,0
+LKA,Sri Lanka,2010,,0,,,0
+LKA,Sri Lanka,2011,,0,,,0
+LKA,Sri Lanka,2012,,0,,,0
+LKA,Sri Lanka,2013,,0,,,0
+LKA,Sri Lanka,2014,,0,,,0
+LKA,Sri Lanka,2015,,0,,,0
+LKA,Sri Lanka,2016,,0,,,0
+LKA,Sri Lanka,2017,,0,,,0
+LKA,Sri Lanka,2018,,0,,,0
+LKA,Sri Lanka,2019,,0,,,0
+LKA,Sri Lanka,2020,,0,,,0
+LKA,Sri Lanka,2021,,0,,,0
+LKA,Sri Lanka,2022,,0,,,0
+LKA,Sri Lanka,2023,,0,,,0
+LKA,Sri Lanka,2024,,0,,,0
+LSO,Lesotho,2000,Bethuel Pakalitha Mosisili,0,1.0,1.0,0
+LSO,Lesotho,2001,Bethuel Pakalitha Mosisili,0,2.0,2.0,0
+LSO,Lesotho,2002,Bethuel Pakalitha Mosisili,0,3.0,3.0,0
+LSO,Lesotho,2003,Bethuel Pakalitha Mosisili,0,4.0,4.0,0
+LSO,Lesotho,2004,Bethuel Pakalitha Mosisili,0,5.0,5.0,0
+LSO,Lesotho,2005,Bethuel Pakalitha Mosisili,0,6.0,6.0,0
+LSO,Lesotho,2006,Bethuel Pakalitha Mosisili,0,7.0,7.0,0
+LSO,Lesotho,2007,Bethuel Pakalitha Mosisili,0,8.0,8.0,0
+LSO,Lesotho,2008,Bethuel Pakalitha Mosisili,0,9.0,9.0,0
+LSO,Lesotho,2009,Bethuel Pakalitha Mosisili,0,10.0,10.0,0
+LSO,Lesotho,2010,Bethuel Pakalitha Mosisili,0,11.0,11.0,0
+LSO,Lesotho,2011,Bethuel Pakalitha Mosisili,0,12.0,12.0,0
+LSO,Lesotho,2012,Thomas Motsoahae Thabane,1,1.0,6.5,0
+LSO,Lesotho,2013,Thomas Motsoahae Thabane,0,2.0,7.0,1
+LSO,Lesotho,2014,Thomas Motsoahae Thabane,0,3.0,7.5,1
+LSO,Lesotho,2015,Pakalitha Mosisili,1,1.0,5.333333333333333,1
+LSO,Lesotho,2016,Pakalitha Mosisili,0,2.0,5.666666666666667,2
+LSO,Lesotho,2017,Thomas Motsoahae Thabane,1,1.0,4.5,2
+LSO,Lesotho,2018,Thomas Motsoahae Thabane,0,2.0,4.75,2
+LSO,Lesotho,2019,Thomas Motsoahae Thabane,0,3.0,5.0,2
+LSO,Lesotho,2020,Moeketsi Majoro,1,1.0,4.2,2
+LSO,Lesotho,2021,Moeketsi Majoro,0,2.0,4.4,2
+LSO,Lesotho,2022,Samuel Ntsokoane Matekane,1,1.0,3.8333333333333335,2
+LSO,Lesotho,2023,Samuel Ntsokoane Matekane,0,2.0,4.0,2
+LSO,Lesotho,2024,Samuel Ntsokoane Matekane,0,3.0,4.166666666666667,2
+LTU,Lithuania,2000,Rolandas Paksas,0,1.0,1.0,0
+LTU,Lithuania,2001,Algirdas Mykolas Brazauskas,1,1.0,1.0,0
+LTU,Lithuania,2002,Algirdas Mykolas Brazauskas,0,2.0,1.5,1
+LTU,Lithuania,2003,Algirdas Mykolas Brazauskas,0,3.0,2.0,1
+LTU,Lithuania,2004,Algirdas Mykolas Brazauskas,0,4.0,2.5,1
+LTU,Lithuania,2005,Algirdas Mykolas Brazauskas,0,5.0,3.0,1
+LTU,Lithuania,2006,Gediminas Kirkilas,1,1.0,2.3333333333333335,1
+LTU,Lithuania,2007,Gediminas Kirkilas,0,2.0,2.6666666666666665,1
+LTU,Lithuania,2008,Andrius Kubilius,1,1.0,2.25,1
+LTU,Lithuania,2009,Andrius Kubilius,0,2.0,2.5,2
+LTU,Lithuania,2010,Andrius Kubilius,0,3.0,2.75,2
+LTU,Lithuania,2011,Andrius Kubilius,0,4.0,3.0,2
+LTU,Lithuania,2012,Algirdas Butkevicius,1,1.0,2.6,1
+LTU,Lithuania,2013,Algirdas Butkevicius,0,2.0,2.8,2
+LTU,Lithuania,2014,Algirdas Butkevicius,0,3.0,3.0,1
+LTU,Lithuania,2015,Algirdas Butkevicius,0,4.0,3.2,1
+LTU,Lithuania,2016,Saulius Skvernelis,1,1.0,2.8333333333333335,1
+LTU,Lithuania,2017,Saulius Skvernelis,0,2.0,3.0,2
+LTU,Lithuania,2018,Saulius Skvernelis,0,3.0,3.1666666666666665,1
+LTU,Lithuania,2019,Saulius Skvernelis,0,4.0,3.3333333333333335,1
+LTU,Lithuania,2020,Ingrida Šimonytė,1,1.0,3.0,1
+LTU,Lithuania,2021,Ingrida Šimonytė,0,2.0,3.142857142857143,2
+LTU,Lithuania,2022,Ingrida Šimonytė,0,3.0,3.2857142857142856,1
+LTU,Lithuania,2023,Ingrida Šimonytė,0,4.0,3.4285714285714284,1
+LTU,Lithuania,2024,Gintautas Paluckas,1,1.0,3.125,1
+LUX,Luxembourg,2000,Jean-Claude Juncker,0,1.0,1.0,0
+LUX,Luxembourg,2001,Jean-Claude Juncker,0,2.0,2.0,0
+LUX,Luxembourg,2002,Jean-Claude Juncker,0,3.0,3.0,0
+LUX,Luxembourg,2003,Jean-Claude Juncker,0,4.0,4.0,0
+LUX,Luxembourg,2004,Jean-Claude Juncker,0,5.0,5.0,0
+LUX,Luxembourg,2005,Jean-Claude Juncker,0,6.0,6.0,0
+LUX,Luxembourg,2006,Jean-Claude Juncker,0,7.0,7.0,0
+LUX,Luxembourg,2007,Jean-Claude Juncker,0,8.0,8.0,0
+LUX,Luxembourg,2008,Jean-Claude Juncker,0,9.0,9.0,0
+LUX,Luxembourg,2009,Jean-Claude Juncker,0,10.0,10.0,0
+LUX,Luxembourg,2010,Jean-Claude Juncker,0,11.0,11.0,0
+LUX,Luxembourg,2011,Jean-Claude Juncker,0,12.0,12.0,0
+LUX,Luxembourg,2012,Jean-Claude Juncker,0,13.0,13.0,0
+LUX,Luxembourg,2013,Xavier Bettel,1,1.0,7.0,0
+LUX,Luxembourg,2014,Xavier Bettel,0,2.0,7.5,1
+LUX,Luxembourg,2015,Xavier Bettel,0,3.0,8.0,1
+LUX,Luxembourg,2016,Xavier Bettel,0,4.0,8.5,1
+LUX,Luxembourg,2017,Xavier Bettel,0,5.0,9.0,1
+LUX,Luxembourg,2018,Xavier Bettel,0,6.0,9.5,1
+LUX,Luxembourg,2019,Xavier Bettel,0,7.0,10.0,0
+LUX,Luxembourg,2020,Xavier Bettel,0,8.0,10.5,0
+LUX,Luxembourg,2021,Xavier Bettel,0,9.0,11.0,0
+LUX,Luxembourg,2022,Xavier Bettel,0,10.0,11.5,0
+LUX,Luxembourg,2023,Luc Frieden,1,1.0,8.0,0
+LUX,Luxembourg,2024,Luc Frieden,0,2.0,8.333333333333334,1
+LVA,Latvia,2000,Andris Berzins,0,1.0,1.0,0
+LVA,Latvia,2001,Andris Berzins,0,2.0,2.0,0
+LVA,Latvia,2002,Einars Repse,1,1.0,1.5,0
+LVA,Latvia,2003,Einars Repse,0,2.0,2.0,1
+LVA,Latvia,2004,Aigars Kalvitis,1,1.0,1.6666666666666667,1
+LVA,Latvia,2005,Aigars Kalvitis,0,2.0,2.0,2
+LVA,Latvia,2006,Aigars Kalvitis,0,3.0,2.3333333333333335,2
+LVA,Latvia,2007,Ivars Godmanis,1,1.0,2.0,2
+LVA,Latvia,2008,Ivars Godmanis,0,2.0,2.25,2
+LVA,Latvia,2009,Valdis Dombrovskis,1,1.0,2.0,2
+LVA,Latvia,2010,Valdis Dombrovskis,0,2.0,2.2,2
+LVA,Latvia,2011,Valdis Dombrovskis,0,3.0,2.4,2
+LVA,Latvia,2012,Valdis Dombrovskis,0,4.0,2.6,2
+LVA,Latvia,2013,Valdis Dombrovskis,0,5.0,2.8,1
+LVA,Latvia,2014,Laimdota Straujuma,1,1.0,2.5,1
+LVA,Latvia,2015,Laimdota Straujuma,0,2.0,2.6666666666666665,1
+LVA,Latvia,2016,Māris Kučinskis,1,1.0,2.4285714285714284,1
+LVA,Latvia,2017,Māris Kučinskis,0,2.0,2.5714285714285716,2
+LVA,Latvia,2018,Māris Kučinskis,0,3.0,2.7142857142857144,2
+LVA,Latvia,2019,Arturs Krišjānis Kariņš,1,1.0,2.5,2
+LVA,Latvia,2020,Arturs Krišjānis Kariņš,0,2.0,2.625,2
+LVA,Latvia,2021,Arturs Krišjānis Kariņš,0,3.0,2.75,2
+LVA,Latvia,2022,Arturs Krišjānis Kariņš,0,4.0,2.875,1
+LVA,Latvia,2023,Evika Siliņa,1,1.0,2.6666666666666665,1
+LVA,Latvia,2024,Evika Siliņa,0,2.0,2.7777777777777777,2
+MAR,Morocco,2000,Abderrahmane Youssoufi,0,1.0,1.0,0
+MAR,Morocco,2001,Abderrahmane Youssoufi,0,2.0,2.0,0
+MAR,Morocco,2002,Driss Jettou,1,1.0,1.5,0
+MAR,Morocco,2003,Driss Jettou,0,2.0,2.0,1
+MAR,Morocco,2004,Driss Jettou,0,3.0,2.5,1
+MAR,Morocco,2005,Driss Jettou,0,4.0,3.0,1
+MAR,Morocco,2006,Driss Jettou,0,5.0,3.5,1
+MAR,Morocco,2007,Abbas El Fassi,1,1.0,2.6666666666666665,1
+MAR,Morocco,2008,Abbas El Fassi,0,2.0,3.0,1
+MAR,Morocco,2009,Abbas El Fassi,0,3.0,3.3333333333333335,1
+MAR,Morocco,2010,Abbas El Fassi,0,4.0,3.6666666666666665,1
+MAR,Morocco,2011,Abdelilah Benkirane,1,1.0,3.0,1
+MAR,Morocco,2012,Abdelilah Benkirane,0,2.0,3.25,2
+MAR,Morocco,2013,Abdelilah Benkirane,0,3.0,3.5,1
+MAR,Morocco,2014,Abdelilah Benkirane,0,4.0,3.75,1
+MAR,Morocco,2015,Abdelilah Benkirane,0,5.0,4.0,1
+MAR,Morocco,2016,Abdelilah Benkirane,0,6.0,4.25,1
+MAR,Morocco,2017,Saadeddine El Othmani,1,1.0,3.6,0
+MAR,Morocco,2018,Saadeddine El Othmani,0,2.0,3.8,1
+MAR,Morocco,2019,Saadeddine El Othmani,0,3.0,4.0,1
+MAR,Morocco,2020,Saadeddine El Othmani,0,4.0,4.2,1
+MAR,Morocco,2021,Aziz Akhannouch,1,1.0,3.6666666666666665,1
+MAR,Morocco,2022,Aziz Akhannouch,0,2.0,3.8333333333333335,2
+MAR,Morocco,2023,Aziz Akhannouch,0,3.0,4.0,1
+MAR,Morocco,2024,Aziz Akhannouch,0,4.0,4.166666666666667,1
+MDA,Moldova,2000,Dumitru Braghis,0,1.0,1.0,0
+MDA,Moldova,2001,Vasile Petru Tarlev,1,1.0,1.0,0
+MDA,Moldova,2002,Vasile Petru Tarlev,0,2.0,1.5,1
+MDA,Moldova,2003,Vasile Petru Tarlev,0,3.0,2.0,1
+MDA,Moldova,2004,Vasile Petru Tarlev,0,4.0,2.5,1
+MDA,Moldova,2005,Vasile Petru Tarlev,0,5.0,3.0,1
+MDA,Moldova,2006,Vasile Petru Tarlev,0,6.0,3.5,1
+MDA,Moldova,2007,Vasile Petru Tarlev,0,7.0,4.0,0
+MDA,Moldova,2008,Zinaida Greceanii,1,1.0,3.0,0
+MDA,Moldova,2009,Vlad Vasile Filat,1,1.0,2.5,1
+MDA,Moldova,2010,Vlad Vasile Filat,0,2.0,2.75,2
+MDA,Moldova,2011,Vlad Vasile Filat,0,3.0,3.0,2
+MDA,Moldova,2012,Vlad Vasile Filat,0,4.0,3.25,2
+MDA,Moldova,2013,Iurie Leancă,1,1.0,2.8,2
+MDA,Moldova,2014,Iurie Leancă,0,2.0,3.0,2
+MDA,Moldova,2015,Valeriu Streleț,1,1.0,2.6666666666666665,1
+MDA,Moldova,2016,Pavel Filip,1,1.0,2.4285714285714284,2
+MDA,Moldova,2017,Pavel Filip,0,2.0,2.5714285714285716,3
+MDA,Moldova,2018,Pavel Filip,0,3.0,2.7142857142857144,3
+MDA,Moldova,2019,Ion Chicu,1,1.0,2.5,2
+MDA,Moldova,2020,Ion Chicu,0,2.0,2.625,3
+MDA,Moldova,2021,Natalia Gavrilita,1,1.0,2.4444444444444446,2
+MDA,Moldova,2022,Natalia Gavrilita,0,2.0,2.5555555555555554,2
+MDA,Moldova,2023,Dorin Recean,1,1.0,2.4,2
+MDA,Moldova,2024,Dorin Recean,0,2.0,2.5,3
+MDG,Madagascar,2000,Tantely Andrianarivo,0,1.0,1.0,0
+MDG,Madagascar,2001,Tantely Andrianarivo,0,2.0,2.0,0
+MDG,Madagascar,2002,Jacques Sylla,1,1.0,1.5,0
+MDG,Madagascar,2003,Jacques Sylla,0,2.0,2.0,1
+MDG,Madagascar,2004,Jacques Sylla,0,3.0,2.5,1
+MDG,Madagascar,2005,Jacques Sylla,0,4.0,3.0,1
+MDG,Madagascar,2006,Jacques Sylla,0,5.0,3.5,1
+MDG,Madagascar,2007,Charles Rabemananjara,1,1.0,2.6666666666666665,1
+MDG,Madagascar,2008,Charles Rabemananjara,0,2.0,3.0,1
+MDG,Madagascar,2009,Albert Camille Vital,1,1.0,2.5,1
+MDG,Madagascar,2010,Albert Camille Vital,0,2.0,2.75,2
+MDG,Madagascar,2011,Omer Beriziky,1,1.0,2.4,2
+MDG,Madagascar,2012,Omer Beriziky,0,2.0,2.6,3
+MDG,Madagascar,2013,Omer Beriziky,0,3.0,2.8,2
+MDG,Madagascar,2014,Roger Kolo,1,1.0,2.5,2
+MDG,Madagascar,2015,Jean Ravelonarivo,1,1.0,2.2857142857142856,2
+MDG,Madagascar,2016,Solonandrasana Olivier Mahafaly,1,1.0,2.125,3
+MDG,Madagascar,2017,Solonandrasana Olivier Mahafaly,0,2.0,2.25,3
+MDG,Madagascar,2018,Christian Ntsay,1,1.0,2.111111111111111,3
+MDG,Madagascar,2019,Christian Ntsay,0,2.0,2.2222222222222223,4
+MDG,Madagascar,2020,Christian Ntsay,0,3.0,2.3333333333333335,3
+MDG,Madagascar,2021,Christian Ntsay,0,4.0,2.4444444444444446,2
+MDG,Madagascar,2022,Christian Ntsay,0,5.0,2.5555555555555554,1
+MDG,Madagascar,2023,Christian Ntsay,0,6.0,2.6666666666666665,1
+MDG,Madagascar,2024,Christian Ntsay,0,7.0,2.7777777777777777,0
+MDV,Maldives,2000,,0,,,0
+MDV,Maldives,2001,,0,,,0
+MDV,Maldives,2002,,0,,,0
+MDV,Maldives,2003,,0,,,0
+MDV,Maldives,2004,,0,,,0
+MDV,Maldives,2005,,0,,,0
+MDV,Maldives,2006,,0,,,0
+MDV,Maldives,2007,,0,,,0
+MDV,Maldives,2008,,0,,,0
+MDV,Maldives,2009,,0,,,0
+MDV,Maldives,2010,,0,,,0
+MDV,Maldives,2011,,0,,,0
+MDV,Maldives,2012,,0,,,0
+MDV,Maldives,2013,,0,,,0
+MDV,Maldives,2014,,0,,,0
+MDV,Maldives,2015,,0,,,0
+MDV,Maldives,2016,,0,,,0
+MDV,Maldives,2017,,0,,,0
+MDV,Maldives,2018,,0,,,0
+MDV,Maldives,2019,,0,,,0
+MDV,Maldives,2020,,0,,,0
+MDV,Maldives,2021,,0,,,0
+MDV,Maldives,2022,,0,,,0
+MDV,Maldives,2023,,0,,,0
+MDV,Maldives,2024,,0,,,0
+MEX,Mexico,2000,,0,,,0
+MEX,Mexico,2001,,0,,,0
+MEX,Mexico,2002,,0,,,0
+MEX,Mexico,2003,,0,,,0
+MEX,Mexico,2004,,0,,,0
+MEX,Mexico,2005,,0,,,0
+MEX,Mexico,2006,,0,,,0
+MEX,Mexico,2007,,0,,,0
+MEX,Mexico,2008,,0,,,0
+MEX,Mexico,2009,,0,,,0
+MEX,Mexico,2010,,0,,,0
+MEX,Mexico,2011,,0,,,0
+MEX,Mexico,2012,,0,,,0
+MEX,Mexico,2013,,0,,,0
+MEX,Mexico,2014,,0,,,0
+MEX,Mexico,2015,,0,,,0
+MEX,Mexico,2016,,0,,,0
+MEX,Mexico,2017,,0,,,0
+MEX,Mexico,2018,,0,,,0
+MEX,Mexico,2019,,0,,,0
+MEX,Mexico,2020,,0,,,0
+MEX,Mexico,2021,,0,,,0
+MEX,Mexico,2022,,0,,,0
+MEX,Mexico,2023,,0,,,0
+MEX,Mexico,2024,,0,,,0
+MKD,North Macedonia,2000,Ljubco R. Georgievski,0,1.0,1.0,0
+MKD,North Macedonia,2001,Ljubco R. Georgievski,0,2.0,2.0,0
+MKD,North Macedonia,2002,Branko Crvenkovski,1,1.0,1.5,0
+MKD,North Macedonia,2003,Branko Crvenkovski,0,2.0,2.0,1
+MKD,North Macedonia,2004,Vlado Buckovski,1,1.0,1.6666666666666667,1
+MKD,North Macedonia,2005,Vlado Buckovski,0,2.0,2.0,2
+MKD,North Macedonia,2006,Nikola Gruevski,1,1.0,1.75,2
+MKD,North Macedonia,2007,Nikola Gruevski,0,2.0,2.0,3
+MKD,North Macedonia,2008,Nikola Gruevski,0,3.0,2.25,2
+MKD,North Macedonia,2009,Nikola Gruevski,0,4.0,2.5,2
+MKD,North Macedonia,2010,Nikola Gruevski,0,5.0,2.75,1
+MKD,North Macedonia,2011,Nikola Gruevski,0,6.0,3.0,1
+MKD,North Macedonia,2012,Nikola Gruevski,0,7.0,3.25,0
+MKD,North Macedonia,2013,Nikola Gruevski,0,8.0,3.5,0
+MKD,North Macedonia,2014,Nikola Gruevski,0,9.0,3.75,0
+MKD,North Macedonia,2015,Nikola Gruevski,0,10.0,4.0,0
+MKD,North Macedonia,2016,Emil Dimitriev,1,1.0,3.4,0
+MKD,North Macedonia,2017,Zoran Zaev,1,1.0,3.0,1
+MKD,North Macedonia,2018,Zoran Zaev,0,2.0,3.1666666666666665,2
+MKD,North Macedonia,2019,Zoran Zaev,0,3.0,3.3333333333333335,2
+MKD,North Macedonia,2020,Zoran Zaev,0,4.0,3.5,2
+MKD,North Macedonia,2021,Zoran Zaev,0,5.0,3.6666666666666665,2
+MKD,North Macedonia,2022,Dimitar Kovačevski,1,1.0,3.2857142857142856,1
+MKD,North Macedonia,2023,Dimitar Kovačevski,0,2.0,3.4285714285714284,1
+MKD,North Macedonia,2024,Hristijan Mickoski,1,1.0,3.125,1
+MLI,Mali,2000,Mandé Sidibé,0,1.0,1.0,0
+MLI,Mali,2001,Mandé Sidibé,0,2.0,2.0,0
+MLI,Mali,2002,Ahmed Mohamed Ag Hamani,1,1.0,1.5,0
+MLI,Mali,2003,Ahmed Mohamed Ag Hamani,0,2.0,2.0,1
+MLI,Mali,2004,Ousmane Issoufi Maïga,1,1.0,1.6666666666666667,1
+MLI,Mali,2005,Ousmane Issoufi Maïga,0,2.0,2.0,2
+MLI,Mali,2006,Ousmane Issoufi Maïga,0,3.0,2.3333333333333335,2
+MLI,Mali,2007,Modibo Sidibé,1,1.0,2.0,2
+MLI,Mali,2008,Modibo Sidibé,0,2.0,2.25,2
+MLI,Mali,2009,Modibo Sidibé,0,3.0,2.5,2
+MLI,Mali,2010,Modibo Sidibé,0,4.0,2.75,1
+MLI,Mali,2011,Cissé Mariam Kaïdama Sidibé,1,1.0,2.4,1
+MLI,Mali,2012,Diango Cissoko,1,1.0,2.1666666666666665,2
+MLI,Mali,2013,Oumar Tatam Ly,1,1.0,2.0,2
+MLI,Mali,2014,Moussa Mara,1,1.0,1.875,3
+MLI,Mali,2015,Modibo Keita,1,1.0,1.7777777777777777,4
+MLI,Mali,2016,Modibo Keita,0,2.0,1.8888888888888888,5
+MLI,Mali,2017,Soumeylou Boubeye Maïga,1,1.0,1.8,4
+MLI,Mali,2018,Soumeylou Boubeye Maïga,0,2.0,1.9,4
+MLI,Mali,2019,Boubou Cisse,1,1.0,1.8181818181818181,3
+MLI,Mali,2020,Moctar Ouane,1,1.0,1.75,3
+MLI,Mali,2021,Choguel Kokalla Maïga,1,1.0,1.6923076923076923,3
+MLI,Mali,2022,Choguel Kokalla Maïga,0,2.0,1.7692307692307692,4
+MLI,Mali,2023,Choguel Kokalla Maïga,0,3.0,1.8461538461538463,3
+MLI,Mali,2024,Abdoulaye Maïga,1,1.0,1.7857142857142858,3
+MLT,Malta,2000,Edward Fenech Adami,0,1.0,1.0,0
+MLT,Malta,2001,Edward Fenech Adami,0,2.0,2.0,0
+MLT,Malta,2002,Edward Fenech Adami,0,3.0,3.0,0
+MLT,Malta,2003,Edward Fenech Adami,0,4.0,4.0,0
+MLT,Malta,2004,Lawrence Gonzi,1,1.0,2.5,0
+MLT,Malta,2005,Lawrence Gonzi,0,2.0,3.0,1
+MLT,Malta,2006,Lawrence Gonzi,0,3.0,3.5,1
+MLT,Malta,2007,Lawrence Gonzi,0,4.0,4.0,1
+MLT,Malta,2008,Lawrence Gonzi,0,5.0,4.5,1
+MLT,Malta,2009,Lawrence Gonzi,0,6.0,5.0,1
+MLT,Malta,2010,Lawrence Gonzi,0,7.0,5.5,0
+MLT,Malta,2011,Lawrence Gonzi,0,8.0,6.0,0
+MLT,Malta,2012,Lawrence Gonzi,0,9.0,6.5,0
+MLT,Malta,2013,Joseph Muscat,1,1.0,4.666666666666667,0
+MLT,Malta,2014,Joseph Muscat,0,2.0,5.0,1
+MLT,Malta,2015,Joseph Muscat,0,3.0,5.333333333333333,1
+MLT,Malta,2016,Joseph Muscat,0,4.0,5.666666666666667,1
+MLT,Malta,2017,Joseph Muscat,0,5.0,6.0,1
+MLT,Malta,2018,Joseph Muscat,0,6.0,6.333333333333333,1
+MLT,Malta,2019,Joseph Muscat,0,7.0,6.666666666666667,0
+MLT,Malta,2020,Robert Abela,1,1.0,5.25,0
+MLT,Malta,2021,Robert Abela,0,2.0,5.5,1
+MLT,Malta,2022,Robert Abela,0,3.0,5.75,1
+MLT,Malta,2023,Robert Abela,0,4.0,6.0,1
+MLT,Malta,2024,Robert Abela,0,5.0,6.25,1
+MMR,Burma/Myanmar,2000,,0,,,0
+MMR,Burma/Myanmar,2001,,0,,,0
+MMR,Burma/Myanmar,2002,,0,,,0
+MMR,Burma/Myanmar,2003,Khin Nyunt,0,1.0,1.0,0
+MMR,Burma/Myanmar,2004,Soe Win,1,1.0,1.0,0
+MMR,Burma/Myanmar,2005,Soe Win,0,2.0,1.5,1
+MMR,Burma/Myanmar,2006,Soe Win,0,3.0,2.0,1
+MMR,Burma/Myanmar,2007,Thein Sein,1,1.0,1.6666666666666667,1
+MMR,Burma/Myanmar,2008,Thein Sein,0,2.0,2.0,2
+MMR,Burma/Myanmar,2009,Thein Sein,0,3.0,2.3333333333333335,2
+MMR,Burma/Myanmar,2010,Thein Sein,0,4.0,2.6666666666666665,1
+MMR,Burma/Myanmar,2011,,0,,2.6666666666666665,1
+MMR,Burma/Myanmar,2012,,0,,2.6666666666666665,1
+MMR,Burma/Myanmar,2013,,0,,2.6666666666666665,0
+MMR,Burma/Myanmar,2014,,0,,2.6666666666666665,0
+MMR,Burma/Myanmar,2015,,0,,2.6666666666666665,0
+MMR,Burma/Myanmar,2016,Aung San Suu Kyi,0,1.0,2.25,0
+MMR,Burma/Myanmar,2017,Aung San Suu Kyi,0,2.0,2.5,0
+MMR,Burma/Myanmar,2018,Aung San Suu Kyi,0,3.0,2.75,0
+MMR,Burma/Myanmar,2019,Aung San Suu Kyi,0,4.0,3.0,0
+MMR,Burma/Myanmar,2020,Aung San Suu Kyi,0,5.0,3.25,0
+MMR,Burma/Myanmar,2021,Min Aung Hlaing,1,1.0,2.8,0
+MMR,Burma/Myanmar,2022,Min Aung Hlaing,0,2.0,3.0,1
+MMR,Burma/Myanmar,2023,Min Aung Hlaing,0,3.0,3.2,1
+MMR,Burma/Myanmar,2024,,0,,3.2,1
+MNE,Montenegro,2000,Filip Vujanovic,0,1.0,1.0,0
+MNE,Montenegro,2001,Filip Vujanovic,0,2.0,2.0,0
+MNE,Montenegro,2002,Dragan Đurović,1,1.0,1.5,0
+MNE,Montenegro,2003,Milo Djukanovic,1,1.0,1.3333333333333333,1
+MNE,Montenegro,2004,Milo Djukanovic,0,2.0,1.6666666666666667,2
+MNE,Montenegro,2005,Milo Djukanovic,0,3.0,2.0,2
+MNE,Montenegro,2006,Zeljko Sturanovic,1,1.0,1.75,2
+MNE,Montenegro,2007,Zeljko Sturanovic,0,2.0,2.0,3
+MNE,Montenegro,2008,Milo Djukanovic,1,1.0,1.8,2
+MNE,Montenegro,2009,Milo Djukanovic,0,2.0,2.0,2
+MNE,Montenegro,2010,Igor Luksic,1,1.0,1.8333333333333333,2
+MNE,Montenegro,2011,Igor Luksic,0,2.0,2.0,3
+MNE,Montenegro,2012,Milo Djukanovic,1,1.0,1.8571428571428572,2
+MNE,Montenegro,2013,Milo Djukanovic,0,2.0,2.0,3
+MNE,Montenegro,2014,Milo Djukanovic,0,3.0,2.142857142857143,2
+MNE,Montenegro,2015,Milo Djukanovic,0,4.0,2.2857142857142856,2
+MNE,Montenegro,2016,Duško Marković,1,1.0,2.125,1
+MNE,Montenegro,2017,Duško Marković,0,2.0,2.25,2
+MNE,Montenegro,2018,Duško Marković,0,3.0,2.375,1
+MNE,Montenegro,2019,Duško Marković,0,4.0,2.5,1
+MNE,Montenegro,2020,Zdravko Krivokapic,1,1.0,2.3333333333333335,1
+MNE,Montenegro,2021,Zdravko Krivokapic,0,2.0,2.4444444444444446,2
+MNE,Montenegro,2022,Dritan Abazović,1,1.0,2.3,1
+MNE,Montenegro,2023,Milojko Spajić,1,1.0,2.1818181818181817,2
+MNE,Montenegro,2024,Milojko Spajić,0,2.0,2.272727272727273,3
+MNG,Mongolia,2000,Nambaryn Enkhbayar,0,1.0,1.0,0
+MNG,Mongolia,2001,Nambaryn Enkhbayar,0,2.0,2.0,0
+MNG,Mongolia,2002,Nambaryn Enkhbayar,0,3.0,3.0,0
+MNG,Mongolia,2003,Nambaryn Enkhbayar,0,4.0,4.0,0
+MNG,Mongolia,2004,Tsakhiagiyn Elbegdor,1,1.0,2.5,0
+MNG,Mongolia,2005,Tsakhiagiyn Elbegdor,0,2.0,3.0,1
+MNG,Mongolia,2006,Miyeegombo Enkhbold,1,1.0,2.3333333333333335,1
+MNG,Mongolia,2007,Sanj Bayar,1,1.0,2.0,2
+MNG,Mongolia,2008,Sanj Bayar,0,2.0,2.25,3
+MNG,Mongolia,2009,Sükhbaataryn Batbold,1,1.0,2.0,3
+MNG,Mongolia,2010,Sükhbaataryn Batbold,0,2.0,2.2,3
+MNG,Mongolia,2011,Sükhbaataryn Batbold,0,3.0,2.4,3
+MNG,Mongolia,2012,Norov Altankhuyag,1,1.0,2.1666666666666665,2
+MNG,Mongolia,2013,Norov Altankhuyag,0,2.0,2.3333333333333335,2
+MNG,Mongolia,2014,Chimediin Saikhanbileg,1,1.0,2.142857142857143,2
+MNG,Mongolia,2015,Chimediin Saikhanbileg,0,2.0,2.2857142857142856,2
+MNG,Mongolia,2016,Jargaltulga Erdenebat,1,1.0,2.125,2
+MNG,Mongolia,2017,Ukhnaagiin Khurelsukh,1,1.0,2.0,3
+MNG,Mongolia,2018,Ukhnaagiin Khurelsukh,0,2.0,2.111111111111111,3
+MNG,Mongolia,2019,Ukhnaagiin Khurelsukh,0,3.0,2.2222222222222223,3
+MNG,Mongolia,2020,Ukhnaagiin Khurelsukh,0,4.0,2.3333333333333335,2
+MNG,Mongolia,2021,Luvsannamsrai Oyun-Erdene,1,1.0,2.2,2
+MNG,Mongolia,2022,Luvsannamsrai Oyun-Erdene,0,2.0,2.3,2
+MNG,Mongolia,2023,Luvsannamsrai Oyun-Erdene,0,3.0,2.4,1
+MNG,Mongolia,2024,Luvsannamsrai Oyun-Erdene,0,4.0,2.5,1
+MOZ,Mozambique,2000,,0,,,0
+MOZ,Mozambique,2001,,0,,,0
+MOZ,Mozambique,2002,,0,,,0
+MOZ,Mozambique,2003,,0,,,0
+MOZ,Mozambique,2004,,0,,,0
+MOZ,Mozambique,2005,,0,,,0
+MOZ,Mozambique,2006,,0,,,0
+MOZ,Mozambique,2007,,0,,,0
+MOZ,Mozambique,2008,,0,,,0
+MOZ,Mozambique,2009,,0,,,0
+MOZ,Mozambique,2010,,0,,,0
+MOZ,Mozambique,2011,,0,,,0
+MOZ,Mozambique,2012,,0,,,0
+MOZ,Mozambique,2013,,0,,,0
+MOZ,Mozambique,2014,,0,,,0
+MOZ,Mozambique,2015,,0,,,0
+MOZ,Mozambique,2016,,0,,,0
+MOZ,Mozambique,2017,,0,,,0
+MOZ,Mozambique,2018,,0,,,0
+MOZ,Mozambique,2019,,0,,,0
+MOZ,Mozambique,2020,,0,,,0
+MOZ,Mozambique,2021,,0,,,0
+MOZ,Mozambique,2022,,0,,,0
+MOZ,Mozambique,2023,,0,,,0
+MOZ,Mozambique,2024,,0,,,0
+MRT,Mauritania,2000,Cheikh El Avia Ould Mohamed Khouna,0,1.0,1.0,0
+MRT,Mauritania,2001,Cheikh El Avia Ould Mohamed Khouna,0,2.0,2.0,0
+MRT,Mauritania,2002,Cheikh El Avia Ould Mohamed Khouna,0,3.0,3.0,0
+MRT,Mauritania,2003,Sghair Ould M'Bareck,1,1.0,2.0,0
+MRT,Mauritania,2004,Sghair Ould M'Bareck,0,2.0,2.5,1
+MRT,Mauritania,2005,Sidi Mohamed Ould Boubacar,1,1.0,2.0,1
+MRT,Mauritania,2006,Sidi Mohamed Ould Boubacar,0,2.0,2.3333333333333335,2
+MRT,Mauritania,2007,Zeine Ould Zeidane,1,1.0,2.0,2
+MRT,Mauritania,2008,Moulaye Ould Mohamed Laghdef,1,1.0,1.8,3
+MRT,Mauritania,2009,Moulaye Ould Mohamed Laghdef,0,2.0,2.0,3
+MRT,Mauritania,2010,Moulaye Ould Mohamed Laghdef,0,3.0,2.2,3
+MRT,Mauritania,2011,Moulaye Ould Mohamed Laghdef,0,4.0,2.4,2
+MRT,Mauritania,2012,Moulaye Ould Mohamed Laghdef,0,5.0,2.6,2
+MRT,Mauritania,2013,Moulaye Ould Mohamed Laghdef,0,6.0,2.8,1
+MRT,Mauritania,2014,Yahya Ould Hademine,1,1.0,2.5,0
+MRT,Mauritania,2015,Yahya Ould Hademine,0,2.0,2.6666666666666665,1
+MRT,Mauritania,2016,Yahya Ould Hademine,0,3.0,2.8333333333333335,1
+MRT,Mauritania,2017,Yahya Ould Hademine,0,4.0,3.0,1
+MRT,Mauritania,2018,Mohamed Salem Ould Béchir,1,1.0,2.7142857142857144,1
+MRT,Mauritania,2019,Ismail Ould Bedde Ould Cheikh Sidiya,1,1.0,2.5,2
+MRT,Mauritania,2020,Mohamed Ould Bilal,1,1.0,2.3333333333333335,2
+MRT,Mauritania,2021,Mohamed Ould Bilal,0,2.0,2.4444444444444446,3
+MRT,Mauritania,2022,Mohamed Ould Bilal,0,3.0,2.5555555555555554,3
+MRT,Mauritania,2023,Mohamed Ould Bilal,0,4.0,2.6666666666666665,3
+MRT,Mauritania,2024,Moktar Ould Diay,1,1.0,2.5,2
+MUS,Mauritius,2000,Anerood Jugnauth,0,1.0,1.0,0
+MUS,Mauritius,2001,Anerood Jugnauth,0,2.0,2.0,0
+MUS,Mauritius,2002,Anerood Jugnauth,0,3.0,3.0,0
+MUS,Mauritius,2003,Paul Raymond Bèrenger,1,1.0,2.0,0
+MUS,Mauritius,2004,Paul Raymond Bèrenger,0,2.0,2.5,1
+MUS,Mauritius,2005,Navinchandra Ramgoolam,1,1.0,2.0,1
+MUS,Mauritius,2006,Navinchandra Ramgoolam,0,2.0,2.3333333333333335,2
+MUS,Mauritius,2007,Navinchandra Ramgoolam,0,3.0,2.6666666666666665,2
+MUS,Mauritius,2008,Navinchandra Ramgoolam,0,4.0,3.0,2
+MUS,Mauritius,2009,Navinchandra Ramgoolam,0,5.0,3.3333333333333335,1
+MUS,Mauritius,2010,Navinchandra Ramgoolam,0,6.0,3.6666666666666665,1
+MUS,Mauritius,2011,Navinchandra Ramgoolam,0,7.0,4.0,0
+MUS,Mauritius,2012,Navinchandra Ramgoolam,0,8.0,4.333333333333333,0
+MUS,Mauritius,2013,Navinchandra Ramgoolam,0,9.0,4.666666666666667,0
+MUS,Mauritius,2014,Anerood Jugnauth,1,1.0,3.75,0
+MUS,Mauritius,2015,Anerood Jugnauth,0,2.0,4.0,1
+MUS,Mauritius,2016,Anerood Jugnauth,0,3.0,4.25,1
+MUS,Mauritius,2017,Pravind Kumar Jugnauth,1,1.0,3.6,1
+MUS,Mauritius,2018,Pravind Kumar Jugnauth,0,2.0,3.8,2
+MUS,Mauritius,2019,Pravind Kumar Jugnauth,0,3.0,4.0,2
+MUS,Mauritius,2020,Pravind Kumar Jugnauth,0,4.0,4.2,1
+MUS,Mauritius,2021,Pravind Kumar Jugnauth,0,5.0,4.4,1
+MUS,Mauritius,2022,Pravind Kumar Jugnauth,0,6.0,4.6,1
+MUS,Mauritius,2023,Pravind Kumar Jugnauth,0,7.0,4.8,0
+MUS,Mauritius,2024,Navinchandra Ramgoolam,1,1.0,4.166666666666667,0
+MWI,Malawi,2000,,0,,,0
+MWI,Malawi,2001,,0,,,0
+MWI,Malawi,2002,,0,,,0
+MWI,Malawi,2003,,0,,,0
+MWI,Malawi,2004,,0,,,0
+MWI,Malawi,2005,,0,,,0
+MWI,Malawi,2006,,0,,,0
+MWI,Malawi,2007,,0,,,0
+MWI,Malawi,2008,,0,,,0
+MWI,Malawi,2009,,0,,,0
+MWI,Malawi,2010,,0,,,0
+MWI,Malawi,2011,,0,,,0
+MWI,Malawi,2012,,0,,,0
+MWI,Malawi,2013,,0,,,0
+MWI,Malawi,2014,,0,,,0
+MWI,Malawi,2015,,0,,,0
+MWI,Malawi,2016,,0,,,0
+MWI,Malawi,2017,,0,,,0
+MWI,Malawi,2018,,0,,,0
+MWI,Malawi,2019,,0,,,0
+MWI,Malawi,2020,,0,,,0
+MWI,Malawi,2021,,0,,,0
+MWI,Malawi,2022,,0,,,0
+MWI,Malawi,2023,,0,,,0
+MWI,Malawi,2024,,0,,,0
+MYS,Malaysia,2000,Dato'Seri Mahathir bin Mohamad,0,1.0,1.0,0
+MYS,Malaysia,2001,Dato'Seri Mahathir bin Mohamad,0,2.0,2.0,0
+MYS,Malaysia,2002,Dato'Seri Mahathir bin Mohamad,0,3.0,3.0,0
+MYS,Malaysia,2003,Datuk Seri Abdullah Ahmad Badawi,1,1.0,2.0,0
+MYS,Malaysia,2004,Datuk Seri Abdullah Ahmad Badawi,0,2.0,2.5,1
+MYS,Malaysia,2005,Datuk Seri Abdullah Ahmad Badawi,0,3.0,3.0,1
+MYS,Malaysia,2006,Datuk Seri Abdullah Ahmad Badawi,0,4.0,3.5,1
+MYS,Malaysia,2007,Datuk Seri Abdullah Ahmad Badawi,0,5.0,4.0,1
+MYS,Malaysia,2008,Datuk Seri Abdullah Ahmad Badawi,0,6.0,4.5,1
+MYS,Malaysia,2009,Datuk Seri Najib Tun Razak,1,1.0,3.3333333333333335,0
+MYS,Malaysia,2010,Datuk Seri Najib Tun Razak,0,2.0,3.6666666666666665,1
+MYS,Malaysia,2011,Datuk Seri Najib Tun Razak,0,3.0,4.0,1
+MYS,Malaysia,2012,Datuk Seri Najib Tun Razak,0,4.0,4.333333333333333,1
+MYS,Malaysia,2013,Datuk Seri Najib Tun Razak,0,5.0,4.666666666666667,1
+MYS,Malaysia,2014,Datuk Seri Najib Tun Razak,0,6.0,5.0,1
+MYS,Malaysia,2015,Datuk Seri Najib Tun Razak,0,7.0,5.333333333333333,0
+MYS,Malaysia,2016,Datuk Seri Najib Tun Razak,0,8.0,5.666666666666667,0
+MYS,Malaysia,2017,Datuk Seri Najib Tun Razak,0,9.0,6.0,0
+MYS,Malaysia,2018,Mahathir Mohamad,1,1.0,4.75,0
+MYS,Malaysia,2019,Mahathir Mohamad,0,2.0,5.0,1
+MYS,Malaysia,2020,Muhyiddin Yassin,1,1.0,4.2,1
+MYS,Malaysia,2021,Ismail Sabri bin Yaakob,1,1.0,3.6666666666666665,2
+MYS,Malaysia,2022,Anwar bin Ibrahim,1,1.0,3.2857142857142856,3
+MYS,Malaysia,2023,Anwar bin Ibrahim,0,2.0,3.4285714285714284,4
+MYS,Malaysia,2024,Anwar bin Ibrahim,0,3.0,3.5714285714285716,3
+NAM,Namibia,2000,,0,,,0
+NAM,Namibia,2001,,0,,,0
+NAM,Namibia,2002,,0,,,0
+NAM,Namibia,2003,,0,,,0
+NAM,Namibia,2004,,0,,,0
+NAM,Namibia,2005,,0,,,0
+NAM,Namibia,2006,,0,,,0
+NAM,Namibia,2007,,0,,,0
+NAM,Namibia,2008,,0,,,0
+NAM,Namibia,2009,,0,,,0
+NAM,Namibia,2010,,0,,,0
+NAM,Namibia,2011,,0,,,0
+NAM,Namibia,2012,,0,,,0
+NAM,Namibia,2013,,0,,,0
+NAM,Namibia,2014,,0,,,0
+NAM,Namibia,2015,,0,,,0
+NAM,Namibia,2016,,0,,,0
+NAM,Namibia,2017,,0,,,0
+NAM,Namibia,2018,,0,,,0
+NAM,Namibia,2019,,0,,,0
+NAM,Namibia,2020,,0,,,0
+NAM,Namibia,2021,,0,,,0
+NAM,Namibia,2022,,0,,,0
+NAM,Namibia,2023,,0,,,0
+NAM,Namibia,2024,,0,,,0
+NER,Niger,2000,Hama Amadou,0,1.0,1.0,0
+NER,Niger,2001,Hama Amadou,0,2.0,2.0,0
+NER,Niger,2002,Hama Amadou,0,3.0,3.0,0
+NER,Niger,2003,Hama Amadou,0,4.0,4.0,0
+NER,Niger,2004,Hama Amadou,0,5.0,5.0,0
+NER,Niger,2005,Hama Amadou,0,6.0,6.0,0
+NER,Niger,2006,Hama Amadou,0,7.0,7.0,0
+NER,Niger,2007,Seyni Oumarou,1,1.0,4.0,0
+NER,Niger,2008,Seyni Oumarou,0,2.0,4.5,1
+NER,Niger,2009,Ali Badjo Gamatié,1,1.0,3.3333333333333335,1
+NER,Niger,2010,Mahamadou Danda,1,1.0,2.75,2
+NER,Niger,2011,Brigi Rafini,1,1.0,2.4,3
+NER,Niger,2012,Brigi Rafini,0,2.0,2.6,4
+NER,Niger,2013,Brigi Rafini,0,3.0,2.8,3
+NER,Niger,2014,Brigi Rafini,0,4.0,3.0,3
+NER,Niger,2015,Brigi Rafini,0,5.0,3.2,2
+NER,Niger,2016,Brigi Rafini,0,6.0,3.4,1
+NER,Niger,2017,Brigi Rafini,0,7.0,3.6,0
+NER,Niger,2018,Brigi Rafini,0,8.0,3.8,0
+NER,Niger,2019,Brigi Rafini,0,9.0,4.0,0
+NER,Niger,2020,Brigi Rafini,0,10.0,4.2,0
+NER,Niger,2021,Ouhoumoudou Mahamadou,1,1.0,3.6666666666666665,0
+NER,Niger,2022,Ouhoumoudou Mahamadou,0,2.0,3.8333333333333335,1
+NER,Niger,2023,Ali Mahamane Lamine Zène,1,1.0,3.4285714285714284,1
+NER,Niger,2024,Ali Mahamane Lamine Zène,0,2.0,3.5714285714285716,2
+NGA,Nigeria,2000,,0,,,0
+NGA,Nigeria,2001,,0,,,0
+NGA,Nigeria,2002,,0,,,0
+NGA,Nigeria,2003,,0,,,0
+NGA,Nigeria,2004,,0,,,0
+NGA,Nigeria,2005,,0,,,0
+NGA,Nigeria,2006,,0,,,0
+NGA,Nigeria,2007,,0,,,0
+NGA,Nigeria,2008,,0,,,0
+NGA,Nigeria,2009,,0,,,0
+NGA,Nigeria,2010,,0,,,0
+NGA,Nigeria,2011,,0,,,0
+NGA,Nigeria,2012,,0,,,0
+NGA,Nigeria,2013,,0,,,0
+NGA,Nigeria,2014,,0,,,0
+NGA,Nigeria,2015,,0,,,0
+NGA,Nigeria,2016,,0,,,0
+NGA,Nigeria,2017,,0,,,0
+NGA,Nigeria,2018,,0,,,0
+NGA,Nigeria,2019,,0,,,0
+NGA,Nigeria,2020,,0,,,0
+NGA,Nigeria,2021,,0,,,0
+NGA,Nigeria,2022,,0,,,0
+NGA,Nigeria,2023,,0,,,0
+NGA,Nigeria,2024,,0,,,0
+NIC,Nicaragua,2000,,0,,,0
+NIC,Nicaragua,2001,,0,,,0
+NIC,Nicaragua,2002,,0,,,0
+NIC,Nicaragua,2003,,0,,,0
+NIC,Nicaragua,2004,,0,,,0
+NIC,Nicaragua,2005,,0,,,0
+NIC,Nicaragua,2006,,0,,,0
+NIC,Nicaragua,2007,,0,,,0
+NIC,Nicaragua,2008,,0,,,0
+NIC,Nicaragua,2009,,0,,,0
+NIC,Nicaragua,2010,,0,,,0
+NIC,Nicaragua,2011,,0,,,0
+NIC,Nicaragua,2012,,0,,,0
+NIC,Nicaragua,2013,,0,,,0
+NIC,Nicaragua,2014,,0,,,0
+NIC,Nicaragua,2015,,0,,,0
+NIC,Nicaragua,2016,,0,,,0
+NIC,Nicaragua,2017,,0,,,0
+NIC,Nicaragua,2018,,0,,,0
+NIC,Nicaragua,2019,,0,,,0
+NIC,Nicaragua,2020,,0,,,0
+NIC,Nicaragua,2021,,0,,,0
+NIC,Nicaragua,2022,,0,,,0
+NIC,Nicaragua,2023,,0,,,0
+NIC,Nicaragua,2024,,0,,,0
+NLD,Netherlands,2000,Willem Kok,0,1.0,1.0,0
+NLD,Netherlands,2001,Willem Kok,0,2.0,2.0,0
+NLD,Netherlands,2002,Jan Peter Balkenende,1,1.0,1.5,0
+NLD,Netherlands,2003,Jan Peter Balkenende,0,2.0,2.0,1
+NLD,Netherlands,2004,Jan Peter Balkenende,0,3.0,2.5,1
+NLD,Netherlands,2005,Jan Peter Balkenende,0,4.0,3.0,1
+NLD,Netherlands,2006,Jan Peter Balkenende,0,5.0,3.5,1
+NLD,Netherlands,2007,Jan Peter Balkenende,0,6.0,4.0,1
+NLD,Netherlands,2008,Jan Peter Balkenende,0,7.0,4.5,0
+NLD,Netherlands,2009,Jan Peter Balkenende,0,8.0,5.0,0
+NLD,Netherlands,2010,Mark Rutte,1,1.0,3.6666666666666665,0
+NLD,Netherlands,2011,Mark Rutte,0,2.0,4.0,1
+NLD,Netherlands,2012,Mark Rutte,0,3.0,4.333333333333333,1
+NLD,Netherlands,2013,Mark Rutte,0,4.0,4.666666666666667,1
+NLD,Netherlands,2014,Mark Rutte,0,5.0,5.0,1
+NLD,Netherlands,2015,Mark Rutte,0,6.0,5.333333333333333,1
+NLD,Netherlands,2016,Mark Rutte,0,7.0,5.666666666666667,0
+NLD,Netherlands,2017,Mark Rutte,0,8.0,6.0,0
+NLD,Netherlands,2018,Mark Rutte,0,9.0,6.333333333333333,0
+NLD,Netherlands,2019,Mark Rutte,0,10.0,6.666666666666667,0
+NLD,Netherlands,2020,Mark Rutte,0,11.0,7.0,0
+NLD,Netherlands,2021,Mark Rutte,0,12.0,7.333333333333333,0
+NLD,Netherlands,2022,Mark Rutte,0,13.0,7.666666666666667,0
+NLD,Netherlands,2023,Mark Rutte,0,14.0,8.0,0
+NLD,Netherlands,2024,Hendrikus Wilhelmus Maria Schoof,1,1.0,6.25,0
+NOR,Norway,2000,Jens Stoltenberg,0,1.0,1.0,0
+NOR,Norway,2001,Kjell Magne Bondevik,1,1.0,1.0,0
+NOR,Norway,2002,Kjell Magne Bondevik,0,2.0,1.5,1
+NOR,Norway,2003,Kjell Magne Bondevik,0,3.0,2.0,1
+NOR,Norway,2004,Kjell Magne Bondevik,0,4.0,2.5,1
+NOR,Norway,2005,Jens Stoltenberg,1,1.0,2.0,1
+NOR,Norway,2006,Jens Stoltenberg,0,2.0,2.3333333333333335,2
+NOR,Norway,2007,Jens Stoltenberg,0,3.0,2.6666666666666665,1
+NOR,Norway,2008,Jens Stoltenberg,0,4.0,3.0,1
+NOR,Norway,2009,Jens Stoltenberg,0,5.0,3.3333333333333335,1
+NOR,Norway,2010,Jens Stoltenberg,0,6.0,3.6666666666666665,1
+NOR,Norway,2011,Jens Stoltenberg,0,7.0,4.0,0
+NOR,Norway,2012,Jens Stoltenberg,0,8.0,4.333333333333333,0
+NOR,Norway,2013,Erna Solberg,1,1.0,3.5,0
+NOR,Norway,2014,Erna Solberg,0,2.0,3.75,1
+NOR,Norway,2015,Erna Solberg,0,3.0,4.0,1
+NOR,Norway,2016,Erna Solberg,0,4.0,4.25,1
+NOR,Norway,2017,Erna Solberg,0,5.0,4.5,1
+NOR,Norway,2018,Erna Solberg,0,6.0,4.75,1
+NOR,Norway,2019,Erna Solberg,0,7.0,5.0,0
+NOR,Norway,2020,Erna Solberg,0,8.0,5.25,0
+NOR,Norway,2021,Jonas Gahr Støre,1,1.0,4.4,0
+NOR,Norway,2022,Jonas Gahr Støre,0,2.0,4.6,1
+NOR,Norway,2023,Jonas Gahr Støre,0,3.0,4.8,1
+NOR,Norway,2024,Jonas Gahr Støre,0,4.0,5.0,1
+NPL,Nepal,2000,Girija Prasad Koirala,0,1.0,1.0,0
+NPL,Nepal,2001,Sher Bahadur Deuba,1,1.0,1.0,0
+NPL,Nepal,2002,Lokendra Bahadur Chand,1,1.0,1.0,1
+NPL,Nepal,2003,,0,,1.0,2
+NPL,Nepal,2004,,0,,1.0,2
+NPL,Nepal,2005,,0,,1.0,2
+NPL,Nepal,2006,Girija Prasad Koirala,0,1.0,1.0,2
+NPL,Nepal,2007,,0,,1.0,1
+NPL,Nepal,2008,Pushpa Kamal Dahal,0,1.0,1.0,0
+NPL,Nepal,2009,Madhav Kumar Nepal,1,1.0,1.0,0
+NPL,Nepal,2010,Madhav Kumar Nepal,0,2.0,1.1666666666666667,1
+NPL,Nepal,2011,Baburam Bhattarai,1,1.0,1.1428571428571428,1
+NPL,Nepal,2012,Baburam Bhattarai,0,2.0,1.2857142857142858,2
+NPL,Nepal,2013,Khil Raj Regmi,1,1.0,1.25,2
+NPL,Nepal,2014,Sushil Koirala,1,1.0,1.2222222222222223,3
+NPL,Nepal,2015,Khadga Prasad Sharma Oli,1,1.0,1.2,3
+NPL,Nepal,2016,Pushpa Kamal Dahal,1,1.0,1.1818181818181819,4
+NPL,Nepal,2017,Sher Bahadur Deuba,1,1.0,1.1666666666666667,4
+NPL,Nepal,2018,Khadga Prasad Sharma Oli,1,1.0,1.1538461538461537,5
+NPL,Nepal,2019,Khadga Prasad Sharma Oli,0,2.0,1.2307692307692308,5
+NPL,Nepal,2020,Khadga Prasad Sharma Oli,0,3.0,1.3076923076923077,4
+NPL,Nepal,2021,Sher Bahadur Deuba,1,1.0,1.2857142857142858,3
+NPL,Nepal,2022,Pushpa Kamal Dahal,1,1.0,1.2666666666666666,3
+NPL,Nepal,2023,Pushpa Kamal Dahal,0,2.0,1.3333333333333333,3
+NPL,Nepal,2024,Khadga Prasad Sharma Oli,1,1.0,1.3125,2
+NZL,New Zealand,2000,Helen Elizabeth Clark,0,1.0,1.0,0
+NZL,New Zealand,2001,Helen Elizabeth Clark,0,2.0,2.0,0
+NZL,New Zealand,2002,Helen Elizabeth Clark,0,3.0,3.0,0
+NZL,New Zealand,2003,Helen Elizabeth Clark,0,4.0,4.0,0
+NZL,New Zealand,2004,Helen Elizabeth Clark,0,5.0,5.0,0
+NZL,New Zealand,2005,Helen Elizabeth Clark,0,6.0,6.0,0
+NZL,New Zealand,2006,Helen Elizabeth Clark,0,7.0,7.0,0
+NZL,New Zealand,2007,Helen Elizabeth Clark,0,8.0,8.0,0
+NZL,New Zealand,2008,John Phillip Key,1,1.0,4.5,0
+NZL,New Zealand,2009,John Phillip Key,0,2.0,5.0,1
+NZL,New Zealand,2010,John Phillip Key,0,3.0,5.5,1
+NZL,New Zealand,2011,John Phillip Key,0,4.0,6.0,1
+NZL,New Zealand,2012,John Phillip Key,0,5.0,6.5,1
+NZL,New Zealand,2013,John Phillip Key,0,6.0,7.0,1
+NZL,New Zealand,2014,John Phillip Key,0,7.0,7.5,0
+NZL,New Zealand,2015,John Phillip Key,0,8.0,8.0,0
+NZL,New Zealand,2016,Bill English,1,1.0,5.666666666666667,0
+NZL,New Zealand,2017,Jacinda Ardern,1,1.0,4.5,1
+NZL,New Zealand,2018,Jacinda Ardern,0,2.0,4.75,2
+NZL,New Zealand,2019,Jacinda Ardern,0,3.0,5.0,2
+NZL,New Zealand,2020,Jacinda Ardern,0,4.0,5.25,2
+NZL,New Zealand,2021,Jacinda Ardern,0,5.0,5.5,2
+NZL,New Zealand,2022,Jacinda Ardern,0,6.0,5.75,1
+NZL,New Zealand,2023,Christopher Mark Luxon,1,1.0,4.8,0
+NZL,New Zealand,2024,Christopher Mark Luxon,0,2.0,5.0,1
+OMN,Oman,2000,,0,,,0
+OMN,Oman,2001,,0,,,0
+OMN,Oman,2002,,0,,,0
+OMN,Oman,2003,,0,,,0
+OMN,Oman,2004,,0,,,0
+OMN,Oman,2005,,0,,,0
+OMN,Oman,2006,,0,,,0
+OMN,Oman,2007,,0,,,0
+OMN,Oman,2008,,0,,,0
+OMN,Oman,2009,,0,,,0
+OMN,Oman,2010,,0,,,0
+OMN,Oman,2011,,0,,,0
+OMN,Oman,2012,,0,,,0
+OMN,Oman,2013,,0,,,0
+OMN,Oman,2014,,0,,,0
+OMN,Oman,2015,,0,,,0
+OMN,Oman,2016,,0,,,0
+OMN,Oman,2017,,0,,,0
+OMN,Oman,2018,,0,,,0
+OMN,Oman,2019,,0,,,0
+OMN,Oman,2020,,0,,,0
+OMN,Oman,2021,,0,,,0
+OMN,Oman,2022,,0,,,0
+OMN,Oman,2023,,0,,,0
+OMN,Oman,2024,,0,,,0
+PAK,Pakistan,2000,General Pervez Musharraf,0,1.0,1.0,0
+PAK,Pakistan,2001,,0,,1.0,0
+PAK,Pakistan,2002,Mir Zafarullah Khan Jamali,0,1.0,1.0,0
+PAK,Pakistan,2003,Mir Zafarullah Khan Jamali,0,2.0,1.5,0
+PAK,Pakistan,2004,Shaukat Aziz,1,1.0,1.3333333333333333,0
+PAK,Pakistan,2005,Shaukat Aziz,0,2.0,1.6666666666666667,1
+PAK,Pakistan,2006,Shaukat Aziz,0,3.0,2.0,1
+PAK,Pakistan,2007,Mohammadmian Soomro,1,1.0,1.75,1
+PAK,Pakistan,2008,Yousaf Raza Gillani,1,1.0,1.6,2
+PAK,Pakistan,2009,Yousaf Raza Gillani,0,2.0,1.8,3
+PAK,Pakistan,2010,Yousaf Raza Gillani,0,3.0,2.0,2
+PAK,Pakistan,2011,Yousaf Raza Gillani,0,4.0,2.2,2
+PAK,Pakistan,2012,Raja Pervez Ashraf,1,1.0,2.0,2
+PAK,Pakistan,2013,Mian Muhammad Nawaz Sharif,1,1.0,1.8571428571428572,2
+PAK,Pakistan,2014,Mian Muhammad Nawaz Sharif,0,2.0,2.0,2
+PAK,Pakistan,2015,Mian Muhammad Nawaz Sharif,0,3.0,2.142857142857143,2
+PAK,Pakistan,2016,Mian Muhammad Nawaz Sharif,0,4.0,2.2857142857142856,2
+PAK,Pakistan,2017,Shahid Khaqan Abbasi,1,1.0,2.125,2
+PAK,Pakistan,2018,Imran Khan,1,1.0,2.0,2
+PAK,Pakistan,2019,Imran Khan,0,2.0,2.111111111111111,2
+PAK,Pakistan,2020,Imran Khan,0,3.0,2.2222222222222223,2
+PAK,Pakistan,2021,Imran Khan,0,4.0,2.3333333333333335,2
+PAK,Pakistan,2022,Mian Muhammad Shahbaz Sharif,1,1.0,2.2,2
+PAK,Pakistan,2023,Anwaar-ul-Haq Kakar,1,1.0,2.090909090909091,2
+PAK,Pakistan,2024,Mian Mohammad Shehbaz Sharif,1,1.0,2.0,2
+PAN,Panama,2000,,0,,,0
+PAN,Panama,2001,,0,,,0
+PAN,Panama,2002,,0,,,0
+PAN,Panama,2003,,0,,,0
+PAN,Panama,2004,,0,,,0
+PAN,Panama,2005,,0,,,0
+PAN,Panama,2006,,0,,,0
+PAN,Panama,2007,,0,,,0
+PAN,Panama,2008,,0,,,0
+PAN,Panama,2009,,0,,,0
+PAN,Panama,2010,,0,,,0
+PAN,Panama,2011,,0,,,0
+PAN,Panama,2012,,0,,,0
+PAN,Panama,2013,,0,,,0
+PAN,Panama,2014,,0,,,0
+PAN,Panama,2015,,0,,,0
+PAN,Panama,2016,,0,,,0
+PAN,Panama,2017,,0,,,0
+PAN,Panama,2018,,0,,,0
+PAN,Panama,2019,,0,,,0
+PAN,Panama,2020,,0,,,0
+PAN,Panama,2021,,0,,,0
+PAN,Panama,2022,,0,,,0
+PAN,Panama,2023,,0,,,0
+PAN,Panama,2024,,0,,,0
+PER,Peru,2000,,0,,,0
+PER,Peru,2001,,0,,,0
+PER,Peru,2002,,0,,,0
+PER,Peru,2003,,0,,,0
+PER,Peru,2004,,0,,,0
+PER,Peru,2005,,0,,,0
+PER,Peru,2006,,0,,,0
+PER,Peru,2007,,0,,,0
+PER,Peru,2008,,0,,,0
+PER,Peru,2009,,0,,,0
+PER,Peru,2010,,0,,,0
+PER,Peru,2011,,0,,,0
+PER,Peru,2012,,0,,,0
+PER,Peru,2013,,0,,,0
+PER,Peru,2014,,0,,,0
+PER,Peru,2015,,0,,,0
+PER,Peru,2016,,0,,,0
+PER,Peru,2017,,0,,,0
+PER,Peru,2018,,0,,,0
+PER,Peru,2019,,0,,,0
+PER,Peru,2020,,0,,,0
+PER,Peru,2021,,0,,,0
+PER,Peru,2022,,0,,,0
+PER,Peru,2023,,0,,,0
+PER,Peru,2024,,0,,,0
+PHL,Philippines,2000,,0,,,0
+PHL,Philippines,2001,,0,,,0
+PHL,Philippines,2002,,0,,,0
+PHL,Philippines,2003,,0,,,0
+PHL,Philippines,2004,,0,,,0
+PHL,Philippines,2005,,0,,,0
+PHL,Philippines,2006,,0,,,0
+PHL,Philippines,2007,,0,,,0
+PHL,Philippines,2008,,0,,,0
+PHL,Philippines,2009,,0,,,0
+PHL,Philippines,2010,,0,,,0
+PHL,Philippines,2011,,0,,,0
+PHL,Philippines,2012,,0,,,0
+PHL,Philippines,2013,,0,,,0
+PHL,Philippines,2014,,0,,,0
+PHL,Philippines,2015,,0,,,0
+PHL,Philippines,2016,,0,,,0
+PHL,Philippines,2017,,0,,,0
+PHL,Philippines,2018,,0,,,0
+PHL,Philippines,2019,,0,,,0
+PHL,Philippines,2020,,0,,,0
+PHL,Philippines,2021,,0,,,0
+PHL,Philippines,2022,,0,,,0
+PHL,Philippines,2023,,0,,,0
+PHL,Philippines,2024,,0,,,0
+PNG,Papua New Guinea,2000,Mekere Morauta,0,1.0,1.0,0
+PNG,Papua New Guinea,2001,Mekere Morauta,0,2.0,2.0,0
+PNG,Papua New Guinea,2002,Michael Thomas Somare,1,1.0,1.5,0
+PNG,Papua New Guinea,2003,Michael Thomas Somare,0,2.0,2.0,1
+PNG,Papua New Guinea,2004,Michael Thomas Somare,0,3.0,2.5,1
+PNG,Papua New Guinea,2005,Michael Thomas Somare,0,4.0,3.0,1
+PNG,Papua New Guinea,2006,Michael Thomas Somare,0,5.0,3.5,1
+PNG,Papua New Guinea,2007,Michael Thomas Somare,0,6.0,4.0,1
+PNG,Papua New Guinea,2008,Michael Thomas Somare,0,7.0,4.5,0
+PNG,Papua New Guinea,2009,Michael Thomas Somare,0,8.0,5.0,0
+PNG,Papua New Guinea,2010,Michael Thomas Somare,0,9.0,5.5,0
+PNG,Papua New Guinea,2011,Peter O'Neil,1,1.0,4.0,0
+PNG,Papua New Guinea,2012,Peter O'Neil,0,2.0,4.333333333333333,1
+PNG,Papua New Guinea,2013,Peter O'Neil,0,3.0,4.666666666666667,1
+PNG,Papua New Guinea,2014,Peter O'Neil,0,4.0,5.0,1
+PNG,Papua New Guinea,2015,Peter O'Neil,0,5.0,5.333333333333333,1
+PNG,Papua New Guinea,2016,Peter O'Neil,0,6.0,5.666666666666667,1
+PNG,Papua New Guinea,2017,Peter O'Neil,0,7.0,6.0,0
+PNG,Papua New Guinea,2018,Peter O'Neil,0,8.0,6.333333333333333,0
+PNG,Papua New Guinea,2019,James Marape,1,1.0,5.0,0
+PNG,Papua New Guinea,2020,James Marape,0,2.0,5.25,1
+PNG,Papua New Guinea,2021,James Marape,0,3.0,5.5,1
+PNG,Papua New Guinea,2022,James Marape,0,4.0,5.75,1
+PNG,Papua New Guinea,2023,James Marape,0,5.0,6.0,1
+PNG,Papua New Guinea,2024,James Marape,0,6.0,6.25,1
+POL,Poland,2000,Jerzy Karol Buzek,0,1.0,1.0,0
+POL,Poland,2001,Leszek Cezary Miller,1,1.0,1.0,0
+POL,Poland,2002,Leszek Cezary Miller,0,2.0,1.5,1
+POL,Poland,2003,Leszek Cezary Miller,0,3.0,2.0,1
+POL,Poland,2004,Marek Belka,1,1.0,1.6666666666666667,1
+POL,Poland,2005,Kazimierz Marcinkiewicz,1,1.0,1.5,2
+POL,Poland,2006,Jarosław Aleksander Kaczyński,1,1.0,1.4,3
+POL,Poland,2007,Donald Tusk,1,1.0,1.3333333333333333,3
+POL,Poland,2008,Donald Tusk,0,2.0,1.5,4
+POL,Poland,2009,Donald Tusk,0,3.0,1.6666666666666667,4
+POL,Poland,2010,Donald Tusk,0,4.0,1.8333333333333333,3
+POL,Poland,2011,Donald Tusk,0,5.0,2.0,2
+POL,Poland,2012,Donald Tusk,0,6.0,2.1666666666666665,1
+POL,Poland,2013,Donald Tusk,0,7.0,2.3333333333333335,0
+POL,Poland,2014,Ewa Kopacz,1,1.0,2.142857142857143,0
+POL,Poland,2015,Beata Maria Szydło,1,1.0,2.0,1
+POL,Poland,2016,Beata Maria Szydło,0,2.0,2.125,2
+POL,Poland,2017,Mateusz Jakub Morawiecki,1,1.0,2.0,2
+POL,Poland,2018,Mateusz Jakub Morawiecki,0,2.0,2.111111111111111,3
+POL,Poland,2019,Mateusz Jakub Morawiecki,0,3.0,2.2222222222222223,3
+POL,Poland,2020,Mateusz Jakub Morawiecki,0,4.0,2.3333333333333335,2
+POL,Poland,2021,Mateusz Jakub Morawiecki,0,5.0,2.4444444444444446,1
+POL,Poland,2022,Mateusz Jakub Morawiecki,0,6.0,2.5555555555555554,1
+POL,Poland,2023,Donald Franciszek Tusk,1,1.0,2.4,0
+POL,Poland,2024,Donald Franciszek Tusk,0,2.0,2.5,1
+PRK,North Korea,2000,Hong Song Nam,0,1.0,1.0,0
+PRK,North Korea,2001,Hong Song Nam,0,2.0,2.0,0
+PRK,North Korea,2002,Hong Song Nam,0,3.0,3.0,0
+PRK,North Korea,2003,Pak Pong Ju,1,1.0,2.0,0
+PRK,North Korea,2004,Pak Pong Ju,0,2.0,2.5,1
+PRK,North Korea,2005,Pak Pong Ju,0,3.0,3.0,1
+PRK,North Korea,2006,Pak Pong Ju,0,4.0,3.5,1
+PRK,North Korea,2007,Kim Yong Il,1,1.0,2.6666666666666665,1
+PRK,North Korea,2008,Kim Yong Il,0,2.0,3.0,2
+PRK,North Korea,2009,Kim Yong Il,0,3.0,3.3333333333333335,1
+PRK,North Korea,2010,Choe Yong Rim,1,1.0,2.75,1
+PRK,North Korea,2011,Choe Yong Rim,0,2.0,3.0,2
+PRK,North Korea,2012,Choe Yong Rim,0,3.0,3.25,2
+PRK,North Korea,2013,Pak Pong Ju,1,1.0,2.8,1
+PRK,North Korea,2014,Pak Pong Ju,0,2.0,3.0,2
+PRK,North Korea,2015,Pak Pong Ju,0,3.0,3.2,2
+PRK,North Korea,2016,Pak Pong Ju,0,4.0,3.4,1
+PRK,North Korea,2017,Pak Pong Ju,0,5.0,3.6,1
+PRK,North Korea,2018,Pak Pong Ju,0,6.0,3.8,1
+PRK,North Korea,2019,Kim Jae Ryong,1,1.0,3.3333333333333335,0
+PRK,North Korea,2020,Kim Tok-hun,1,1.0,3.0,1
+PRK,North Korea,2021,Kim Tok-hun,0,2.0,3.142857142857143,2
+PRK,North Korea,2022,Kim Tok-hun,0,3.0,3.2857142857142856,2
+PRK,North Korea,2023,Kim Tok-hun,0,4.0,3.4285714285714284,2
+PRK,North Korea,2024,Pak Thae-song,1,1.0,3.125,2
+PRT,Portugal,2000,António Manuel de Oliveira Guterres,0,1.0,1.0,0
+PRT,Portugal,2001,António Manuel de Oliveira Guterres,0,2.0,2.0,0
+PRT,Portugal,2002,José Manuel Durão Barroso,1,1.0,1.5,0
+PRT,Portugal,2003,José Manuel Durão Barroso,0,2.0,2.0,1
+PRT,Portugal,2004,Pedro Miguel Santana Lopes,1,1.0,1.6666666666666667,1
+PRT,Portugal,2005,José Sócrates Carvalho Pinto de Sousa,1,1.0,1.5,2
+PRT,Portugal,2006,José Sócrates Carvalho Pinto de Sousa,0,2.0,1.75,3
+PRT,Portugal,2007,José Sócrates Carvalho Pinto de Sousa,0,3.0,2.0,3
+PRT,Portugal,2008,José Sócrates Carvalho Pinto de Sousa,0,4.0,2.25,2
+PRT,Portugal,2009,José Sócrates Carvalho Pinto de Sousa,0,5.0,2.5,2
+PRT,Portugal,2010,José Sócrates Carvalho Pinto de Sousa,0,6.0,2.75,1
+PRT,Portugal,2011,Pedro Passos Coelho,1,1.0,2.4,0
+PRT,Portugal,2012,Pedro Passos Coelho,0,2.0,2.6,1
+PRT,Portugal,2013,Pedro Passos Coelho,0,3.0,2.8,1
+PRT,Portugal,2014,Pedro Passos Coelho,0,4.0,3.0,1
+PRT,Portugal,2015,António Luís Santos da Costa,1,1.0,2.6666666666666665,1
+PRT,Portugal,2016,António Luís Santos da Costa,0,2.0,2.8333333333333335,2
+PRT,Portugal,2017,António Luís Santos da Costa,0,3.0,3.0,1
+PRT,Portugal,2018,António Luís Santos da Costa,0,4.0,3.1666666666666665,1
+PRT,Portugal,2019,António Luís Santos da Costa,0,5.0,3.3333333333333335,1
+PRT,Portugal,2020,António Luís Santos da Costa,0,6.0,3.5,1
+PRT,Portugal,2021,António Luís Santos da Costa,0,7.0,3.6666666666666665,0
+PRT,Portugal,2022,António Luís Santos da Costa,0,8.0,3.8333333333333335,0
+PRT,Portugal,2023,António Luís Santos da Costa,0,9.0,4.0,0
+PRT,Portugal,2024,Luís Filipe Montenegro Cardoso de Morais Esteves,1,1.0,3.5714285714285716,0
+PRY,Paraguay,2000,,0,,,0
+PRY,Paraguay,2001,,0,,,0
+PRY,Paraguay,2002,,0,,,0
+PRY,Paraguay,2003,,0,,,0
+PRY,Paraguay,2004,,0,,,0
+PRY,Paraguay,2005,,0,,,0
+PRY,Paraguay,2006,,0,,,0
+PRY,Paraguay,2007,,0,,,0
+PRY,Paraguay,2008,,0,,,0
+PRY,Paraguay,2009,,0,,,0
+PRY,Paraguay,2010,,0,,,0
+PRY,Paraguay,2011,,0,,,0
+PRY,Paraguay,2012,,0,,,0
+PRY,Paraguay,2013,,0,,,0
+PRY,Paraguay,2014,,0,,,0
+PRY,Paraguay,2015,,0,,,0
+PRY,Paraguay,2016,,0,,,0
+PRY,Paraguay,2017,,0,,,0
+PRY,Paraguay,2018,,0,,,0
+PRY,Paraguay,2019,,0,,,0
+PRY,Paraguay,2020,,0,,,0
+PRY,Paraguay,2021,,0,,,0
+PRY,Paraguay,2022,,0,,,0
+PRY,Paraguay,2023,,0,,,0
+PRY,Paraguay,2024,,0,,,0
+PSE,Palestine/West Bank,2000,,0,,,0
+PSE,Palestine/West Bank,2001,,0,,,0
+PSE,Palestine/West Bank,2002,,0,,,0
+PSE,Palestine/West Bank,2003,Ahmed Qurei,0,1.0,1.0,0
+PSE,Palestine/West Bank,2004,Ahmed Qurei,0,2.0,2.0,0
+PSE,Palestine/West Bank,2005,Ahmed Qurei,0,3.0,3.0,0
+PSE,Palestine/West Bank,2006,Ismail Haniyeh,1,1.0,2.0,0
+PSE,Palestine/West Bank,2007,Salam Fayyad,1,1.0,1.6666666666666667,1
+PSE,Palestine/West Bank,2008,Salam Fayyad,0,2.0,2.0,2
+PSE,Palestine/West Bank,2009,Salam Fayyad,0,3.0,2.3333333333333335,2
+PSE,Palestine/West Bank,2010,Salam Fayyad,0,4.0,2.6666666666666665,2
+PSE,Palestine/West Bank,2011,Salam Fayyad,0,5.0,3.0,2
+PSE,Palestine/West Bank,2012,Salam Fayyad,0,6.0,3.3333333333333335,1
+PSE,Palestine/West Bank,2013,Rami Hamdallah,1,1.0,2.75,0
+PSE,Palestine/West Bank,2014,Rami Hamdallah,0,2.0,3.0,1
+PSE,Palestine/West Bank,2015,Rami Hamdallah,0,3.0,3.25,1
+PSE,Palestine/West Bank,2016,Rami Hamdallah,0,4.0,3.5,1
+PSE,Palestine/West Bank,2017,Rami Hamdallah,0,5.0,3.75,1
+PSE,Palestine/West Bank,2018,Rami Hamdallah,0,6.0,4.0,1
+PSE,Palestine/West Bank,2019,Mohammad Shtayyeh,1,1.0,3.4,0
+PSE,Palestine/West Bank,2020,Mohammad Shtayyeh,0,2.0,3.6,1
+PSE,Palestine/West Bank,2021,Mohammad Shtayyeh,0,3.0,3.8,1
+PSE,Palestine/West Bank,2022,Mohammad Shtayyeh,0,4.0,4.0,1
+PSE,Palestine/West Bank,2023,Mohammad Shtayyeh,0,5.0,4.2,1
+PSE,Palestine/West Bank,2024,Muhammad Mustafa,1,1.0,3.6666666666666665,1
+QAT,Qatar,2000,Abdullah ibn Khalifah Al Thani,0,1.0,1.0,0
+QAT,Qatar,2001,Abdullah ibn Khalifah Al Thani,0,2.0,2.0,0
+QAT,Qatar,2002,Abdullah ibn Khalifah Al Thani,0,3.0,3.0,0
+QAT,Qatar,2003,Abdullah ibn Khalifah Al Thani,0,4.0,4.0,0
+QAT,Qatar,2004,Abdullah ibn Khalifah Al Thani,0,5.0,5.0,0
+QAT,Qatar,2005,Abdullah ibn Khalifah Al Thani,0,6.0,6.0,0
+QAT,Qatar,2006,Abdullah ibn Khalifah Al Thani,0,7.0,7.0,0
+QAT,Qatar,2007,Hamad ibn Jassim ibn Jabr Al Thani,1,1.0,4.0,0
+QAT,Qatar,2008,Hamad ibn Jassim ibn Jabr Al Thani,0,2.0,4.5,1
+QAT,Qatar,2009,Hamad ibn Jassim ibn Jabr Al Thani,0,3.0,5.0,1
+QAT,Qatar,2010,Hamad ibn Jassim ibn Jabr Al Thani,0,4.0,5.5,1
+QAT,Qatar,2011,Hamad ibn Jassim ibn Jabr Al Thani,0,5.0,6.0,1
+QAT,Qatar,2012,Hamad ibn Jassim ibn Jabr Al Thani,0,6.0,6.5,1
+QAT,Qatar,2013,Sheikh Abdullah bin Nasser bin Khalifa Al Thani,1,1.0,4.666666666666667,0
+QAT,Qatar,2014,Sheikh Abdullah bin Nasser bin Khalifa Al Thani,0,2.0,5.0,1
+QAT,Qatar,2015,Sheikh Abdullah bin Nasser bin Khalifa Al Thani,0,3.0,5.333333333333333,1
+QAT,Qatar,2016,Sheikh Abdullah bin Nasser bin Khalifa Al Thani,0,4.0,5.666666666666667,1
+QAT,Qatar,2017,Sheikh Abdullah bin Nasser bin Khalifa Al Thani,0,5.0,6.0,1
+QAT,Qatar,2018,Sheikh Abdullah bin Nasser bin Khalifa Al Thani,0,6.0,6.333333333333333,1
+QAT,Qatar,2019,Sheikh Abdullah bin Nasser bin Khalifa Al Thani,0,7.0,6.666666666666667,0
+QAT,Qatar,2020,Sheikh Khalid bin Khalifa bin al-Thani,1,1.0,5.25,0
+QAT,Qatar,2021,Sheikh Khalid bin Khalifa bin al-Thani,0,2.0,5.5,1
+QAT,Qatar,2022,Sheikh Khalid bin Khalifa bin al-Thani,0,3.0,5.75,1
+QAT,Qatar,2023,Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani,1,1.0,4.8,1
+QAT,Qatar,2024,Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani,0,2.0,5.0,2
+ROU,Romania,2000,Adrian Nastase,0,1.0,1.0,0
+ROU,Romania,2001,Adrian Nastase,0,2.0,2.0,0
+ROU,Romania,2002,Adrian Nastase,0,3.0,3.0,0
+ROU,Romania,2003,Adrian Nastase,0,4.0,4.0,0
+ROU,Romania,2004,Calin Popescu-Tariceanu,1,1.0,2.5,0
+ROU,Romania,2005,Calin Popescu-Tariceanu,0,2.0,3.0,1
+ROU,Romania,2006,Calin Popescu-Tariceanu,0,3.0,3.5,1
+ROU,Romania,2007,Calin Popescu-Tariceanu,0,4.0,4.0,1
+ROU,Romania,2008,Emil Boc,1,1.0,3.0,1
+ROU,Romania,2009,Emil Boc,0,2.0,3.3333333333333335,2
+ROU,Romania,2010,Emil Boc,0,3.0,3.6666666666666665,1
+ROU,Romania,2011,Emil Boc,0,4.0,4.0,1
+ROU,Romania,2012,Victor Ponta,1,1.0,3.25,1
+ROU,Romania,2013,Victor Ponta,0,2.0,3.5,2
+ROU,Romania,2014,Victor Ponta,0,3.0,3.75,1
+ROU,Romania,2015,Dacian Julien Cioloș,1,1.0,3.2,1
+ROU,Romania,2016,Dacian Julien Cioloș,0,2.0,3.4,2
+ROU,Romania,2017,Mihai Tudose,1,1.0,3.0,2
+ROU,Romania,2018,Viorica Dăncilă,1,1.0,2.7142857142857144,2
+ROU,Romania,2019,Ludovic Orban,1,1.0,2.5,3
+ROU,Romania,2020,Florin Citu,1,1.0,2.3333333333333335,4
+ROU,Romania,2021,Nicolae Ciucă,1,1.0,2.2,4
+ROU,Romania,2022,Nicolae Ciucă,0,2.0,2.3,5
+ROU,Romania,2023,Ion-Marcel Ciolacu,1,1.0,2.1818181818181817,4
+ROU,Romania,2024,Ion-Marcel Ciolacu,0,2.0,2.272727272727273,4
+RUS,Russia,2000,Mikhail Mikhailovich Kasyanov,0,1.0,1.0,0
+RUS,Russia,2001,Mikhail Mikhailovich Kasyanov,0,2.0,2.0,0
+RUS,Russia,2002,Mikhail Mikhailovich Kasyanov,0,3.0,3.0,0
+RUS,Russia,2003,Mikhail Mikhailovich Kasyanov,0,4.0,4.0,0
+RUS,Russia,2004,Mikhail Yefimovich Fradkov,1,1.0,2.5,0
+RUS,Russia,2005,Mikhail Yefimovich Fradkov,0,2.0,3.0,1
+RUS,Russia,2006,Mikhail Yefimovich Fradkov,0,3.0,3.5,1
+RUS,Russia,2007,Viktor Alekseyevich Zubkov,1,1.0,2.6666666666666665,1
+RUS,Russia,2008,Vladimir Vladimirovich Putin,1,1.0,2.25,2
+RUS,Russia,2009,Vladimir Vladimirovich Putin,0,2.0,2.5,3
+RUS,Russia,2010,Vladimir Vladimirovich Putin,0,3.0,2.75,2
+RUS,Russia,2011,Vladimir Vladimirovich Putin,0,4.0,3.0,2
+RUS,Russia,2012,Dmitry Anatolyevich Medvedev,1,1.0,2.6,2
+RUS,Russia,2013,Dmitry Anatolyevich Medvedev,0,2.0,2.8,2
+RUS,Russia,2014,Dmitry Anatolyevich Medvedev,0,3.0,3.0,1
+RUS,Russia,2015,Dmitry Anatolyevich Medvedev,0,4.0,3.2,1
+RUS,Russia,2016,Dmitry Anatolyevich Medvedev,0,5.0,3.4,1
+RUS,Russia,2017,Dmitry Anatolyevich Medvedev,0,6.0,3.6,1
+RUS,Russia,2018,Dmitry Anatolyevich Medvedev,0,7.0,3.8,0
+RUS,Russia,2019,Dmitry Anatolyevich Medvedev,0,8.0,4.0,0
+RUS,Russia,2020,Mikhail Vladimirovich Mishustin,1,1.0,3.5,0
+RUS,Russia,2021,Mikhail Vladimirovich Mishustin,0,2.0,3.6666666666666665,1
+RUS,Russia,2022,Mikhail Vladimirovich Mishustin,0,3.0,3.8333333333333335,1
+RUS,Russia,2023,Mikhail Vladimirovich Mishustin,0,4.0,4.0,1
+RUS,Russia,2024,Mikhail Vladimirovich Mishustin,0,5.0,4.166666666666667,1
+RWA,Rwanda,2000,Bernard Makuza,0,1.0,1.0,0
+RWA,Rwanda,2001,Bernard Makuza,0,2.0,2.0,0
+RWA,Rwanda,2002,Bernard Makuza,0,3.0,3.0,0
+RWA,Rwanda,2003,Bernard Makuza,0,4.0,4.0,0
+RWA,Rwanda,2004,Bernard Makuza,0,5.0,5.0,0
+RWA,Rwanda,2005,Bernard Makuza,0,6.0,6.0,0
+RWA,Rwanda,2006,Bernard Makuza,0,7.0,7.0,0
+RWA,Rwanda,2007,Bernard Makuza,0,8.0,8.0,0
+RWA,Rwanda,2008,Bernard Makuza,0,9.0,9.0,0
+RWA,Rwanda,2009,Bernard Makuza,0,10.0,10.0,0
+RWA,Rwanda,2010,Bernard Makuza,0,11.0,11.0,0
+RWA,Rwanda,2011,Pierre Damien Habumuremyi,1,1.0,6.0,0
+RWA,Rwanda,2012,Pierre Damien Habumuremyi,0,2.0,6.5,1
+RWA,Rwanda,2013,Pierre Damien Habumuremyi,0,3.0,7.0,1
+RWA,Rwanda,2014,Anastase Murekezi,1,1.0,5.0,1
+RWA,Rwanda,2015,Anastase Murekezi,0,2.0,5.333333333333333,2
+RWA,Rwanda,2016,Anastase Murekezi,0,3.0,5.666666666666667,2
+RWA,Rwanda,2017,Edouard Ngirente,1,1.0,4.5,1
+RWA,Rwanda,2018,Edouard Ngirente,0,2.0,4.75,2
+RWA,Rwanda,2019,Edouard Ngirente,0,3.0,5.0,2
+RWA,Rwanda,2020,Edouard Ngirente,0,4.0,5.25,1
+RWA,Rwanda,2021,Edouard Ngirente,0,5.0,5.5,1
+RWA,Rwanda,2022,Edouard Ngirente,0,6.0,5.75,1
+RWA,Rwanda,2023,Edouard Ngirente,0,7.0,6.0,0
+RWA,Rwanda,2024,Edouard Ngirente,0,8.0,6.25,0
+SAU,Saudi Arabia,2000,,0,,,0
+SAU,Saudi Arabia,2001,,0,,,0
+SAU,Saudi Arabia,2002,,0,,,0
+SAU,Saudi Arabia,2003,,0,,,0
+SAU,Saudi Arabia,2004,,0,,,0
+SAU,Saudi Arabia,2005,,0,,,0
+SAU,Saudi Arabia,2006,,0,,,0
+SAU,Saudi Arabia,2007,,0,,,0
+SAU,Saudi Arabia,2008,,0,,,0
+SAU,Saudi Arabia,2009,,0,,,0
+SAU,Saudi Arabia,2010,,0,,,0
+SAU,Saudi Arabia,2011,,0,,,0
+SAU,Saudi Arabia,2012,,0,,,0
+SAU,Saudi Arabia,2013,,0,,,0
+SAU,Saudi Arabia,2014,,0,,,0
+SAU,Saudi Arabia,2015,,0,,,0
+SAU,Saudi Arabia,2016,,0,,,0
+SAU,Saudi Arabia,2017,,0,,,0
+SAU,Saudi Arabia,2018,,0,,,0
+SAU,Saudi Arabia,2019,,0,,,0
+SAU,Saudi Arabia,2020,,0,,,0
+SAU,Saudi Arabia,2021,,0,,,0
+SAU,Saudi Arabia,2022,Mohammed bin Salman,0,1.0,1.0,0
+SAU,Saudi Arabia,2023,Mohammed bin Salman,0,2.0,2.0,0
+SAU,Saudi Arabia,2024,Mohammed bin Salman,0,3.0,3.0,0
+SDN,Sudan,2000,,0,,,0
+SDN,Sudan,2001,,0,,,0
+SDN,Sudan,2002,,0,,,0
+SDN,Sudan,2003,,0,,,0
+SDN,Sudan,2004,,0,,,0
+SDN,Sudan,2005,,0,,,0
+SDN,Sudan,2006,,0,,,0
+SDN,Sudan,2007,,0,,,0
+SDN,Sudan,2008,,0,,,0
+SDN,Sudan,2009,,0,,,0
+SDN,Sudan,2010,,0,,,0
+SDN,Sudan,2011,,0,,,0
+SDN,Sudan,2012,,0,,,0
+SDN,Sudan,2013,,0,,,0
+SDN,Sudan,2014,,0,,,0
+SDN,Sudan,2015,,0,,,0
+SDN,Sudan,2016,,0,,,0
+SDN,Sudan,2017,Bakri Hasan Saleh,0,1.0,1.0,0
+SDN,Sudan,2018,Motazz Moussa,1,1.0,1.0,0
+SDN,Sudan,2019,Abdalla Hamdok,1,1.0,1.0,1
+SDN,Sudan,2020,Abdalla Hamdok,0,2.0,1.3333333333333333,2
+SDN,Sudan,2021,Abdalla Hamdok,0,3.0,1.6666666666666667,2
+SDN,Sudan,2022,Osman Hussein,1,1.0,1.5,2
+SDN,Sudan,2023,Osman Hussein,0,2.0,1.75,3
+SDN,Sudan,2024,Osman Hussein,0,3.0,2.0,2
+SEN,Senegal,2000,Moustapha Niasse,0,1.0,1.0,0
+SEN,Senegal,2001,Mame Madior Boye,1,1.0,1.0,0
+SEN,Senegal,2002,Idrissa Seck,1,1.0,1.0,1
+SEN,Senegal,2003,Idrissa Seck,0,2.0,1.3333333333333333,2
+SEN,Senegal,2004,Macky Sall,1,1.0,1.25,2
+SEN,Senegal,2005,Macky Sall,0,2.0,1.5,3
+SEN,Senegal,2006,Macky Sall,0,3.0,1.75,3
+SEN,Senegal,2007,Cheikh Hadjibou Soumaré,1,1.0,1.6,2
+SEN,Senegal,2008,Cheikh Hadjibou Soumaré,0,2.0,1.8,2
+SEN,Senegal,2009,Souleymane Ndéné Ndiaye,1,1.0,1.6666666666666667,2
+SEN,Senegal,2010,Souleymane Ndéné Ndiaye,0,2.0,1.8333333333333333,2
+SEN,Senegal,2011,Souleymane Ndéné Ndiaye,0,3.0,2.0,2
+SEN,Senegal,2012,Abdoul Mbaye,1,1.0,1.8571428571428572,2
+SEN,Senegal,2013,Aminata Touré,1,1.0,1.75,2
+SEN,Senegal,2014,Mohamed Dionne,1,1.0,1.6666666666666667,3
+SEN,Senegal,2015,Mohamed Dionne,0,2.0,1.7777777777777777,3
+SEN,Senegal,2016,Mohamed Dionne,0,3.0,1.8888888888888888,3
+SEN,Senegal,2017,Mohamed Dionne,0,4.0,2.0,3
+SEN,Senegal,2018,Mohamed Dionne,0,5.0,2.111111111111111,2
+SEN,Senegal,2019,,0,,2.111111111111111,1
+SEN,Senegal,2020,,0,,2.111111111111111,0
+SEN,Senegal,2021,,0,,2.111111111111111,0
+SEN,Senegal,2022,Amadou Ba,0,1.0,2.0,0
+SEN,Senegal,2023,Amadou Ba,0,2.0,2.1,0
+SEN,Senegal,2024,Ousmane Sonko,1,1.0,2.0,0
+SGP,Singapore,2000,Goh Chok Tong,0,1.0,1.0,0
+SGP,Singapore,2001,Goh Chok Tong,0,2.0,2.0,0
+SGP,Singapore,2002,Goh Chok Tong,0,3.0,3.0,0
+SGP,Singapore,2003,Goh Chok Tong,0,4.0,4.0,0
+SGP,Singapore,2004,Lee Hsien Loong,1,1.0,2.5,0
+SGP,Singapore,2005,Lee Hsien Loong,0,2.0,3.0,1
+SGP,Singapore,2006,Lee Hsien Loong,0,3.0,3.5,1
+SGP,Singapore,2007,Lee Hsien Loong,0,4.0,4.0,1
+SGP,Singapore,2008,Lee Hsien Loong,0,5.0,4.5,1
+SGP,Singapore,2009,Lee Hsien Loong,0,6.0,5.0,1
+SGP,Singapore,2010,Lee Hsien Loong,0,7.0,5.5,0
+SGP,Singapore,2011,Lee Hsien Loong,0,8.0,6.0,0
+SGP,Singapore,2012,Lee Hsien Loong,0,9.0,6.5,0
+SGP,Singapore,2013,Lee Hsien Loong,0,10.0,7.0,0
+SGP,Singapore,2014,Lee Hsien Loong,0,11.0,7.5,0
+SGP,Singapore,2015,Lee Hsien Loong,0,12.0,8.0,0
+SGP,Singapore,2016,Lee Hsien Loong,0,13.0,8.5,0
+SGP,Singapore,2017,Lee Hsien Loong,0,14.0,9.0,0
+SGP,Singapore,2018,Lee Hsien Loong,0,15.0,9.5,0
+SGP,Singapore,2019,Lee Hsien Loong,0,16.0,10.0,0
+SGP,Singapore,2020,Lee Hsien Loong,0,17.0,10.5,0
+SGP,Singapore,2021,Lee Hsien Loong,0,18.0,11.0,0
+SGP,Singapore,2022,Lee Hsien Loong,0,19.0,11.5,0
+SGP,Singapore,2023,Lee Hsien Loong,0,20.0,12.0,0
+SGP,Singapore,2024,Lawrence Wong,1,1.0,8.333333333333334,0
+SLB,Solomon Islands,2000,Manasseh Damukana Sogavare,0,1.0,1.0,0
+SLB,Solomon Islands,2001,Allan Kemakeza,1,1.0,1.0,0
+SLB,Solomon Islands,2002,Allan Kemakeza,0,2.0,1.5,1
+SLB,Solomon Islands,2003,Allan Kemakeza,0,3.0,2.0,1
+SLB,Solomon Islands,2004,Allan Kemakeza,0,4.0,2.5,1
+SLB,Solomon Islands,2005,Allan Kemakeza,0,5.0,3.0,1
+SLB,Solomon Islands,2006,Manasseh Damukana Sogavare,1,1.0,2.3333333333333335,1
+SLB,Solomon Islands,2007,Derek Sikua,1,1.0,2.0,1
+SLB,Solomon Islands,2008,Derek Sikua,0,2.0,2.25,2
+SLB,Solomon Islands,2009,Derek Sikua,0,3.0,2.5,2
+SLB,Solomon Islands,2010,Danny Philip,1,1.0,2.2,2
+SLB,Solomon Islands,2011,Gordon Darcy Lilo,1,1.0,2.0,3
+SLB,Solomon Islands,2012,Gordon Darcy Lilo,0,2.0,2.1666666666666665,3
+SLB,Solomon Islands,2013,Gordon Darcy Lilo,0,3.0,2.3333333333333335,2
+SLB,Solomon Islands,2014,Manasseh Damukana Sogavare,1,1.0,2.142857142857143,2
+SLB,Solomon Islands,2015,Manasseh Damukana Sogavare,0,2.0,2.2857142857142856,3
+SLB,Solomon Islands,2016,Manasseh Damukana Sogavare,0,3.0,2.4285714285714284,2
+SLB,Solomon Islands,2017,Rick 'Hou' Houenipwela,1,1.0,2.25,1
+SLB,Solomon Islands,2018,Rick 'Hou' Houenipwela,0,2.0,2.375,2
+SLB,Solomon Islands,2019,Manasseh Damukana Sogavare,1,1.0,2.2222222222222223,2
+SLB,Solomon Islands,2020,Manasseh Damukana Sogavare,0,2.0,2.3333333333333335,2
+SLB,Solomon Islands,2021,Manasseh Damukana Sogavare,0,3.0,2.4444444444444446,2
+SLB,Solomon Islands,2022,Manasseh Damukana Sogavare,0,4.0,2.5555555555555554,2
+SLB,Solomon Islands,2023,Manasseh Damukana Sogavare,0,5.0,2.6666666666666665,1
+SLB,Solomon Islands,2024,Jeremiah Manele,1,1.0,2.5,1
+SLE,Sierra Leone,2000,,0,,,0
+SLE,Sierra Leone,2001,,0,,,0
+SLE,Sierra Leone,2002,,0,,,0
+SLE,Sierra Leone,2003,,0,,,0
+SLE,Sierra Leone,2004,,0,,,0
+SLE,Sierra Leone,2005,,0,,,0
+SLE,Sierra Leone,2006,,0,,,0
+SLE,Sierra Leone,2007,,0,,,0
+SLE,Sierra Leone,2008,,0,,,0
+SLE,Sierra Leone,2009,,0,,,0
+SLE,Sierra Leone,2010,,0,,,0
+SLE,Sierra Leone,2011,,0,,,0
+SLE,Sierra Leone,2012,,0,,,0
+SLE,Sierra Leone,2013,,0,,,0
+SLE,Sierra Leone,2014,,0,,,0
+SLE,Sierra Leone,2015,,0,,,0
+SLE,Sierra Leone,2016,,0,,,0
+SLE,Sierra Leone,2017,,0,,,0
+SLE,Sierra Leone,2018,,0,,,0
+SLE,Sierra Leone,2019,,0,,,0
+SLE,Sierra Leone,2020,,0,,,0
+SLE,Sierra Leone,2021,,0,,,0
+SLE,Sierra Leone,2022,,0,,,0
+SLE,Sierra Leone,2023,,0,,,0
+SLE,Sierra Leone,2024,,0,,,0
+SLV,El Salvador,2000,,0,,,0
+SLV,El Salvador,2001,,0,,,0
+SLV,El Salvador,2002,,0,,,0
+SLV,El Salvador,2003,,0,,,0
+SLV,El Salvador,2004,,0,,,0
+SLV,El Salvador,2005,,0,,,0
+SLV,El Salvador,2006,,0,,,0
+SLV,El Salvador,2007,,0,,,0
+SLV,El Salvador,2008,,0,,,0
+SLV,El Salvador,2009,,0,,,0
+SLV,El Salvador,2010,,0,,,0
+SLV,El Salvador,2011,,0,,,0
+SLV,El Salvador,2012,,0,,,0
+SLV,El Salvador,2013,,0,,,0
+SLV,El Salvador,2014,,0,,,0
+SLV,El Salvador,2015,,0,,,0
+SLV,El Salvador,2016,,0,,,0
+SLV,El Salvador,2017,,0,,,0
+SLV,El Salvador,2018,,0,,,0
+SLV,El Salvador,2019,,0,,,0
+SLV,El Salvador,2020,,0,,,0
+SLV,El Salvador,2021,,0,,,0
+SLV,El Salvador,2022,,0,,,0
+SLV,El Salvador,2023,,0,,,0
+SLV,El Salvador,2024,,0,,,0
+SOM,Somalia,2000,Ali Khalif Galaid,0,1.0,1.0,0
+SOM,Somalia,2001,Hassan Abshir Farah,1,1.0,1.0,0
+SOM,Somalia,2002,Hassan Abshir Farah,0,2.0,1.5,1
+SOM,Somalia,2003,Muhammad Abdi Yusuf,1,1.0,1.3333333333333333,1
+SOM,Somalia,2004,Muhammad Abdi Yusuf,0,2.0,1.6666666666666667,2
+SOM,Somalia,2005,Ali Muhammad Ghedi,1,1.0,1.5,2
+SOM,Somalia,2006,Ali Muhammad Ghedi,0,2.0,1.75,3
+SOM,Somalia,2007,Nur Hassan Hussein,1,1.0,1.6,2
+SOM,Somalia,2008,Nur Hassan Hussein,0,2.0,1.8,3
+SOM,Somalia,2009,Omar Abdirashid Ali Sharmarke,1,1.0,1.6666666666666667,2
+SOM,Somalia,2010,Mohamed Abdullahi Mohamed,1,1.0,1.5714285714285714,3
+SOM,Somalia,2011,Abdiweli Mohamed Ali,1,1.0,1.5,3
+SOM,Somalia,2012,Abdiweli Mohamed Ali,0,2.0,1.625,4
+SOM,Somalia,2013,Abdiweli Sheikh Ahmed,1,1.0,1.5555555555555556,3
+SOM,Somalia,2014,Omar Abdirashid Ali Sharmarke,1,1.0,1.5,4
+SOM,Somalia,2015,Omar Abdirashid Ali Sharmarke,0,2.0,1.6,4
+SOM,Somalia,2016,Omar Abdirashid Ali Sharmarke,0,3.0,1.7,3
+SOM,Somalia,2017,Hassan Ali Khayre,1,1.0,1.6363636363636365,2
+SOM,Somalia,2018,Hassan Ali Khayre,0,2.0,1.7272727272727273,3
+SOM,Somalia,2019,Hassan Ali Khayre,0,3.0,1.8181818181818181,2
+SOM,Somalia,2020,Mohamed Hussein Roble,1,1.0,1.75,1
+SOM,Somalia,2021,Mohamed Hussein Roble,0,2.0,1.8333333333333333,2
+SOM,Somalia,2022,Hamza Abdi Barre,1,1.0,1.7692307692307692,2
+SOM,Somalia,2023,Hamza Abdi Barre,0,2.0,1.8461538461538463,2
+SOM,Somalia,2024,Hamza Abdi Barre,0,3.0,1.9230769230769231,2
+SRB,Serbia,2000,Mirko Marjanovic,0,1.0,1.0,0
+SRB,Serbia,2001,Zoran Djindjic,1,1.0,1.0,0
+SRB,Serbia,2002,Zoran Djindjic,0,2.0,1.5,1
+SRB,Serbia,2003,Zoran Zivkovic,1,1.0,1.3333333333333333,1
+SRB,Serbia,2004,Vojislav Kostunica,1,1.0,1.25,2
+SRB,Serbia,2005,Vojislav Kostunica,0,2.0,1.5,3
+SRB,Serbia,2006,Vojislav Kostunica,0,3.0,1.75,3
+SRB,Serbia,2007,Vojislav Kostunica,0,4.0,2.0,2
+SRB,Serbia,2008,Mirko Cvetkovic,1,1.0,1.8,2
+SRB,Serbia,2009,Mirko Cvetkovic,0,2.0,2.0,2
+SRB,Serbia,2010,Mirko Cvetkovic,0,3.0,2.2,1
+SRB,Serbia,2011,Mirko Cvetkovic,0,4.0,2.4,1
+SRB,Serbia,2012,Ivica Dacic,1,1.0,2.1666666666666665,1
+SRB,Serbia,2013,Ivica Dacic,0,2.0,2.3333333333333335,2
+SRB,Serbia,2014,Aleksandar Vucic,1,1.0,2.142857142857143,1
+SRB,Serbia,2015,Aleksandar Vucic,0,2.0,2.2857142857142856,2
+SRB,Serbia,2016,Aleksandar Vucic,0,3.0,2.4285714285714284,2
+SRB,Serbia,2017,Ana Brnabic,1,1.0,2.25,2
+SRB,Serbia,2018,Ana Brnabic,0,2.0,2.375,2
+SRB,Serbia,2019,Ana Brnabic,0,3.0,2.5,2
+SRB,Serbia,2020,Ana Brnabic,0,4.0,2.625,1
+SRB,Serbia,2021,Ana Brnabic,0,5.0,2.75,1
+SRB,Serbia,2022,Ana Brnabic,0,6.0,2.875,1
+SRB,Serbia,2023,Ana Brnabic,0,7.0,3.0,0
+SRB,Serbia,2024,Miloš Vučević,1,1.0,2.7777777777777777,0
+SSD,South Sudan,2011,,0,,,0
+SSD,South Sudan,2012,,0,,,0
+SSD,South Sudan,2013,,0,,,0
+SSD,South Sudan,2014,,0,,,0
+SSD,South Sudan,2015,,0,,,0
+SSD,South Sudan,2016,,0,,,0
+SSD,South Sudan,2017,,0,,,0
+SSD,South Sudan,2018,,0,,,0
+SSD,South Sudan,2019,,0,,,0
+SSD,South Sudan,2020,,0,,,0
+SSD,South Sudan,2021,,0,,,0
+SSD,South Sudan,2022,,0,,,0
+SSD,South Sudan,2023,,0,,,0
+SSD,South Sudan,2024,,0,,,0
+STP,Sao Tome and Principe,2000,Guilherme Posser de Costa,0,1.0,1.0,0
+STP,Sao Tome and Principe,2001,Evaristo do Espírito Santo Carvalho,1,1.0,1.0,0
+STP,Sao Tome and Principe,2002,Mariadas Neves Ceita Baptista de Sousa,1,1.0,1.0,1
+STP,Sao Tome and Principe,2003,Mariadas Neves Ceita Baptista de Sousa,0,2.0,1.3333333333333333,2
+STP,Sao Tome and Principe,2004,Damião Vaz d'Almeida,1,1.0,1.25,2
+STP,Sao Tome and Principe,2005,Mariado Carmo Trovoada Pires de Carvalho Silveira,1,1.0,1.2,3
+STP,Sao Tome and Principe,2006,Tomé Soares da Vera Cruz,1,1.0,1.1666666666666667,4
+STP,Sao Tome and Principe,2007,Tomé Soares da Vera Cruz,0,2.0,1.3333333333333333,4
+STP,Sao Tome and Principe,2008,Joaquim Rafael Branco,1,1.0,1.2857142857142858,3
+STP,Sao Tome and Principe,2009,Joaquim Rafael Branco,0,2.0,1.4285714285714286,4
+STP,Sao Tome and Principe,2010,Patrice Emery Trovoada,1,1.0,1.375,3
+STP,Sao Tome and Principe,2011,Patrice Emery Trovoada,0,2.0,1.5,3
+STP,Sao Tome and Principe,2012,Gabriel Arcanjo Ferreirada Costa,1,1.0,1.4444444444444444,2
+STP,Sao Tome and Principe,2013,Gabriel Arcanjo Ferreirada Costa,0,2.0,1.5555555555555556,3
+STP,Sao Tome and Principe,2014,Patrice Emery Trovoada,1,1.0,1.5,2
+STP,Sao Tome and Principe,2015,Patrice Emery Trovoada,0,2.0,1.6,3
+STP,Sao Tome and Principe,2016,Patrice Emery Trovoada,0,3.0,1.7,2
+STP,Sao Tome and Principe,2017,Patrice Emery Trovoada,0,4.0,1.8,2
+STP,Sao Tome and Principe,2018,Jorge Lopes Bom Jesus,1,1.0,1.7272727272727273,1
+STP,Sao Tome and Principe,2019,Jorge Lopes Bom Jesus,0,2.0,1.8181818181818181,2
+STP,Sao Tome and Principe,2020,Jorge Lopes Bom Jesus,0,3.0,1.9090909090909092,1
+STP,Sao Tome and Principe,2021,Jorge Lopes Bom Jesus,0,4.0,2.0,1
+STP,Sao Tome and Principe,2022,Patrice Emery Trovoada,1,1.0,1.9166666666666667,1
+STP,Sao Tome and Principe,2023,Patrice Emery Trovoada,0,2.0,2.0,2
+STP,Sao Tome and Principe,2024,Patrice Emery Trovoada,0,3.0,2.0833333333333335,1
+SUR,Suriname,2000,,0,,,0
+SUR,Suriname,2001,,0,,,0
+SUR,Suriname,2002,,0,,,0
+SUR,Suriname,2003,,0,,,0
+SUR,Suriname,2004,,0,,,0
+SUR,Suriname,2005,,0,,,0
+SUR,Suriname,2006,,0,,,0
+SUR,Suriname,2007,,0,,,0
+SUR,Suriname,2008,,0,,,0
+SUR,Suriname,2009,,0,,,0
+SUR,Suriname,2010,,0,,,0
+SUR,Suriname,2011,,0,,,0
+SUR,Suriname,2012,,0,,,0
+SUR,Suriname,2013,,0,,,0
+SUR,Suriname,2014,,0,,,0
+SUR,Suriname,2015,,0,,,0
+SUR,Suriname,2016,,0,,,0
+SUR,Suriname,2017,,0,,,0
+SUR,Suriname,2018,,0,,,0
+SUR,Suriname,2019,,0,,,0
+SUR,Suriname,2020,,0,,,0
+SUR,Suriname,2021,,0,,,0
+SUR,Suriname,2022,,0,,,0
+SUR,Suriname,2023,,0,,,0
+SUR,Suriname,2024,,0,,,0
+SVK,Slovakia,2000,Mikulás Dzurinda,0,1.0,1.0,0
+SVK,Slovakia,2001,Mikulás Dzurinda,0,2.0,2.0,0
+SVK,Slovakia,2002,Mikulás Dzurinda,0,3.0,3.0,0
+SVK,Slovakia,2003,Mikulás Dzurinda,0,4.0,4.0,0
+SVK,Slovakia,2004,Mikulás Dzurinda,0,5.0,5.0,0
+SVK,Slovakia,2005,Mikulás Dzurinda,0,6.0,6.0,0
+SVK,Slovakia,2006,Robert Fico,1,1.0,3.5,0
+SVK,Slovakia,2007,Robert Fico,0,2.0,4.0,1
+SVK,Slovakia,2008,Robert Fico,0,3.0,4.5,1
+SVK,Slovakia,2009,Robert Fico,0,4.0,5.0,1
+SVK,Slovakia,2010,Iveta Radicová,1,1.0,3.6666666666666665,1
+SVK,Slovakia,2011,Iveta Radicová,0,2.0,4.0,2
+SVK,Slovakia,2012,Robert Fico,1,1.0,3.25,1
+SVK,Slovakia,2013,Robert Fico,0,2.0,3.5,2
+SVK,Slovakia,2014,Robert Fico,0,3.0,3.75,2
+SVK,Slovakia,2015,Robert Fico,0,4.0,4.0,2
+SVK,Slovakia,2016,Robert Fico,0,5.0,4.25,1
+SVK,Slovakia,2017,Robert Fico,0,6.0,4.5,1
+SVK,Slovakia,2018,Peter Pellegrini,1,1.0,3.8,0
+SVK,Slovakia,2019,Peter Pellegrini,0,2.0,4.0,1
+SVK,Slovakia,2020,Igor Matovic,1,1.0,3.5,1
+SVK,Slovakia,2021,Eduard Heger,1,1.0,3.142857142857143,2
+SVK,Slovakia,2022,Eduard Heger,0,2.0,3.2857142857142856,3
+SVK,Slovakia,2023,Robert Fico,1,1.0,3.0,3
+SVK,Slovakia,2024,Robert Fico,0,2.0,3.125,3
+SVN,Slovenia,2000,Janez Drnovsek,0,1.0,1.0,0
+SVN,Slovenia,2001,Janez Drnovsek,0,2.0,2.0,0
+SVN,Slovenia,2002,Anton Rop,1,1.0,1.5,0
+SVN,Slovenia,2003,Anton Rop,0,2.0,2.0,1
+SVN,Slovenia,2004,Janez Jansa,1,1.0,1.6666666666666667,1
+SVN,Slovenia,2005,Janez Jansa,0,2.0,2.0,2
+SVN,Slovenia,2006,Janez Jansa,0,3.0,2.3333333333333335,2
+SVN,Slovenia,2007,Janez Jansa,0,4.0,2.6666666666666665,2
+SVN,Slovenia,2008,Borut Pahor,1,1.0,2.25,1
+SVN,Slovenia,2009,Borut Pahor,0,2.0,2.5,2
+SVN,Slovenia,2010,Borut Pahor,0,3.0,2.75,1
+SVN,Slovenia,2011,Borut Pahor,0,4.0,3.0,1
+SVN,Slovenia,2012,Janez Jansa,1,1.0,2.6,1
+SVN,Slovenia,2013,Alenka Bratušek,1,1.0,2.3333333333333335,2
+SVN,Slovenia,2014,Miro Cerar,1,1.0,2.142857142857143,2
+SVN,Slovenia,2015,Miro Cerar,0,2.0,2.2857142857142856,3
+SVN,Slovenia,2016,Miro Cerar,0,3.0,2.4285714285714284,3
+SVN,Slovenia,2017,Miro Cerar,0,4.0,2.5714285714285716,3
+SVN,Slovenia,2018,Marjan Šarec,1,1.0,2.375,2
+SVN,Slovenia,2019,Marjan Šarec,0,2.0,2.5,2
+SVN,Slovenia,2020,Janez Jansa,1,1.0,2.3333333333333335,1
+SVN,Slovenia,2021,Janez Jansa,0,2.0,2.4444444444444446,2
+SVN,Slovenia,2022,Robert Golob,1,1.0,2.3,2
+SVN,Slovenia,2023,Robert Golob,0,2.0,2.4,3
+SVN,Slovenia,2024,Robert Golob,0,3.0,2.5,2
+SWE,Sweden,2000,Göran Persson,0,1.0,1.0,0
+SWE,Sweden,2001,Göran Persson,0,2.0,2.0,0
+SWE,Sweden,2002,Göran Persson,0,3.0,3.0,0
+SWE,Sweden,2003,Göran Persson,0,4.0,4.0,0
+SWE,Sweden,2004,Göran Persson,0,5.0,5.0,0
+SWE,Sweden,2005,Göran Persson,0,6.0,6.0,0
+SWE,Sweden,2006,Fredrik Reinfeldt,1,1.0,3.5,0
+SWE,Sweden,2007,Fredrik Reinfeldt,0,2.0,4.0,1
+SWE,Sweden,2008,Fredrik Reinfeldt,0,3.0,4.5,1
+SWE,Sweden,2009,Fredrik Reinfeldt,0,4.0,5.0,1
+SWE,Sweden,2010,Fredrik Reinfeldt,0,5.0,5.5,1
+SWE,Sweden,2011,Fredrik Reinfeldt,0,6.0,6.0,1
+SWE,Sweden,2012,Fredrik Reinfeldt,0,7.0,6.5,0
+SWE,Sweden,2013,Fredrik Reinfeldt,0,8.0,7.0,0
+SWE,Sweden,2014,Stefan Löfven,1,1.0,5.0,0
+SWE,Sweden,2015,Stefan Löfven,0,2.0,5.333333333333333,1
+SWE,Sweden,2016,Stefan Löfven,0,3.0,5.666666666666667,1
+SWE,Sweden,2017,Stefan Löfven,0,4.0,6.0,1
+SWE,Sweden,2018,Stefan Löfven,0,5.0,6.333333333333333,1
+SWE,Sweden,2019,Stefan Löfven,0,6.0,6.666666666666667,1
+SWE,Sweden,2020,Stefan Löfven,0,7.0,7.0,0
+SWE,Sweden,2021,Magdalena Andersson,1,1.0,5.5,0
+SWE,Sweden,2022,Ulf Kristersson,1,1.0,4.6,1
+SWE,Sweden,2023,Ulf Kristersson,0,2.0,4.8,2
+SWE,Sweden,2024,Ulf Kristersson,0,3.0,5.0,2
+SWZ,Eswatini,2000,Barnabas Sibusiso Dlamini,0,1.0,1.0,0
+SWZ,Eswatini,2001,Barnabas Sibusiso Dlamini,0,2.0,2.0,0
+SWZ,Eswatini,2002,Barnabas Sibusiso Dlamini,0,3.0,3.0,0
+SWZ,Eswatini,2003,Prince Themba Dlamini,1,1.0,2.0,0
+SWZ,Eswatini,2004,Prince Themba Dlamini,0,2.0,2.5,1
+SWZ,Eswatini,2005,Prince Themba Dlamini,0,3.0,3.0,1
+SWZ,Eswatini,2006,Prince Themba Dlamini,0,4.0,3.5,1
+SWZ,Eswatini,2007,Prince Themba Dlamini,0,5.0,4.0,1
+SWZ,Eswatini,2008,Barnabas Sibusiso Dlamini,1,1.0,3.0,1
+SWZ,Eswatini,2009,Barnabas Sibusiso Dlamini,0,2.0,3.3333333333333335,1
+SWZ,Eswatini,2010,Barnabas Sibusiso Dlamini,0,3.0,3.6666666666666665,1
+SWZ,Eswatini,2011,Barnabas Sibusiso Dlamini,0,4.0,4.0,1
+SWZ,Eswatini,2012,Barnabas Sibusiso Dlamini,0,5.0,4.333333333333333,1
+SWZ,Eswatini,2013,Barnabas Sibusiso Dlamini,0,6.0,4.666666666666667,1
+SWZ,Eswatini,2014,Barnabas Sibusiso Dlamini,0,7.0,5.0,0
+SWZ,Eswatini,2015,Barnabas Sibusiso Dlamini,0,8.0,5.333333333333333,0
+SWZ,Eswatini,2016,Barnabas Sibusiso Dlamini,0,9.0,5.666666666666667,0
+SWZ,Eswatini,2017,Barnabas Sibusiso Dlamini,0,10.0,6.0,0
+SWZ,Eswatini,2018,Ambrose Mandvulo Dlamini,1,1.0,4.75,0
+SWZ,Eswatini,2019,Ambrose Mandvulo Dlamini,0,2.0,5.0,1
+SWZ,Eswatini,2020,Themba Nhlanganiso Masuku,1,1.0,4.2,1
+SWZ,Eswatini,2021,Cleopas Sipho Dlamini,1,1.0,3.6666666666666665,2
+SWZ,Eswatini,2022,Cleopas Sipho Dlamini,0,2.0,3.8333333333333335,3
+SWZ,Eswatini,2023,Russell Mmiso Dlamini,1,1.0,3.4285714285714284,3
+SWZ,Eswatini,2024,Russell Mmiso Dlamini,0,2.0,3.5714285714285716,3
+SYC,Seychelles,2000,,0,,,0
+SYC,Seychelles,2001,,0,,,0
+SYC,Seychelles,2002,,0,,,0
+SYC,Seychelles,2003,,0,,,0
+SYC,Seychelles,2004,,0,,,0
+SYC,Seychelles,2005,,0,,,0
+SYC,Seychelles,2006,,0,,,0
+SYC,Seychelles,2007,,0,,,0
+SYC,Seychelles,2008,,0,,,0
+SYC,Seychelles,2009,,0,,,0
+SYC,Seychelles,2010,,0,,,0
+SYC,Seychelles,2011,,0,,,0
+SYC,Seychelles,2012,,0,,,0
+SYC,Seychelles,2013,,0,,,0
+SYC,Seychelles,2014,,0,,,0
+SYC,Seychelles,2015,,0,,,0
+SYC,Seychelles,2016,,0,,,0
+SYC,Seychelles,2017,,0,,,0
+SYC,Seychelles,2018,,0,,,0
+SYC,Seychelles,2019,,0,,,0
+SYC,Seychelles,2020,,0,,,0
+SYC,Seychelles,2021,,0,,,0
+SYC,Seychelles,2022,,0,,,0
+SYC,Seychelles,2023,,0,,,0
+SYC,Seychelles,2024,,0,,,0
+SYR,Syria,2000,Muhammed Mustafa Mero,0,1.0,1.0,0
+SYR,Syria,2001,Muhammed Mustafa Mero,0,2.0,2.0,0
+SYR,Syria,2002,Muhammed Mustafa Mero,0,3.0,3.0,0
+SYR,Syria,2003,Muhammad Naji al-Otari,1,1.0,2.0,0
+SYR,Syria,2004,Muhammad Naji al-Otari,0,2.0,2.5,1
+SYR,Syria,2005,Muhammad Naji al-Otari,0,3.0,3.0,1
+SYR,Syria,2006,Muhammad Naji al-Otari,0,4.0,3.5,1
+SYR,Syria,2007,Muhammad Naji al-Otari,0,5.0,4.0,1
+SYR,Syria,2008,Muhammad Naji al-Otari,0,6.0,4.5,1
+SYR,Syria,2009,Muhammad Naji al-Otari,0,7.0,5.0,0
+SYR,Syria,2010,Muhammad Naji al-Otari,0,8.0,5.5,0
+SYR,Syria,2011,Adel Safar,1,1.0,4.0,0
+SYR,Syria,2012,Wael Nader al-Halqi,1,1.0,3.25,1
+SYR,Syria,2013,Wael Nader al-Halqi,0,2.0,3.5,2
+SYR,Syria,2014,Wael Nader al-Halqi,0,3.0,3.75,2
+SYR,Syria,2015,Wael Nader al-Halqi,0,4.0,4.0,2
+SYR,Syria,2016,Imad Muhammad Dib Khamis,1,1.0,3.4,2
+SYR,Syria,2017,Imad Muhammad Dib Khamis,0,2.0,3.6,2
+SYR,Syria,2018,Imad Muhammad Dib Khamis,0,3.0,3.8,1
+SYR,Syria,2019,Imad Muhammad Dib Khamis,0,4.0,4.0,1
+SYR,Syria,2020,Hussein Arnous,1,1.0,3.5,1
+SYR,Syria,2021,Hussein Arnous,0,2.0,3.6666666666666665,2
+SYR,Syria,2022,Hussein Arnous,0,3.0,3.8333333333333335,1
+SYR,Syria,2023,Hussein Arnous,0,4.0,4.0,1
+SYR,Syria,2024,Muhammad Ghazi al-Jalali,1,1.0,3.5714285714285716,1
+TCD,Chad,2000,Nagoum Yamassoum,0,1.0,1.0,0
+TCD,Chad,2001,Nagoum Yamassoum,0,2.0,2.0,0
+TCD,Chad,2002,Haroun Kabadi,1,1.0,1.5,0
+TCD,Chad,2003,Moussa Faki,1,1.0,1.3333333333333333,1
+TCD,Chad,2004,Moussa Faki,0,2.0,1.6666666666666667,2
+TCD,Chad,2005,Pascal Yoadimnadji,1,1.0,1.5,2
+TCD,Chad,2006,Pascal Yoadimnadji,0,2.0,1.75,3
+TCD,Chad,2007,Delwa Kassire Koumakoye,1,1.0,1.6,3
+TCD,Chad,2008,Youssouf Saleh Abbas,1,1.0,1.5,3
+TCD,Chad,2009,Youssouf Saleh Abbas,0,2.0,1.6666666666666667,3
+TCD,Chad,2010,Emmanuel Nadingar,1,1.0,1.5714285714285714,3
+TCD,Chad,2011,Emmanuel Nadingar,0,2.0,1.7142857142857142,3
+TCD,Chad,2012,Emmanuel Nadingar,0,3.0,1.8571428571428572,3
+TCD,Chad,2013,Kalzeubé Pahimi Deubet,1,1.0,1.75,2
+TCD,Chad,2014,Kalzeubé Pahimi Deubet,0,2.0,1.875,2
+TCD,Chad,2015,Kalzeubé Pahimi Deubet,0,3.0,2.0,2
+TCD,Chad,2016,Albert Pahimi Padacké,1,1.0,1.8888888888888888,1
+TCD,Chad,2017,Albert Pahimi Padacké,0,2.0,2.0,2
+TCD,Chad,2018,,0,,2.0,2
+TCD,Chad,2019,,0,,2.0,1
+TCD,Chad,2020,,0,,2.0,1
+TCD,Chad,2021,Albert Pahimi Padacké,0,1.0,1.9,1
+TCD,Chad,2022,Saleh Kebzabo,1,1.0,1.8181818181818181,0
+TCD,Chad,2023,Saleh Kebzabo,0,2.0,1.9090909090909092,1
+TCD,Chad,2024,Allamaye Halina,1,1.0,1.8333333333333333,1
+TGO,Togo,2000,Agbéyomé Messan Kodjo,0,1.0,1.0,0
+TGO,Togo,2001,Agbéyomé Messan Kodjo,0,2.0,2.0,0
+TGO,Togo,2002,Koffi Sama,1,1.0,1.5,0
+TGO,Togo,2003,Koffi Sama,0,2.0,2.0,1
+TGO,Togo,2004,Koffi Sama,0,3.0,2.5,1
+TGO,Togo,2005,Édouard Kodjovi Kodjo,1,1.0,2.0,1
+TGO,Togo,2006,Yawovi Madji Agboyibo,1,1.0,1.75,2
+TGO,Togo,2007,Komlan Mally,1,1.0,1.6,3
+TGO,Togo,2008,Gilbert Fossoun Houngbo,1,1.0,1.5,3
+TGO,Togo,2009,Gilbert Fossoun Houngbo,0,2.0,1.6666666666666667,4
+TGO,Togo,2010,Gilbert Fossoun Houngbo,0,3.0,1.8333333333333333,4
+TGO,Togo,2011,Gilbert Fossoun Houngbo,0,4.0,2.0,3
+TGO,Togo,2012,Kwesi Ahoomey-Zunu,1,1.0,1.8571428571428572,2
+TGO,Togo,2013,Kwesi Ahoomey-Zunu,0,2.0,2.0,2
+TGO,Togo,2014,Kwesi Ahoomey-Zunu,0,3.0,2.142857142857143,1
+TGO,Togo,2015,Komi Sélom Klassou,1,1.0,2.0,1
+TGO,Togo,2016,Komi Sélom Klassou,0,2.0,2.125,2
+TGO,Togo,2017,Komi Sélom Klassou,0,3.0,2.25,2
+TGO,Togo,2018,Komi Sélom Klassou,0,4.0,2.375,1
+TGO,Togo,2019,Komi Sélom Klassou,0,5.0,2.5,1
+TGO,Togo,2020,Victoire Sidémého Tomégah-Dogbé,1,1.0,2.3333333333333335,1
+TGO,Togo,2021,Victoire Sidémého Tomégah-Dogbé,0,2.0,2.4444444444444446,1
+TGO,Togo,2022,Victoire Sidémého Tomégah-Dogbé,0,3.0,2.5555555555555554,1
+TGO,Togo,2023,Victoire Sidémého Tomégah-Dogbé,0,4.0,2.6666666666666665,1
+TGO,Togo,2024,Victoire Sidémého Tomégah-Dogbé,0,5.0,2.7777777777777777,1
+THA,Thailand,2000,Chuan Leekpai,0,1.0,1.0,0
+THA,Thailand,2001,Thaksin Shinawatra,1,1.0,1.0,0
+THA,Thailand,2002,Thaksin Shinawatra,0,2.0,1.5,1
+THA,Thailand,2003,Thaksin Shinawatra,0,3.0,2.0,1
+THA,Thailand,2004,Thaksin Shinawatra,0,4.0,2.5,1
+THA,Thailand,2005,Thaksin Shinawatra,0,5.0,3.0,1
+THA,Thailand,2006,Surayud Chulanont,1,1.0,2.3333333333333335,1
+THA,Thailand,2007,Surayud Chulanont,0,2.0,2.6666666666666665,1
+THA,Thailand,2008,Abhisit Vejjajiva,1,1.0,2.25,1
+THA,Thailand,2009,Abhisit Vejjajiva,0,2.0,2.5,2
+THA,Thailand,2010,Abhisit Vejjajiva,0,3.0,2.75,2
+THA,Thailand,2011,Yingluck Shinawatra,1,1.0,2.4,2
+THA,Thailand,2012,Yingluck Shinawatra,0,2.0,2.6,2
+THA,Thailand,2013,Yingluck Shinawatra,0,3.0,2.8,2
+THA,Thailand,2014,Prayut Chan-o-cha,1,1.0,2.5,1
+THA,Thailand,2015,Prayut Chan-o-cha,0,2.0,2.6666666666666665,2
+THA,Thailand,2016,Prayut Chan-o-cha,0,3.0,2.8333333333333335,2
+THA,Thailand,2017,Prayut Chan-o-cha,0,4.0,3.0,1
+THA,Thailand,2018,Prayut Chan-o-cha,0,5.0,3.1666666666666665,1
+THA,Thailand,2019,Prayut Chan-o-cha,0,6.0,3.3333333333333335,1
+THA,Thailand,2020,Prayut Chan-o-cha,0,7.0,3.5,0
+THA,Thailand,2021,Prayut Chan-o-cha,0,8.0,3.6666666666666665,0
+THA,Thailand,2022,Prayut Chan-o-cha,0,9.0,3.8333333333333335,0
+THA,Thailand,2023,Srettha Thavisin,1,1.0,3.4285714285714284,0
+THA,Thailand,2024,Paetongtarn Shinawatra,1,1.0,3.125,1
+TJK,Tajikistan,2000,,0,,,0
+TJK,Tajikistan,2001,,0,,,0
+TJK,Tajikistan,2002,,0,,,0
+TJK,Tajikistan,2003,,0,,,0
+TJK,Tajikistan,2004,,0,,,0
+TJK,Tajikistan,2005,,0,,,0
+TJK,Tajikistan,2006,,0,,,0
+TJK,Tajikistan,2007,,0,,,0
+TJK,Tajikistan,2008,,0,,,0
+TJK,Tajikistan,2009,,0,,,0
+TJK,Tajikistan,2010,,0,,,0
+TJK,Tajikistan,2011,,0,,,0
+TJK,Tajikistan,2012,,0,,,0
+TJK,Tajikistan,2013,,0,,,0
+TJK,Tajikistan,2014,,0,,,0
+TJK,Tajikistan,2015,,0,,,0
+TJK,Tajikistan,2016,,0,,,0
+TJK,Tajikistan,2017,,0,,,0
+TJK,Tajikistan,2018,,0,,,0
+TJK,Tajikistan,2019,,0,,,0
+TJK,Tajikistan,2020,,0,,,0
+TJK,Tajikistan,2021,,0,,,0
+TJK,Tajikistan,2022,,0,,,0
+TJK,Tajikistan,2023,,0,,,0
+TJK,Tajikistan,2024,,0,,,0
+TKM,Turkmenistan,2000,,0,,,0
+TKM,Turkmenistan,2001,,0,,,0
+TKM,Turkmenistan,2002,,0,,,0
+TKM,Turkmenistan,2003,,0,,,0
+TKM,Turkmenistan,2004,,0,,,0
+TKM,Turkmenistan,2005,,0,,,0
+TKM,Turkmenistan,2006,,0,,,0
+TKM,Turkmenistan,2007,,0,,,0
+TKM,Turkmenistan,2008,,0,,,0
+TKM,Turkmenistan,2009,,0,,,0
+TKM,Turkmenistan,2010,,0,,,0
+TKM,Turkmenistan,2011,,0,,,0
+TKM,Turkmenistan,2012,,0,,,0
+TKM,Turkmenistan,2013,,0,,,0
+TKM,Turkmenistan,2014,,0,,,0
+TKM,Turkmenistan,2015,,0,,,0
+TKM,Turkmenistan,2016,,0,,,0
+TKM,Turkmenistan,2017,,0,,,0
+TKM,Turkmenistan,2018,,0,,,0
+TKM,Turkmenistan,2019,,0,,,0
+TKM,Turkmenistan,2020,,0,,,0
+TKM,Turkmenistan,2021,,0,,,0
+TKM,Turkmenistan,2022,,0,,,0
+TKM,Turkmenistan,2023,,0,,,0
+TKM,Turkmenistan,2024,,0,,,0
+TLS,Timor-Leste,2000,,0,,,0
+TLS,Timor-Leste,2001,Mari Bim Amude Alkatiri,0,1.0,1.0,0
+TLS,Timor-Leste,2002,Mari Bim Amude Alkatiri,0,2.0,2.0,0
+TLS,Timor-Leste,2003,Mari Bim Amude Alkatiri,0,3.0,3.0,0
+TLS,Timor-Leste,2004,Mari Bim Amude Alkatiri,0,4.0,4.0,0
+TLS,Timor-Leste,2005,Mari Bim Amude Alkatiri,0,5.0,5.0,0
+TLS,Timor-Leste,2006,José Manuel Ramos-Horta,1,1.0,3.0,0
+TLS,Timor-Leste,2007,Kay Rala Xanana Gusmão,1,1.0,2.3333333333333335,1
+TLS,Timor-Leste,2008,Kay Rala Xanana Gusmão,0,2.0,2.6666666666666665,2
+TLS,Timor-Leste,2009,Kay Rala Xanana Gusmão,0,3.0,3.0,2
+TLS,Timor-Leste,2010,Kay Rala Xanana Gusmão,0,4.0,3.3333333333333335,2
+TLS,Timor-Leste,2011,Kay Rala Xanana Gusmão,0,5.0,3.6666666666666665,2
+TLS,Timor-Leste,2012,Kay Rala Xanana Gusmão,0,6.0,4.0,1
+TLS,Timor-Leste,2013,Kay Rala Xanana Gusmão,0,7.0,4.333333333333333,0
+TLS,Timor-Leste,2014,Kay Rala Xanana Gusmão,0,8.0,4.666666666666667,0
+TLS,Timor-Leste,2015,Rui Mariade Araújo,1,1.0,3.75,0
+TLS,Timor-Leste,2016,Rui Mariade Araújo,0,2.0,4.0,1
+TLS,Timor-Leste,2017,Mari Bim Amude Alkatiri,1,1.0,3.4,1
+TLS,Timor-Leste,2018,Taur Matan Ruak,1,1.0,3.0,2
+TLS,Timor-Leste,2019,Taur Matan Ruak,0,2.0,3.1666666666666665,3
+TLS,Timor-Leste,2020,Taur Matan Ruak,0,3.0,3.3333333333333335,3
+TLS,Timor-Leste,2021,Taur Matan Ruak,0,4.0,3.5,2
+TLS,Timor-Leste,2022,Taur Matan Ruak,0,5.0,3.6666666666666665,2
+TLS,Timor-Leste,2023,Kay Rala Xanana Gusmão,1,1.0,3.2857142857142856,1
+TLS,Timor-Leste,2024,Kay Rala Xanana Gusmão,0,2.0,3.4285714285714284,1
+TTO,Trinidad and Tobago,2000,Basdeo Panday,0,1.0,1.0,0
+TTO,Trinidad and Tobago,2001,Patrick Augustus Mervyn Manning,1,1.0,1.0,0
+TTO,Trinidad and Tobago,2002,Patrick Augustus Mervyn Manning,0,2.0,1.5,1
+TTO,Trinidad and Tobago,2003,Patrick Augustus Mervyn Manning,0,3.0,2.0,1
+TTO,Trinidad and Tobago,2004,Patrick Augustus Mervyn Manning,0,4.0,2.5,1
+TTO,Trinidad and Tobago,2005,Patrick Augustus Mervyn Manning,0,5.0,3.0,1
+TTO,Trinidad and Tobago,2006,Patrick Augustus Mervyn Manning,0,6.0,3.5,1
+TTO,Trinidad and Tobago,2007,Patrick Augustus Mervyn Manning,0,7.0,4.0,0
+TTO,Trinidad and Tobago,2008,Patrick Augustus Mervyn Manning,0,8.0,4.5,0
+TTO,Trinidad and Tobago,2009,Patrick Augustus Mervyn Manning,0,9.0,5.0,0
+TTO,Trinidad and Tobago,2010,Kamla Persad-Bissessar,1,1.0,3.6666666666666665,0
+TTO,Trinidad and Tobago,2011,Kamla Persad-Bissessar,0,2.0,4.0,1
+TTO,Trinidad and Tobago,2012,Kamla Persad-Bissessar,0,3.0,4.333333333333333,1
+TTO,Trinidad and Tobago,2013,Kamla Persad-Bissessar,0,4.0,4.666666666666667,1
+TTO,Trinidad and Tobago,2014,Kamla Persad-Bissessar,0,5.0,5.0,1
+TTO,Trinidad and Tobago,2015,Keith Christopher Rowley,1,1.0,4.0,1
+TTO,Trinidad and Tobago,2016,Keith Christopher Rowley,0,2.0,4.25,1
+TTO,Trinidad and Tobago,2017,Keith Christopher Rowley,0,3.0,4.5,1
+TTO,Trinidad and Tobago,2018,Keith Christopher Rowley,0,4.0,4.75,1
+TTO,Trinidad and Tobago,2019,Keith Christopher Rowley,0,5.0,5.0,1
+TTO,Trinidad and Tobago,2020,Keith Christopher Rowley,0,6.0,5.25,1
+TTO,Trinidad and Tobago,2021,Keith Christopher Rowley,0,7.0,5.5,0
+TTO,Trinidad and Tobago,2022,Keith Christopher Rowley,0,8.0,5.75,0
+TTO,Trinidad and Tobago,2023,Keith Christopher Rowley,0,9.0,6.0,0
+TTO,Trinidad and Tobago,2024,Keith Christopher Rowley,0,10.0,6.25,0
+TUN,Tunisia,2000,Mohamed Ghannouchi,0,1.0,1.0,0
+TUN,Tunisia,2001,Mohamed Ghannouchi,0,2.0,2.0,0
+TUN,Tunisia,2002,Mohamed Ghannouchi,0,3.0,3.0,0
+TUN,Tunisia,2003,Mohamed Ghannouchi,0,4.0,4.0,0
+TUN,Tunisia,2004,Mohamed Ghannouchi,0,5.0,5.0,0
+TUN,Tunisia,2005,Mohamed Ghannouchi,0,6.0,6.0,0
+TUN,Tunisia,2006,Mohamed Ghannouchi,0,7.0,7.0,0
+TUN,Tunisia,2007,Mohamed Ghannouchi,0,8.0,8.0,0
+TUN,Tunisia,2008,Mohamed Ghannouchi,0,9.0,9.0,0
+TUN,Tunisia,2009,Mohamed Ghannouchi,0,10.0,10.0,0
+TUN,Tunisia,2010,Mohamed Ghannouchi,0,11.0,11.0,0
+TUN,Tunisia,2011,Hamadi Jebali,1,1.0,6.0,0
+TUN,Tunisia,2012,Hamadi Jebali,0,2.0,6.5,1
+TUN,Tunisia,2013,Ali Laarayedh,1,1.0,4.666666666666667,1
+TUN,Tunisia,2014,Mehdi Jomaa,1,1.0,3.75,2
+TUN,Tunisia,2015,Habib Essid,1,1.0,3.2,3
+TUN,Tunisia,2016,Youssef Chahed,1,1.0,2.8333333333333335,4
+TUN,Tunisia,2017,Youssef Chahed,0,2.0,3.0,4
+TUN,Tunisia,2018,Youssef Chahed,0,3.0,3.1666666666666665,4
+TUN,Tunisia,2019,Youssef Chahed,0,4.0,3.3333333333333335,3
+TUN,Tunisia,2020,Hichem Mechichi,1,1.0,3.0,2
+TUN,Tunisia,2021,Najla Bouden,1,1.0,2.75,2
+TUN,Tunisia,2022,Najla Bouden,0,2.0,2.875,2
+TUN,Tunisia,2023,Ahmed Hachani,1,1.0,2.6666666666666665,2
+TUN,Tunisia,2024,Kamel Madouri,1,1.0,2.5,3
+TUR,Türkiye,2000,Mustafa Bülent Ecevit,0,1.0,1.0,0
+TUR,Türkiye,2001,Mustafa Bülent Ecevit,0,2.0,2.0,0
+TUR,Türkiye,2002,Abdullah Gül,1,1.0,1.5,0
+TUR,Türkiye,2003,Recep Tayyip Erdogan,1,1.0,1.3333333333333333,1
+TUR,Türkiye,2004,Recep Tayyip Erdogan,0,2.0,1.6666666666666667,2
+TUR,Türkiye,2005,Recep Tayyip Erdogan,0,3.0,2.0,2
+TUR,Türkiye,2006,Recep Tayyip Erdogan,0,4.0,2.3333333333333335,2
+TUR,Türkiye,2007,Recep Tayyip Erdogan,0,5.0,2.6666666666666665,2
+TUR,Türkiye,2008,Recep Tayyip Erdogan,0,6.0,3.0,1
+TUR,Türkiye,2009,Recep Tayyip Erdogan,0,7.0,3.3333333333333335,0
+TUR,Türkiye,2010,Recep Tayyip Erdogan,0,8.0,3.6666666666666665,0
+TUR,Türkiye,2011,Recep Tayyip Erdogan,0,9.0,4.0,0
+TUR,Türkiye,2012,Recep Tayyip Erdogan,0,10.0,4.333333333333333,0
+TUR,Türkiye,2013,Recep Tayyip Erdogan,0,11.0,4.666666666666667,0
+TUR,Türkiye,2014,Ahmet Davutoğlu,1,1.0,3.75,0
+TUR,Türkiye,2015,Ahmet Davutoğlu,0,2.0,4.0,1
+TUR,Türkiye,2016,Binali Yildirim,1,1.0,3.4,1
+TUR,Türkiye,2017,Binali Yildirim,0,2.0,3.6,2
+TUR,Türkiye,2018,,0,,3.6,2
+TUR,Türkiye,2019,,0,,3.6,2
+TUR,Türkiye,2020,,0,,3.6,1
+TUR,Türkiye,2021,,0,,3.6,1
+TUR,Türkiye,2022,,0,,3.6,0
+TUR,Türkiye,2023,,0,,3.6,0
+TUR,Türkiye,2024,,0,,3.6,0
+TZA,Tanzania,2000,,0,,,0
+TZA,Tanzania,2001,,0,,,0
+TZA,Tanzania,2002,,0,,,0
+TZA,Tanzania,2003,,0,,,0
+TZA,Tanzania,2004,,0,,,0
+TZA,Tanzania,2005,,0,,,0
+TZA,Tanzania,2006,,0,,,0
+TZA,Tanzania,2007,,0,,,0
+TZA,Tanzania,2008,,0,,,0
+TZA,Tanzania,2009,,0,,,0
+TZA,Tanzania,2010,,0,,,0
+TZA,Tanzania,2011,,0,,,0
+TZA,Tanzania,2012,,0,,,0
+TZA,Tanzania,2013,,0,,,0
+TZA,Tanzania,2014,,0,,,0
+TZA,Tanzania,2015,,0,,,0
+TZA,Tanzania,2016,,0,,,0
+TZA,Tanzania,2017,,0,,,0
+TZA,Tanzania,2018,,0,,,0
+TZA,Tanzania,2019,,0,,,0
+TZA,Tanzania,2020,,0,,,0
+TZA,Tanzania,2021,,0,,,0
+TZA,Tanzania,2022,,0,,,0
+TZA,Tanzania,2023,,0,,,0
+TZA,Tanzania,2024,,0,,,0
+UGA,Uganda,2000,,0,,,0
+UGA,Uganda,2001,,0,,,0
+UGA,Uganda,2002,,0,,,0
+UGA,Uganda,2003,,0,,,0
+UGA,Uganda,2004,,0,,,0
+UGA,Uganda,2005,,0,,,0
+UGA,Uganda,2006,,0,,,0
+UGA,Uganda,2007,,0,,,0
+UGA,Uganda,2008,,0,,,0
+UGA,Uganda,2009,,0,,,0
+UGA,Uganda,2010,,0,,,0
+UGA,Uganda,2011,,0,,,0
+UGA,Uganda,2012,,0,,,0
+UGA,Uganda,2013,,0,,,0
+UGA,Uganda,2014,,0,,,0
+UGA,Uganda,2015,,0,,,0
+UGA,Uganda,2016,,0,,,0
+UGA,Uganda,2017,,0,,,0
+UGA,Uganda,2018,,0,,,0
+UGA,Uganda,2019,,0,,,0
+UGA,Uganda,2020,,0,,,0
+UGA,Uganda,2021,,0,,,0
+UGA,Uganda,2022,,0,,,0
+UGA,Uganda,2023,,0,,,0
+UGA,Uganda,2024,,0,,,0
+UKR,Ukraine,2000,Viktor Andriyovich Yushchenko,0,1.0,1.0,0
+UKR,Ukraine,2001,Anatolii Kyrylovych Kinakh,1,1.0,1.0,0
+UKR,Ukraine,2002,Viktor Fedorovych Yanukovych,1,1.0,1.0,1
+UKR,Ukraine,2003,Viktor Fedorovych Yanukovych,0,2.0,1.3333333333333333,2
+UKR,Ukraine,2004,Viktor Fedorovych Yanukovych,0,3.0,1.6666666666666667,2
+UKR,Ukraine,2005,YuriiIvanovych Yekhanurov,1,1.0,1.5,2
+UKR,Ukraine,2006,Viktor Fedorovych Yanukovych,1,1.0,1.4,3
+UKR,Ukraine,2007,Yulia Volodymyrivna Tymoshenko,1,1.0,1.3333333333333333,3
+UKR,Ukraine,2008,Yulia Volodymyrivna Tymoshenko,0,2.0,1.5,3
+UKR,Ukraine,2009,Yulia Volodymyrivna Tymoshenko,0,3.0,1.6666666666666667,3
+UKR,Ukraine,2010,Mykola Yanovych Azarov,1,1.0,1.5714285714285714,3
+UKR,Ukraine,2011,Mykola Yanovych Azarov,0,2.0,1.7142857142857142,3
+UKR,Ukraine,2012,Mykola Yanovych Azarov,0,3.0,1.8571428571428572,2
+UKR,Ukraine,2013,Mykola Yanovych Azarov,0,4.0,2.0,1
+UKR,Ukraine,2014,Arseniy Petrovych Yatsenyuk,1,1.0,1.875,1
+UKR,Ukraine,2015,Arseniy Petrovych Yatsenyuk,0,2.0,2.0,2
+UKR,Ukraine,2016,Volodymyr Borysovych Groysman,1,1.0,1.8888888888888888,1
+UKR,Ukraine,2017,Volodymyr Borysovych Groysman,0,2.0,2.0,2
+UKR,Ukraine,2018,Volodymyr Borysovych Groysman,0,3.0,2.111111111111111,2
+UKR,Ukraine,2019,Oleksiy Valeriyovych Honcharuk,1,1.0,2.0,2
+UKR,Ukraine,2020,Denys Anatoliyovych Shmyhal,1,1.0,1.9090909090909092,2
+UKR,Ukraine,2021,Denys Anatoliyovych Shmyhal,0,2.0,2.0,3
+UKR,Ukraine,2022,Denys Anatoliyovych Shmyhal,0,3.0,2.090909090909091,2
+UKR,Ukraine,2023,Denys Anatoliyovych Shmyhal,0,4.0,2.1818181818181817,2
+UKR,Ukraine,2024,Denys Anatoliyovych Shmyhal,0,5.0,2.272727272727273,2
+URY,Uruguay,2000,,0,,,0
+URY,Uruguay,2001,,0,,,0
+URY,Uruguay,2002,,0,,,0
+URY,Uruguay,2003,,0,,,0
+URY,Uruguay,2004,,0,,,0
+URY,Uruguay,2005,,0,,,0
+URY,Uruguay,2006,,0,,,0
+URY,Uruguay,2007,,0,,,0
+URY,Uruguay,2008,,0,,,0
+URY,Uruguay,2009,,0,,,0
+URY,Uruguay,2010,,0,,,0
+URY,Uruguay,2011,,0,,,0
+URY,Uruguay,2012,,0,,,0
+URY,Uruguay,2013,,0,,,0
+URY,Uruguay,2014,,0,,,0
+URY,Uruguay,2015,,0,,,0
+URY,Uruguay,2016,,0,,,0
+URY,Uruguay,2017,,0,,,0
+URY,Uruguay,2018,,0,,,0
+URY,Uruguay,2019,,0,,,0
+URY,Uruguay,2020,,0,,,0
+URY,Uruguay,2021,,0,,,0
+URY,Uruguay,2022,,0,,,0
+URY,Uruguay,2023,,0,,,0
+URY,Uruguay,2024,,0,,,0
+USA,United States of America,2000,,0,,,0
+USA,United States of America,2001,,0,,,0
+USA,United States of America,2002,,0,,,0
+USA,United States of America,2003,,0,,,0
+USA,United States of America,2004,,0,,,0
+USA,United States of America,2005,,0,,,0
+USA,United States of America,2006,,0,,,0
+USA,United States of America,2007,,0,,,0
+USA,United States of America,2008,,0,,,0
+USA,United States of America,2009,,0,,,0
+USA,United States of America,2010,,0,,,0
+USA,United States of America,2011,,0,,,0
+USA,United States of America,2012,,0,,,0
+USA,United States of America,2013,,0,,,0
+USA,United States of America,2014,,0,,,0
+USA,United States of America,2015,,0,,,0
+USA,United States of America,2016,,0,,,0
+USA,United States of America,2017,,0,,,0
+USA,United States of America,2018,,0,,,0
+USA,United States of America,2019,,0,,,0
+USA,United States of America,2020,,0,,,0
+USA,United States of America,2021,,0,,,0
+USA,United States of America,2022,,0,,,0
+USA,United States of America,2023,,0,,,0
+USA,United States of America,2024,,0,,,0
+UZB,Uzbekistan,2000,,0,,,0
+UZB,Uzbekistan,2001,,0,,,0
+UZB,Uzbekistan,2002,,0,,,0
+UZB,Uzbekistan,2003,,0,,,0
+UZB,Uzbekistan,2004,,0,,,0
+UZB,Uzbekistan,2005,,0,,,0
+UZB,Uzbekistan,2006,,0,,,0
+UZB,Uzbekistan,2007,,0,,,0
+UZB,Uzbekistan,2008,,0,,,0
+UZB,Uzbekistan,2009,,0,,,0
+UZB,Uzbekistan,2010,,0,,,0
+UZB,Uzbekistan,2011,,0,,,0
+UZB,Uzbekistan,2012,,0,,,0
+UZB,Uzbekistan,2013,,0,,,0
+UZB,Uzbekistan,2014,,0,,,0
+UZB,Uzbekistan,2015,,0,,,0
+UZB,Uzbekistan,2016,,0,,,0
+UZB,Uzbekistan,2017,,0,,,0
+UZB,Uzbekistan,2018,,0,,,0
+UZB,Uzbekistan,2019,,0,,,0
+UZB,Uzbekistan,2020,,0,,,0
+UZB,Uzbekistan,2021,,0,,,0
+UZB,Uzbekistan,2022,,0,,,0
+UZB,Uzbekistan,2023,,0,,,0
+UZB,Uzbekistan,2024,,0,,,0
+VEN,Venezuela,2000,,0,,,0
+VEN,Venezuela,2001,,0,,,0
+VEN,Venezuela,2002,,0,,,0
+VEN,Venezuela,2003,,0,,,0
+VEN,Venezuela,2004,,0,,,0
+VEN,Venezuela,2005,,0,,,0
+VEN,Venezuela,2006,,0,,,0
+VEN,Venezuela,2007,,0,,,0
+VEN,Venezuela,2008,,0,,,0
+VEN,Venezuela,2009,,0,,,0
+VEN,Venezuela,2010,,0,,,0
+VEN,Venezuela,2011,,0,,,0
+VEN,Venezuela,2012,,0,,,0
+VEN,Venezuela,2013,,0,,,0
+VEN,Venezuela,2014,,0,,,0
+VEN,Venezuela,2015,,0,,,0
+VEN,Venezuela,2016,,0,,,0
+VEN,Venezuela,2017,,0,,,0
+VEN,Venezuela,2018,,0,,,0
+VEN,Venezuela,2019,,0,,,0
+VEN,Venezuela,2020,,0,,,0
+VEN,Venezuela,2021,,0,,,0
+VEN,Venezuela,2022,,0,,,0
+VEN,Venezuela,2023,,0,,,0
+VEN,Venezuela,2024,,0,,,0
+VNM,Vietnam,2000,Le Kha Phieu,0,1.0,1.0,0
+VNM,Vietnam,2001,Nong Duc Manh,1,1.0,1.0,0
+VNM,Vietnam,2002,Nong Duc Manh,0,2.0,1.5,1
+VNM,Vietnam,2003,Nong Duc Manh,0,3.0,2.0,1
+VNM,Vietnam,2004,Nong Duc Manh,0,4.0,2.5,1
+VNM,Vietnam,2005,Nong Duc Manh,0,5.0,3.0,1
+VNM,Vietnam,2006,Nong Duc Manh,0,6.0,3.5,1
+VNM,Vietnam,2007,Nong Duc Manh,0,7.0,4.0,0
+VNM,Vietnam,2008,Nong Duc Manh,0,8.0,4.5,0
+VNM,Vietnam,2009,Nong Duc Manh,0,9.0,5.0,0
+VNM,Vietnam,2010,Nong Duc Manh,0,10.0,5.5,0
+VNM,Vietnam,2011,Nguyen Phu Trong,1,1.0,4.0,0
+VNM,Vietnam,2012,Nguyen Phu Trong,0,2.0,4.333333333333333,1
+VNM,Vietnam,2013,Nguyen Phu Trong,0,3.0,4.666666666666667,1
+VNM,Vietnam,2014,Nguyen Phu Trong,0,4.0,5.0,1
+VNM,Vietnam,2015,Nguyen Phu Trong,0,5.0,5.333333333333333,1
+VNM,Vietnam,2016,Nguyen Phu Trong,0,6.0,5.666666666666667,1
+VNM,Vietnam,2017,Nguyen Phu Trong,0,7.0,6.0,0
+VNM,Vietnam,2018,Nguyen Xuan Phuc,1,1.0,4.75,0
+VNM,Vietnam,2019,Nguyen Xuan Phuc,0,2.0,5.0,1
+VNM,Vietnam,2020,Nguyen Xuan Phuc,0,3.0,5.25,1
+VNM,Vietnam,2021,Nguyen Phu Trong,1,1.0,4.4,1
+VNM,Vietnam,2022,Nguyen Phu Trong,0,2.0,4.6,2
+VNM,Vietnam,2023,Nguyen Phu Trong,0,3.0,4.8,2
+VNM,Vietnam,2024,To Lam,1,1.0,4.166666666666667,1
+VUT,Vanuatu,2000,Barak Tame Sopé Mautamata,0,1.0,1.0,0
+VUT,Vanuatu,2001,Nipake Edward Natapei Tua Fanua`ariki,1,1.0,1.0,0
+VUT,Vanuatu,2002,Nipake Edward Natapei Tua Fanua`ariki,0,2.0,1.5,1
+VUT,Vanuatu,2003,Nipake Edward Natapei Tua Fanua`ariki,0,3.0,2.0,1
+VUT,Vanuatu,2004,Ham Lini Vanuarora,1,1.0,1.6666666666666667,1
+VUT,Vanuatu,2005,Ham Lini Vanuarora,0,2.0,2.0,2
+VUT,Vanuatu,2006,Ham Lini Vanuarora,0,3.0,2.3333333333333335,2
+VUT,Vanuatu,2007,Ham Lini Vanuarora,0,4.0,2.6666666666666665,1
+VUT,Vanuatu,2008,Nipake Edward Natapei Tua Fanua`ariki,1,1.0,2.25,1
+VUT,Vanuatu,2009,Nipake Edward Natapei Tua Fanua`ariki,0,2.0,2.5,2
+VUT,Vanuatu,2010,Meltek Sato Kilman Livtunvanu,1,1.0,2.2,1
+VUT,Vanuatu,2011,Meltek Sato Kilman Livtunvanu,0,2.0,2.4,2
+VUT,Vanuatu,2012,Meltek Sato Kilman Livtunvanu,0,3.0,2.6,2
+VUT,Vanuatu,2013,Moana Carcasses Kalosil,1,1.0,2.3333333333333335,2
+VUT,Vanuatu,2014,Joe Natuman,1,1.0,2.142857142857143,2
+VUT,Vanuatu,2015,Meltek Sato Kilman Livtunvanu,1,1.0,2.0,3
+VUT,Vanuatu,2016,Charlot Salwai Tabimasmas,1,1.0,1.8888888888888888,3
+VUT,Vanuatu,2017,Charlot Salwai Tabimasmas,0,2.0,2.0,4
+VUT,Vanuatu,2018,Charlot Salwai Tabimasmas,0,3.0,2.111111111111111,4
+VUT,Vanuatu,2019,Charlot Salwai,1,1.0,2.0,3
+VUT,Vanuatu,2020,Bob Loughman,1,1.0,1.9090909090909092,3
+VUT,Vanuatu,2021,Bob Loughman,0,2.0,2.0,3
+VUT,Vanuatu,2022,Alatoi Ishmael Kalsakau,1,1.0,1.9166666666666667,2
+VUT,Vanuatu,2023,Charlot Salwai Tabimasmas,1,1.0,1.8461538461538463,3
+VUT,Vanuatu,2024,Charlot Salwai Tabimasmas,0,2.0,1.9230769230769231,4
+XKX,Kosovo,2000,,0,,,0
+XKX,Kosovo,2001,,0,,,0
+XKX,Kosovo,2002,Bajram Rexhepi,0,1.0,1.0,0
+XKX,Kosovo,2003,Bajram Rexhepi,0,2.0,2.0,0
+XKX,Kosovo,2004,Bajram Rexhepi,0,3.0,3.0,0
+XKX,Kosovo,2005,Bajram Kosumi,1,1.0,2.0,0
+XKX,Kosovo,2006,Agim Çeku,1,1.0,1.6666666666666667,1
+XKX,Kosovo,2007,Agim Çeku,0,2.0,2.0,2
+XKX,Kosovo,2008,Hashim Thaçi,1,1.0,1.75,2
+XKX,Kosovo,2009,Hashim Thaçi,0,2.0,2.0,3
+XKX,Kosovo,2010,Hashim Thaçi,0,3.0,2.25,3
+XKX,Kosovo,2011,Hashim Thaçi,0,4.0,2.5,2
+XKX,Kosovo,2012,Hashim Thaçi,0,5.0,2.75,1
+XKX,Kosovo,2013,Hashim Thaçi,0,6.0,3.0,1
+XKX,Kosovo,2014,Isa Mustafa,1,1.0,2.6,0
+XKX,Kosovo,2015,Isa Mustafa,0,2.0,2.8,1
+XKX,Kosovo,2016,Isa Mustafa,0,3.0,3.0,1
+XKX,Kosovo,2017,Ramush Haradinaj,1,1.0,2.6666666666666665,1
+XKX,Kosovo,2018,Ramush Haradinaj,0,2.0,2.8333333333333335,2
+XKX,Kosovo,2019,Ramush Haradinaj,0,3.0,3.0,2
+XKX,Kosovo,2020,Avdullah Hoti,1,1.0,2.7142857142857144,1
+XKX,Kosovo,2021,Albin Kurti,1,1.0,2.5,2
+XKX,Kosovo,2022,Albin Kurti,0,2.0,2.625,3
+XKX,Kosovo,2023,Albin Kurti,0,3.0,2.75,2
+XKX,Kosovo,2024,Albin Kurti,0,4.0,2.875,2
+YEM,Yemen,2000,Abdul Karim Ali al-Iryani,0,1.0,1.0,0
+YEM,Yemen,2001,Abdul Qader Bajamal,1,1.0,1.0,0
+YEM,Yemen,2002,Abdul Qader Bajamal,0,2.0,1.5,1
+YEM,Yemen,2003,Abdul Qader Bajamal,0,3.0,2.0,1
+YEM,Yemen,2004,Abdul Qader Bajamal,0,4.0,2.5,1
+YEM,Yemen,2005,Abdul Qader Bajamal,0,5.0,3.0,1
+YEM,Yemen,2006,Abdul Qader Bajamal,0,6.0,3.5,1
+YEM,Yemen,2007,Ali Muhammad Mujawar,1,1.0,2.6666666666666665,0
+YEM,Yemen,2008,Ali Muhammad Mujawar,0,2.0,3.0,1
+YEM,Yemen,2009,Ali Muhammad Mujawar,0,3.0,3.3333333333333335,1
+YEM,Yemen,2010,Ali Muhammad Mujawar,0,4.0,3.6666666666666665,1
+YEM,Yemen,2011,Muhammad Salim Basindwah,1,1.0,3.0,1
+YEM,Yemen,2012,Muhammad Salim Basindwah,0,2.0,3.25,2
+YEM,Yemen,2013,Muhammad Salim Basindwah,0,3.0,3.5,1
+YEM,Yemen,2014,Khaled Mahafoudh Bahah,1,1.0,3.0,1
+YEM,Yemen,2015,Khaled Mahafoudh Bahah,0,2.0,3.2,2
+YEM,Yemen,2016,Ahmad Obaid Bin Daghr,1,1.0,2.8333333333333335,2
+YEM,Yemen,2017,Ahmad Obaid Bin Daghr,0,2.0,3.0,2
+YEM,Yemen,2018,Maeen Abdulmalik Saeed,1,1.0,2.7142857142857144,2
+YEM,Yemen,2019,Maeen Abdulmalik Saeed,0,2.0,2.857142857142857,3
+YEM,Yemen,2020,Maeen Abdulmalik Saeed,0,3.0,3.0,2
+YEM,Yemen,2021,Maeen Abdulmalik Saeed,0,4.0,3.142857142857143,2
+YEM,Yemen,2022,Maeen Abdulmalik Saeed,0,5.0,3.2857142857142856,1
+YEM,Yemen,2023,Maeen Abdulmalik Saeed,0,6.0,3.4285714285714284,1
+YEM,Yemen,2024,Ahmad Awad bin Mubarak,1,1.0,3.125,0
+ZAF,South Africa,2000,,0,,,0
+ZAF,South Africa,2001,,0,,,0
+ZAF,South Africa,2002,,0,,,0
+ZAF,South Africa,2003,,0,,,0
+ZAF,South Africa,2004,,0,,,0
+ZAF,South Africa,2005,,0,,,0
+ZAF,South Africa,2006,,0,,,0
+ZAF,South Africa,2007,,0,,,0
+ZAF,South Africa,2008,,0,,,0
+ZAF,South Africa,2009,,0,,,0
+ZAF,South Africa,2010,,0,,,0
+ZAF,South Africa,2011,,0,,,0
+ZAF,South Africa,2012,,0,,,0
+ZAF,South Africa,2013,,0,,,0
+ZAF,South Africa,2014,,0,,,0
+ZAF,South Africa,2015,,0,,,0
+ZAF,South Africa,2016,,0,,,0
+ZAF,South Africa,2017,,0,,,0
+ZAF,South Africa,2018,,0,,,0
+ZAF,South Africa,2019,,0,,,0
+ZAF,South Africa,2020,,0,,,0
+ZAF,South Africa,2021,,0,,,0
+ZAF,South Africa,2022,,0,,,0
+ZAF,South Africa,2023,,0,,,0
+ZAF,South Africa,2024,,0,,,0
+ZMB,Zambia,2000,,0,,,0
+ZMB,Zambia,2001,,0,,,0
+ZMB,Zambia,2002,,0,,,0
+ZMB,Zambia,2003,,0,,,0
+ZMB,Zambia,2004,,0,,,0
+ZMB,Zambia,2005,,0,,,0
+ZMB,Zambia,2006,,0,,,0
+ZMB,Zambia,2007,,0,,,0
+ZMB,Zambia,2008,,0,,,0
+ZMB,Zambia,2009,,0,,,0
+ZMB,Zambia,2010,,0,,,0
+ZMB,Zambia,2011,,0,,,0
+ZMB,Zambia,2012,,0,,,0
+ZMB,Zambia,2013,,0,,,0
+ZMB,Zambia,2014,,0,,,0
+ZMB,Zambia,2015,,0,,,0
+ZMB,Zambia,2016,,0,,,0
+ZMB,Zambia,2017,,0,,,0
+ZMB,Zambia,2018,,0,,,0
+ZMB,Zambia,2019,,0,,,0
+ZMB,Zambia,2020,,0,,,0
+ZMB,Zambia,2021,,0,,,0
+ZMB,Zambia,2022,,0,,,0
+ZMB,Zambia,2023,,0,,,0
+ZMB,Zambia,2024,,0,,,0
+ZWE,Zimbabwe,2000,,0,,,0
+ZWE,Zimbabwe,2001,,0,,,0
+ZWE,Zimbabwe,2002,,0,,,0
+ZWE,Zimbabwe,2003,,0,,,0
+ZWE,Zimbabwe,2004,,0,,,0
+ZWE,Zimbabwe,2005,,0,,,0
+ZWE,Zimbabwe,2006,,0,,,0
+ZWE,Zimbabwe,2007,,0,,,0
+ZWE,Zimbabwe,2008,,0,,,0
+ZWE,Zimbabwe,2009,Morgan Tsvangirai,0,1.0,1.0,0
+ZWE,Zimbabwe,2010,Morgan Tsvangirai,0,2.0,2.0,0
+ZWE,Zimbabwe,2011,Morgan Tsvangirai,0,3.0,3.0,0
+ZWE,Zimbabwe,2012,Morgan Tsvangirai,0,4.0,4.0,0
+ZWE,Zimbabwe,2013,,0,,4.0,0
+ZWE,Zimbabwe,2014,,0,,4.0,0
+ZWE,Zimbabwe,2015,,0,,4.0,0
+ZWE,Zimbabwe,2016,,0,,4.0,0
+ZWE,Zimbabwe,2017,,0,,4.0,0
+ZWE,Zimbabwe,2018,,0,,4.0,0
+ZWE,Zimbabwe,2019,,0,,4.0,0
+ZWE,Zimbabwe,2020,,0,,4.0,0
+ZWE,Zimbabwe,2021,,0,,4.0,0
+ZWE,Zimbabwe,2022,,0,,4.0,0
+ZWE,Zimbabwe,2023,,0,,4.0,0
+ZWE,Zimbabwe,2024,,0,,4.0,0

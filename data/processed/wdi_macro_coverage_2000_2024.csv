@@ -1,0 +1,10 @@
+﻿variable,indicator_code,observations_available,countries_with_data,first_year,last_year,possible_observations,coverage_pct
+exchange_rate_lcu_per_usd,PA.NUS.FCRF,5170,213,2000,2024,5425,95.3
+gdp_growth_pct,NY.GDP.MKTP.KD.ZG,5168,214,2000,2024,5425,95.26
+gdp_per_capita_constant_2015_usd,NY.GDP.PCAP.KD,5159,213,2000,2024,5425,95.1
+gdp_per_capita_ppp_constant_2021_intl_usd,NY.GDP.PCAP.PP.KD,4916,199,2000,2024,5425,90.62
+gdp_ppp_constant_2021_intl_usd,NY.GDP.MKTP.PP.KD,4916,199,2000,2024,5425,90.62
+unemployment_pct,SL.UEM.TOTL.ZS,4666,187,2000,2024,5425,86.01
+inflation_cpi_pct,FP.CPI.TOTL.ZG,4519,193,2000,2024,5425,83.3
+investment_pct_gdp,NE.GDI.TOTL.ZS,4273,185,2000,2024,5425,78.76
+gross_savings_pct_gdp,NY.GNS.ICTR.ZS,3827,178,2000,2024,5425,70.54

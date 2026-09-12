@@ -1,0 +1,75 @@
+﻿iso3,entity_source,status,successful_slug,attempted_slugs,events_found,error
+AFG,Afghanistan,rating_not_found,,afghanistan,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+DZA,Algeria,rating_not_found,,algeria,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+ASM,American Samoa,rating_not_found,,american-samoa,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+ATG,Antigua and Barbuda,rating_not_found,,antigua-and-barbuda,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+ABW,Aruba,rating_found,aruba,aruba,14,
+BMU,Bermuda,rating_found,bermuda,bermuda,15,
+BTN,Bhutan,rating_not_found,,bhutan,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+VGB,British Virgin Islands,rating_not_found,,british-virgin-islands,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+BRN,Brunei Darussalam,rating_not_found,,brunei | brunei-darussalam,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+BDI,Burundi,rating_not_found,,burundi,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+CYM,Cayman Islands,rating_found,cayman-islands,cayman-islands,1,
+CAF,Central African Republic,rating_not_found,,central-african-republic,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+TCD,Chad,rating_found,chad,chad,1,
+CHI,Channel Islands,rating_not_found,,channel-islands,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+COM,Comoros,rating_not_found,,comoros,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+CUW,Curacao,rating_not_found,,curacao,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+DJI,Djibouti,rating_not_found,,djibouti,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+DMA,Dominica,rating_not_found,,dominica,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+GNQ,Equatorial Guinea,rating_not_found,,equatorial-guinea,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+ERI,Eritrea,rating_not_found,,eritrea,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+SWZ,Eswatini,rating_found,swaziland,eswatini | swaziland,6,
+FRO,Faroe Islands,rating_not_found,,faroe-islands,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+PYF,French Polynesia,rating_not_found,,french-polynesia,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+GIB,Gibraltar,rating_not_found,,gibraltar,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+GRL,Greenland,rating_not_found,,greenland,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+GUM,Guam,rating_not_found,,guam,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+GIN,Guinea,rating_found,guinea,guinea,2,
+GNB,Guinea-Bissau,rating_not_found,,guinea-bissau,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+GUY,Guyana,rating_not_found,,guyana,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+HTI,Haiti,rating_not_found,,haiti,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+IMN,Isle of Man,rating_found,isle-of-man,isle-of-man,14,
+KIR,Kiribati,rating_not_found,,kiribati,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+PRK,"Korea, Dem. People's Rep.",rating_not_found,,north-korea | korea-dem-peoples-rep | korea,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+XKX,Kosovo,rating_not_found,,kosovo,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+KGZ,Kyrgyz Republic,rating_found,kyrgyzstan,kyrgyzstan,10,
+LBR,Liberia,rating_not_found,,liberia,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+MAC,"Macao SAR, China",rating_found,macau,macau,13,
+MDG,Madagascar,rating_found,madagascar,madagascar,4,
+MHL,Marshall Islands,rating_not_found,,marshall-islands,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+MRT,Mauritania,rating_not_found,,mauritania,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+FSM,"Micronesia, Fed. Sts.",rating_not_found,,micronesia | micronesia-fed-sts,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+MCO,Monaco,rating_not_found,,monaco,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+MMR,Myanmar,rating_not_found,,myanmar | burma,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+NRU,Naoero,rating_not_found,,nauru | naoero,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+NPL,Nepal,rating_not_found,,nepal,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+NCL,New Caledonia,rating_not_found,,new-caledonia,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+NER,Niger,rating_found,niger,niger,4,
+MNP,Northern Mariana Islands,rating_not_found,,northern-mariana-islands,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+PLW,Palau,rating_not_found,,palau,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+PRI,Puerto Rico (US),rating_found,puerto-rico,puerto-rico-us | puerto-rico,1,
+WSM,Samoa,rating_not_found,,samoa,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+STP,Sao Tome and Principe,rating_not_found,,sao-tome-and-principe,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+SLE,Sierra Leone,rating_not_found,,sierra-leone,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+SXM,Sint Maarten (Dutch part),rating_not_found,,sint-maarten | sint-maarten-dutch-part,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+SLB,Solomon Islands,rating_found,solomon-islands,solomon-islands,2,
+SOM,"Somalia, Fed. Rep.",rating_not_found,,somalia-fed-rep | somalia,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+SSD,South Sudan,rating_not_found,,south-sudan,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+KNA,St. Kitts and Nevis,rating_not_found,,saint-kitts-and-nevis | st-kitts-and-nevis,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+LCA,St. Lucia,rating_not_found,,saint-lucia | st-lucia,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+MAF,St. Martin (French part),rating_not_found,,saint-martin | st-martin | st-martin-french-part,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+SDN,Sudan,rating_not_found,,sudan,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+SYR,Syrian Arab Republic,rating_not_found,,syria | syrian-arab-republic,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+TJK,Tajikistan,rating_found,tajikistan,tajikistan,11,
+TZA,Tanzania,rating_found,tanzania,tanzania,4,
+TLS,Timor-Leste,rating_not_found,,timor-leste | east-timor,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+TGO,Togo,rating_found,togo,togo,6,
+TON,Tonga,rating_not_found,,tonga,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+TCA,Turks and Caicos Islands,rating_not_found,,turks-and-caicos-islands,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+TUV,Tuvalu,rating_not_found,,tuvalu,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+VUT,Vanuatu,rating_not_found,,vanuatu,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+VIR,Virgin Islands (U.S.),rating_not_found,,us-virgin-islands | virgin-islands | virgin-islands-u-s,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+PSE,West Bank and Gaza,rating_not_found,,palestine | west-bank-and-gaza,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+YEM,"Yemen, Rep.",rating_not_found,,yemen | yemen-rep,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.
+ZWE,Zimbabwe,rating_not_found,,zimbabwe,0,`Import html5lib` failed.  Use pip or conda to install the html5lib package.

@@ -1,0 +1,7 @@
+﻿,count,missing_values,missing_pct
+sovereign_debt_in_default_usd_mn,5425.0,0,0.0
+sovereign_default_dummy,5425.0,0,0.0
+default_previous_5y,5425.0,0,0.0
+default_previous_10y,5425.0,0,0.0
+years_since_last_default,5425.0,0,0.0
+never_default_history_dummy,5425.0,0,0.0
